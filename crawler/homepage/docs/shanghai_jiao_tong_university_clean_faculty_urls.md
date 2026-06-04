@@ -1,0 +1,1251 @@
+# Shanghai Jiao Tong University Clean Faculty URLs
+
+- 白 石
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/baishi.html
+- 白婷
+  - https://sais.sjtu.edu.cn/faculty/1611.html
+  - https://tingbai.com.cn/
+- 白洋
+  - https://sais.sjtu.edu.cn/faculty/baiyang.html
+- 鲍其莲
+  - https://sais.sjtu.edu.cn/faculty/baoqilian.html
+- 蔡鸿明
+  - https://ist.sjtu.edu.cn/memberscaihm
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/caihongming.html
+- 蔡盼盼
+  - https://cindycia.github.io/
+  - https://soai.sjtu.edu.cn/cn/facultydetails/zzjs/caipanpan
+- 蔡云泽
+  - https://sais.sjtu.edu.cn/faculty/caiyunze.html
+- 曹 健
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/caojian.html
+- 曹 培
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/caopei.html
+- 曹成喜
+  - https://sais.sjtu.edu.cn/faculty/caochengxi.html
+- 曹钦翔
+  - https://soai.sjtu.edu.cn/cn/facultydetails/zzjs/caoqinxiang
+- 曾贵华
+  - https://sais.sjtu.edu.cn/faculty/zengguihua.html
+- 柴洪峰
+  - https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=28
+- 陈 晨
+  - https://jhc.sjtu.edu.cn/~chen-chen/
+- 陈 露
+  - https://coai-sjtu.github.io
+- 陈 全
+  - https://www.cs.sjtu.edu.cn/~chen-quan/
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/chenquan.html
+- 陈 榕
+  - https://ipads.se.sjtu.edu.cn/rong_chen
+- 陈 谐
+  - https://faculty.sjtu.edu.cn/chenxie/zh_CN/zsxx/578699/list/index.htm
+- 陈彩莲
+  - https://sais.sjtu.edu.cn/faculty/chencailian.html
+- 陈东尧
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/chendongyao.html
+- 陈恭亮
+  - https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=33
+- 陈贵海
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/chenguihai.html
+- 陈国兴
+  - https://donnod.github.io/
+- 陈海波
+  - https://ipads.se.sjtu.edu.cn/haibo_chen
+- 陈昊鹏
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/chenhaopeng.html
+- 陈颢天
+  - https://hytn.github.io/
+  - https://soai.sjtu.edu.cn/cn/facultydetails/zzjs/chenhaotian
+- 陈宏田
+  - https://sais.sjtu.edu.cn/faculty/chenhongtian.html
+- 陈黎兴
+  - https://lx-chen-sjtu.github.io/
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/chenlixing.html
+- 陈力波
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/chenlibo.html
+- 陈立鹏
+  - https://lipeng-chen.github.io/JoinUs/
+- 陈明达
+  - https://mingdachen.github.io/
+  - https://soai.sjtu.edu.cn/cn/facultydetails/zzjs/chenmingda
+- 陈思衡
+  - https://siheng-chen.github.io/
+  - https://soai.sjtu.edu.cn/cn/facultydetails/zzjs/sihengc
+- 陈卫东
+  - https://faculty.sjtu.edu.cn/chenweidong/zh_CN/zsxx/91935/list/index.htm
+- 陈晓桦
+  - https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=27
+- 陈新
+  - https://sais.sjtu.edu.cn/faculty/chenxin.html
+- 陈秀真
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/chenxiuzhen.html
+- 陈奕超
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/chenyichao.html
+  - https://yichao0319.github.io/
+- 陈翌佳
+  - https://basics.sjtu.edu.cn/~chen/
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/chenyijia.html
+- 陈勇波
+  - https://sites.google.com/view/yongbochen/home
+  - https://sais.sjtu.edu.cn/faculty/chenyongbo.html
+- 陈游旻
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/chenyoumin.html
+- 陈友仁
+  - https://sais.sjtu.edu.cn/faculty/chenyouren.html
+- 陈雨亭
+  - https://cs.sjtu.edu.cn/cse/PeopleDetail.aspx?id=322
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/chenyuting.html
+- 陈玉泉
+  - https://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=110
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/chenyuquan.html
+- 程 帆
+  - https://en.zhiyuan.sjtu.edu.cn/en/faculty/852/detail
+  - https://cs.sjtu.edu.cn/cse/PeopleDetail.aspx?id=360
+- 程昊
+  - https://sais.sjtu.edu.cn/faculty/chenghao.html
+- 程远
+  - https://cyuan328.github.io/position/
+- 崔大祥
+  - https://sais.sjtu.edu.cn/faculty/cuidaxiang.html
+- 崔少波
+  - https://shaobo.info/
+  - https://soai.sjtu.edu.cn/cn/facultydetails/zzjs/cuishaobo
+- 代彬
+  - https://sais.sjtu.edu.cn/faculty/daibin.html
+- 戴 文睿
+  - https://cs.sjtu.edu.cn/cse/PeopleDetail.aspx?id=418
+  - https://icisee.sjtu.edu.cn/jiaoshiml/2851.html
+- 戴国浩
+  - https://dai.sjtu.edu.cn
+  - https://soai.sjtu.edu.cn/cn/facultydetails/zzjs/daiguohao
+- 戴文斌
+  - https://sais.sjtu.edu.cn/faculty/daiwenbin.html
+- 单蓉胜
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/shanrongsheng.html
+- 邓倩妮
+  - https://cs.sjtu.edu.cn/cse/PeopleDetail.aspx?id=105
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/dengqianni.html
+- 邓志杰
+  - https://thudzj.github.io/
+- 丁 宁
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/dingning.html
+- 丁 玥
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/dingyue.html
+- 丁国清
+  - https://sais.sjtu.edu.cn/faculty/dingguoqing.html
+- 丁家昕
+  - https://jhc.sjtu.edu.cn/~jiaxinding/
+- 董明凯
+  - https://dong.mk/
+  - https://ipads.se.sjtu.edu.cn/zh/pub/members/mingkai_dong/
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/dongmingkai.html
+- 董笑菊
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/dongxiaoju.html
+- 杜冬冬
+  - https://dongd.info/
+- 段圣雄
+  - https://zias.sjtu.edu.cn/info/1267/2958.htm
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/duanshengxiong.html
+- 段苏峰
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/duansufeng.html
+- 段晓明
+  - https://sais.sjtu.edu.cn/faculty/duanxiaoming.html
+- 范 磊
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/fanlei.html
+- 方崇荣
+  - https://sais.sjtu.edu.cn/faculty/fangchongrong.html
+- 方涛
+  - https://sais.sjtu.edu.cn/faculty/fangtao.html
+- 方兴其
+  - https://sais.sjtu.edu.cn/faculty/fangxingqi.html
+- 房茂波
+  - https://sais.sjtu.edu.cn/faculty/fangmaobo.html
+- 冯 宇
+  - https://yufenguofr.github.io/
+- 冯二虎
+  - https://ipads.se.sjtu.edu.cn/pub/members/erhu_feng
+  - https://soai.sjtu.edu.cn/cn/facultydetails/zzjs/fengerhu
+- 伏玉笋
+  - https://sais.sjtu.edu.cn/faculty/fuyusun.html
+- 符芳诚
+  - https://ccchengff.github.io
+- 符鸿飞
+  - https://jhc.sjtu.edu.cn/~hongfeifu/
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/fuhongfei.html
+- 付华林
+  - https://sais.sjtu.edu.cn/faculty/fuhualin.html
+- 傅洛伊
+  - https://www.cs.sjtu.edu.cn/~fu-ly/index.html
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/fuluoyi.html
+- 傅山
+  - https://sais.sjtu.edu.cn/faculty/fushan.html
+- 傅育熙
+  - https://basics.sjtu.edu.cn/~yuxi/
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/fuyuxi.html
+- 高 岳
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/gaoyue.html
+- 高安柱
+  - https://sais.sjtu.edu.cn/faculty/gaoanzhu.html
+- 高国
+  - https://sais.sjtu.edu.cn/faculty/gaoguo.html
+- 高晓沨
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/gaoxiaofeng.html
+- 葛骑岐
+  - https://sais.sjtu.edu.cn/faculty/geqiqi.html
+- 宫亮
+  - https://sais.sjtu.edu.cn/faculty/gongliang.html
+- 龚玲
+  - https://sais.sjtu.edu.cn/faculty/gongling.html
+- 古金宇
+  - https://ipads.se.sjtu.edu.cn/zh/pub/members/jinyu_gu/
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/gujinyu.html
+- 谷 大武 (首席科学家)
+  - https://cs.sjtu.edu.cn/cse/PeopleDetail.aspx?id=101
+- 谷朝臣
+  - https://sais.sjtu.edu.cn/faculty/guchaochen.html
+- 谷大武
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/gudawu.html
+- 顾磊磊
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/guleilei.html
+- 顾小东
+  - https://guxd.github.io/
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/guxiaodong.html
+- 顾运
+  - https://sais.sjtu.edu.cn/faculty/guyun.html
+- 关新平
+  - https://sais.sjtu.edu.cn/faculty/guanxinping.html
+- 管海兵
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/guanhaibing.html
+- 归 琳
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/guilin.html
+- 桂佳平
+  - https://guijiaping.github.io/
+- 郭 捷
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/guojie.html
+- 郭劲宏
+  - https://sais.sjtu.edu.cn/faculty/guojinhong.html
+- 郭宁
+  - https://gabriel-ning.github.io/
+  - https://soai.sjtu.edu.cn/cn/facultydetails/zzjs/guoning
+- 郭逸
+  - https://sais.sjtu.edu.cn/faculty/guoyi.html
+- 过敏意
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/guominyi.html
+- 韩 帅
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/hanshuai.html
+- 韩韬
+  - https://sais.sjtu.edu.cn/faculty/hantao.html
+- 韩晓东
+  - https://sais.sjtu.edu.cn/faculty/hanxiaodong.html
+- 何迪
+  - https://sais.sjtu.edu.cn/faculty/hedi.html
+- 何建平
+  - https://sais.sjtu.edu.cn/faculty/hejianping.html
+- 何劲
+  - https://sais.sjtu.edu.cn/faculty/hejin.html
+- 何黎明
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/heliming.html
+- 何星
+  - https://sais.sjtu.edu.cn/faculty/hexing.html
+- 何哲陟
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/hezhezhi.html
+- 贺超翔
+  - https://chxhe.github.io/
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/hechaoxiang.html
+- 贺可强
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/hekeqiang.html
+- 洪 义
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/hongyi.html
+- 洪佳楠
+  - https://hongjianansjtu.github.io/
+- 侯勤胜
+  - https://chicharitomu14.github.io/
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/houqinsheng.html
+- 侯小凤
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/houxiaofeng.html
+- 侯中宇
+  - https://sais.sjtu.edu.cn/faculty/houzhongyu.html
+- 胡 畔
+  - https://faculty.sjtu.edu.cn/hupan/zh_CN/index.htm
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/hupan.html
+- 胡宏盛
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/huhongsheng.html
+- 胡易坤
+  - https://yikunh.github.io/
+- 胡云聪
+  - https://huyuncong.com
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/huyuncong.html
+- 华志超
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/huazhichao.html
+- 化存卿
+  - https://faculty.sjtu.edu.cn/huacunqing/zh_CN/zsxx/188319/list/index.htm
+- 宦飞
+  - https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=19
+- 黄 涛
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/huangtao.html
+- 黄 征
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/huangzheng.html
+- 黄靖正
+  - https://qsip.sjtu.edu.cn/info/1119/1194.htm
+  - https://sais.sjtu.edu.cn/faculty/huangjingzheng.html
+- 黄俊钦
+  - https://huangjunqin.com/
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/huangjunqin.html
+- 黄林鹏
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/huanglinpeng.html
+- 黄林庆
+  - https://shaoyuhlq.github.io/HuangLinqing0228.github.io/
+- 黄梅珍
+  - https://sais.sjtu.edu.cn/faculty/huangmeizhen.html
+- 黄鹏
+  - https://sais.sjtu.edu.cn/faculty/huangpeng.html
+- 黄维然
+  - https://mifa.sjtu.edu.cn/~weiranhuang/
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/huangweiran.html
+- 黄晓霖
+  - https://sais.sjtu.edu.cn/faculty/huangxiaolin.html
+- 黄震宇
+  - https://sais.sjtu.edu.cn/faculty/huangzhenyu.html
+- 回 红
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/huihong.html
+- 霍宏
+  - https://sais.sjtu.edu.cn/faculty/huohong.html
+- 纪幸辰
+  - https://jhc.sjtu.edu.cn/~xingchenji/
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/jixingchen.html
+- 贾孟硕
+  - https://sais.sjtu.edu.cn/faculty/jiamengshuo.html
+- 江 波
+  - https://jhc.sjtu.edu.cn/~bjiang/
+- 姜丽红
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/jianglihong.html
+- 姜萍萍
+  - https://sais.sjtu.edu.cn/faculty/jiangpingping.html
+- 蒋 力
+  - https://cs.sjtu.edu.cn/~jiangli/
+- 蒋兴浩
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/jiangxinghao.html
+- 金顾敏
+  - https://sais.sjtu.edu.cn/faculty/jingumin.html
+- 金海明
+  - https://www.cs.sjtu.edu.cn/~jinhaiming/
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/jinhaiming.html
+- 金涵
+  - https://sais.sjtu.edu.cn/faculty/jinhan.html
+- 金梦
+  - https://yume-sjtu.github.io/
+- 金耀辉
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/jinyaohui.html
+- 柯 晶
+  - https://crystal-kej.github.io/
+- 孔令和
+  - https://www.cs.sjtu.edu.cn/~linghe.kong/
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/konglinghe.html
+- 来学嘉
+  - https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=85
+- 赖奕甫
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/laiyifu.html
+- 乐心怡
+  - https://sais.sjtu.edu.cn/faculty/yuexinyi.html
+- 雷华明
+  - https://sais.sjtu.edu.cn/faculty/leihuaming.html
+- 雷信生
+  - https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=25
+- 冷静文
+  - https://cs.sjtu.edu.cn/~leng-jw/
+- 李 超
+  - https://cs.sjtu.edu.cn/~lichao/students.html
+- 李 健
+  - https://faculty.sjtu.edu.cn/jianli/zh_CN/index.htm
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/lijian.html
+- 李 颉
+  - https://www.cs.sjtu.edu.cn/~lijie/
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/lijie.html
+- 李 颉 (主任)
+  - https://cs.sjtu.edu.cn/cse/PeopleDetail.aspx?id=384
+- 李 力
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/lili.html
+- 李 强
+  - https://faculty.sjtu.edu.cn/jianli/zh_CN/index.htm
+- 李 伟
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/liwei.html
+- 李 阳
+  - https://liyang.page/
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/l.html
+- 李晨达
+  - https://chenda.li/
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/lichenda.html
+- 李德伟
+  - https://sais.sjtu.edu.cn/faculty/lidewei.html
+- 李东瀛
+  - https://sais.sjtu.edu.cn/faculty/lidongying.html
+- 李高磊
+  - https://www.cs.sjtu.edu.cn/~lijie/
+- 李国强
+  - https://basics.sjtu.edu.cn/~liguoqiang/VIP.htm
+- 李红兵
+  - https://sais.sjtu.edu.cn/faculty/lihongbing.html
+- 李洪婧
+  - https://sais.sjtu.edu.cn/faculty/lihongjing.html
+- 李建华
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/lijianhua.html
+- 李建勋
+  - https://sais.sjtu.edu.cn/faculty/lijianxun.html
+- 李晶晶
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/lijingjing.html
+- 李林森
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/lilinsen.html
+- 李柠
+  - https://sais.sjtu.edu.cn/faculty/lining.html
+- 李平
+  - https://sais.sjtu.edu.cn/faculty/liping.html
+- 李沁雅
+  - https://liyang.page/
+- 李生红
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/lishenghong.html
+- 李世阳
+  - https://sais.sjtu.edu.cn/faculty/lishiyang.html
+- 李帅
+  - https://shuaili8.github.io/students.html
+- 李宋宋
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/lisongsong.html
+- 李希君
+  - https://tcloud.sjtu.edu.cn/people/lixijun/
+- 李贤伟
+  - https://sais.sjtu.edu.cn/faculty/lixianwei.html
+- 李小勇
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/lixiaoyong.html
+- 李一辰
+  - https://sais.sjtu.edu.cn/faculty/liyichen.html
+- 李永露
+  - https://dirtyharrylyl.github.io/
+  - https://soai.sjtu.edu.cn/cn/facultydetails/zzjs/liyonglu
+- 李元龙
+  - https://xijunlee.github.io/
+- 李钟毓
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/lizhongyu.html
+- 连文昭
+  - https://lianwenzhao.github.io/
+  - https://soai.sjtu.edu.cn/cn/facultydetails/zzjs/lianwenzhao
+- 梁诗宇
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/liangshiyu.html
+- 梁晓峣
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/liangxiaoyao.html
+- 林 夕
+  - https://sais.sjtu.edu.cn/faculty/liyichen.html
+- 林 祥
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/linxiang.html
+- 林 学民(兼职)
+  - https://cs.sjtu.edu.cn/cse/PeopleDetail.aspx?id=560
+- 林 云
+  - http://linyun.info
+- 林树靖
+  - https://sais.sjtu.edu.cn/faculty/linshujing.html
+- 林洲汉
+  - https://hantek.github.io/
+  - https://soai.sjtu.edu.cn/cn/facultydetails/zzjs/linzhouhan
+- 刘 铭
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/lizhongyu.html
+- 刘 振
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/liuzhen.html
+- 刘大生
+  - https://sais.sjtu.edu.cn/faculty/liudasheng.html
+- 刘方鑫
+  - https://mxhx7199.github.io/
+- 刘功申
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/liugongshen.html
+- 刘海涛
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/liuhaitao.html
+- 刘华
+  - https://sais.sjtu.edu.cn/faculty/liuhua.html
+- 刘锦阳
+  - https://hantek.github.io/
+- 刘满华
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/liumanhua.html
+- 刘鹏飞
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/liupengfei.html
+- 刘琦
+  - https://sais.sjtu.edu.cn/faculty/liuqi.html
+- 刘若楠
+  - https://sais.sjtu.edu.cn/faculty/liuruonan.html
+- 刘生钟
+  - https://liushengzhong1023.github.io/
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/liushengzhong.html
+- 刘胜利
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/liushengli.html
+- 刘盛云
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/liushengyun.html
+- 刘澍鑫
+  - https://sais.sjtu.edu.cn/faculty/liushuxin.html
+- 刘思学
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/liusixue.html
+- 刘松桦
+  - https://huage001.github.io
+  - https://soai.sjtu.edu.cn/cn/facultydetails/zzjs/liusonghua
+- 刘伟
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/liumanhua.html
+- 刘伟文
+  - https://sais.sjtu.edu.cn/faculty/liuweiwen.html
+- 刘卫文
+  - https://wwliu555.github.io/
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/liuweiwen.html
+- 刘笑宏
+  - https://jhc.sjtu.edu.cn/~xiaohongliu/supervision/
+- 刘岩磊
+  - https://sais.sjtu.edu.cn/faculty/liuyanlei.html
+- 刘彦博
+  - https://faculty.sjtu.edu.cn/liuyanbo/zh_CN/index.htm
+  - https://sais.sjtu.edu.cn/faculty/liuyanbo.html
+- 刘雨桐
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/liushengyun.html
+- 刘哲
+  - https://irmv.sjtu.edu.cn/liuzhe_cn
+- 龙 环
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/longhuan.html
+- 龙 宇
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/longyu.html
+- 龙承念
+  - https://sais.sjtu.edu.cn/faculty/longchengnian.html
+- 龙海辉
+  - https://sais.sjtu.edu.cn/faculty/longhaihui.html
+- 龙泳
+  - https://sais.sjtu.edu.cn/faculty/1610.html
+- 娄 炯
+  - https://loujiong.com/
+- 卢策吾
+  - https://soai.sjtu.edu.cn/cn/facultydetails/zzjs/lucewu
+- 卢宏涛
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/luhongtao.html
+- 卢俊国
+  - https://sais.sjtu.edu.cn/faculty/lujunguo.html
+- 卢艺
+  - https://jhc.sjtu.edu.cn/~xiaohongliu/
+- 陆 朝俊
+  - https://cs.sjtu.edu.cn/cse/PeopleDetail.aspx?id=88
+- 陆 佳亮 (兼职)
+  - https://cs.sjtu.edu.cn/cse/PeopleDetail.aspx?id=319
+- 陆海宁
+  - https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=126
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/luhaining.html
+- 陆燕玉
+  - https://sais.sjtu.edu.cn/faculty/luyanyu.html
+- 鹿存跃
+  - https://sais.sjtu.edu.cn/faculty/lucunyue.html
+- 罗骋韬
+  - https://sais.sjtu.edu.cn/faculty/luochengtao.html
+- 罗欣剑
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/luoxinjian.html
+- 骆 源
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/luoyuan.html
+- 骆 源 (副主任)
+  - https://cs.sjtu.edu.cn/cse/PeopleDetail.aspx?id=87
+- 吕宝粮
+  - https://bcmi.sjtu.edu.cn/home/blu/
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/lyubaoliang.html
+- 吕娜
+  - https://sais.sjtu.edu.cn/faculty/lyuna.html
+- 马 超
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/machao.html
+- 马 进
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/majin.html
+- 马 融
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/marong.html
+- 马奥运
+  - https://sais.sjtu.edu.cn/faculty/maaoyun.html
+- 马进
+  - https://faculty.sjtu.edu.cn/mayixin
+- 马利庄
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/malizhuang.html
+- 马汝辉
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/maruhui.html
+- 马叶涵
+  - https://jhc.sjtu.edu.cn/~yehanma/
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/mayehan.html
+- 马艺馨
+  - https://faculty.sjtu.edu.cn/mayixin
+  - https://sais.sjtu.edu.cn/faculty/mayixin.html
+- 马颖华
+  - https://sais.sjtu.edu.cn/faculty/mazhuochen.html
+- 马卓晨
+  - https://sais.sjtu.edu.cn/faculty/mazhuochen.html
+- 毛义梅
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/mengyan.html
+- 毛逸飞
+  - https://sais.sjtu.edu.cn/faculty/maoyifei.html
+- 茅旭初
+  - https://sais.sjtu.edu.cn/faculty/maoxuchu.html
+- 孟 岩
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/mengyan.html
+  - https://yan4meng.github.io/
+- 孟魁
+  - https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=144
+- 糜泽羽
+  - https://ipads.se.sjtu.edu.cn/pub/members/zeyu_mi
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/mizeyu.html
+- 穆 尧
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/muyao.html
+- 南卓江
+  - https://sais.sjtu.edu.cn/faculty/nanzhuojiang.html
+- 宁超
+  - https://sais.sjtu.edu.cn/faculty/ningchao.html
+- 牛 力
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/niuli.html
+- 牛超越
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/niuchaoyue.html
+- 潘 昊
+  - https://ppjhh.com/
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/panhao.html
+- 潘 理
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/panli.html
+- 潘 烨
+  - https://whitneypanye.github.io/
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/panye.html
+- 潘常春
+  - https://sais.sjtu.edu.cn/faculty/panchangchun.html
+- 潘鹿鹿
+  - https://llp26.github.io/
+  - https://sais.sjtu.edu.cn/faculty/panlulu.html
+- 潘小勇
+  - https://sais.sjtu.edu.cn/faculty/panxiaoyong.html
+  - https://xypan1232.github.io/
+- 庞 浦
+  - https://pangpu.github.io/
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/pangpu.html
+- 庞溟舟
+  - https://ppjhh.com/
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/panhao.html
+- 裴凌
+  - https://sais.sjtu.edu.cn/faculty/peiling.html
+- 彭 博
+  - https://tcloud.sjtu.edu.cn/people/pengbo/
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/pengbo.html
+- 彭云峰
+  - https://whitneypanye.github.io/
+- 戚正伟
+  - https://llp26.github.io/
+- 钱忱
+  - https://pangpu.github.io/
+- 钱久超
+  - https://sais.sjtu.edu.cn/faculty/qianjiuchao.html
+- 钱诗友
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/qianshiyou.html
+- 钱彦旻
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/qianyanmin.html
+- 钱烨强
+  - https://sais.sjtu.edu.cn/faculty/qianyeqiang.html
+- 乔宇
+  - https://sais.sjtu.edu.cn/faculty/qiaoyu.html
+- 秦鹏
+  - https://sais.sjtu.edu.cn/faculty/qinpeng.html
+- 邱卫东
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/qiuweidong.html
+- 曲元
+  - https://sais.sjtu.edu.cn/faculty/quyuan.html
+- 任 锐
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/renrui.html
+- 任庆生
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/renqingsheng.html
+- 阮 娜
+  - https://www.cs.sjtu.edu.cn/~naruan/
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/ruanna.html
+- 邵海滨
+  - https://sais.sjtu.edu.cn/faculty/shaohaibin.html
+  - https://shaohaibin.github.io/
+- 邵荣君
+  - https://sais.sjtu.edu.cn/faculty/shaorongjun.html
+- 邵硕
+  - https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=160
+- 邵晓巍
+  - https://sais.sjtu.edu.cn/faculty/1150.html
+- 申 瑞民
+  - https://cs.sjtu.edu.cn/cse/PeopleDetail.aspx?id=82
+- 申丽萍
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/shenliping.html
+- 申赞伟
+  - https://www.cs.sjtu.edu.cn/~naruan/
+- 沈 红斌(兼职)
+  - https://cs.sjtu.edu.cn/cse/PeopleDetail.aspx?id=404
+- 沈 为
+  - https://shenwei1231.github.io/
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/shenwei.html
+- 沈 耀
+  - https://www.cs.sjtu.edu.cn/~yshen/
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/shenyao.html
+  - https://y.sjtu.edu.cn
+- 沈备军
+  - https://base.sjtu.edu.cn/~bjshen/
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/shenbeijun.html
+- 沈红斌
+  - https://sais.sjtu.edu.cn/faculty/shenhongbin.html
+- 沈艳艳
+  - https://faculty.sjtu.edu.cn/shenyanyan
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/shenyanyan.html
+- 盛 斌
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/shengbin.html
+- 施 勇
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/shiyong.html
+- 石剑虹
+  - https://sais.sjtu.edu.cn/faculty/shaohaibin.html
+- 时良仁
+  - https://sais.sjtu.edu.cn/faculty/shiliangren.html
+- 史汝川
+  - https://sais.sjtu.edu.cn/faculty/shiruchuan.html
+- 舒汀
+  - https://sais.sjtu.edu.cn/faculty/shuting.html
+- 斯 雪明 (首席科学家)
+  - https://cs.sjtu.edu.cn/cse/PeopleDetail.aspx?id=433
+- 宋 涛
+  - https://shenwei1231.github.io/
+- 宋磊
+  - https://sais.sjtu.edu.cn/faculty/songlei.html
+- 宋卓然
+  - https://songzhuoran.github.io/
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/songzhuoran.html
+- 苏 波
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/subo.html
+- 苏贵洋
+  - https://faculty.sjtu.edu.cn/shenyanyan
+- 苏剑波
+  - https://sais.sjtu.edu.cn/faculty/sujianbo.html
+- 苏奇
+  - https://iwin.sjtu.edu.cn/Web/FacultyShow/35?name=QiSu
+  - https://sais.sjtu.edu.cn/faculty/suqi.html
+- 苏锐丹
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/suruidan.html
+- 苏跃增
+  - https://sais.sjtu.edu.cn/faculty/suyuezeng.html
+- 孙 焱
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/sunyan.html
+- 孙健华
+  - https://gothicai.github.io/HomePage
+  - https://soai.sjtu.edu.cn/cn/facultydetails/zzjs/Jianhua
+- 孙士锋
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/sunshifeng.html
+- 孙世轩
+  - https://shixuansun.github.io/
+- 孙仕亮
+  - https://sais.sjtu.edu.cn/faculty/sunshiliang.html
+- 孙锬锋
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/suntanfeng.html
+- 汤晟
+  - https://sais.sjtu.edu.cn/faculty/tangcheng.html
+- 唐 灯
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/tangdeng.html
+- 唐 鹏
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/tangpeng.html
+- 唐飞龙
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/tangfeilong.html
+- 唐俊华
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/tangjunhua.html
+- 唐新怀
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/tangxinhuai.html
+- 陶表帅
+  - https://jhc.sjtu.edu.cn/~bstao/
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/taobiaoshuai.html
+- 陶卫
+  - https://sais.sjtu.edu.cn/faculty/taowei.html
+- 田社平
+  - https://sais.sjtu.edu.cn/faculty/tiansheping.html
+- 田园
+  - https://sais.sjtu.edu.cn/faculty/tianyuan.html
+- 涂 仕奎(主任助理)
+  - https://cs.sjtu.edu.cn/cse/PeopleDetail.aspx?id=372
+- 涂仕奎
+  - http://www.cs.sjtu.edu.cn/~tushikui
+- 汪宇霆
+  - https://jhc.sjtu.edu.cn/~yutingwang/
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/wangyuting.html
+- 汪哲东
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/wangzhedong.html
+- 王 东
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/wangdong.html
+- 王 赓
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/wanggeng1.html
+- 王 更
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/wanggeng.html
+- 王 磊
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/wanglei.html
+- 王 磊 (副主任)
+  - https://cs.sjtu.edu.cn/cse/PeopleDetail.aspx?id=324
+- 王 瑞
+  - https://wangruinlp.github.io/
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/wangrui.html
+- 王 烁
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/wangshuo.html
+- 王 新兵(兼职)
+  - https://faculty.sjtu.edu.cn/wangxinbing/zh_CN/zsxx/167455/list/index.htm
+- 王 铮
+  - https://zhengwang100.github.io/for_students.html
+- 王冰
+  - https://sais.sjtu.edu.cn/faculty/wangbing.html
+- 王春香
+  - https://sais.sjtu.edu.cn/faculty/wangchunxiang.html
+- 王德泉
+  - https://dequan.wang/
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/wangdequan.html
+- 王国忠
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/wangguozhong.html
+- 王浩洋
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/wanghaoyang.html
+- 王贺升
+  - https://sais.sjtu.edu.cn/faculty/wanghesheng.html
+- 王红雨
+  - https://sais.sjtu.edu.cn/faculty/wanghongyu.html
+- 王景成
+  - https://sais.sjtu.edu.cn/faculty/wangjingcheng.html
+- 王景川
+  - https://robotics.sjtu.edu.cn/minglu/465.html
+- 王俊杰
+  - https://sais.sjtu.edu.cn/faculty/wangjunjie.html
+- 王俊璞
+  - https://sais.sjtu.edu.cn/faculty/wangjunpu.html
+- 王侃
+  - https://sais.sjtu.edu.cn/faculty/wangkan.html
+- 王坤东
+  - https://sais.sjtu.edu.cn/faculty/wangkundong.html
+- 王利生
+  - https://sais.sjtu.edu.cn/faculty/wanglisheng.html
+- 王琳
+  - https://sais.sjtu.edu.cn/faculty/wanglin.html
+- 王鹏
+  - https://p11gh.github.io/
+- 王启圣
+  - https://wangqs13.github.io/
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/wangqisheng.html
+- 王强民
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/wangqiangmin.html
+- 王士林
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/wangshilin.html
+- 王涛
+  - https://sais.sjtu.edu.cn/faculty/wangtao.html
+- 王晓乐
+  - https://sais.sjtu.edu.cn/faculty/wangxiaole.html
+- 王延峰
+  - https://cmic.sjtu.edu.cn/wangyanfeng
+  - https://soai.sjtu.edu.cn/cn/facultydetails/zzjs/wangyanfeng
+- 王艳芳
+  - https://sais.sjtu.edu.cn/faculty/wangyanfang.html
+- 王遥
+  - https://sais.sjtu.edu.cn/faculty/wangyao.html
+- 王易因
+  - http://isea.sjtu.edu.cn/
+- 王轶骏
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/wangyijun.html
+- 王钰
+  - https://yuwangsjtu.github.io/
+- 王韫博
+  - https://wyb15.github.io/
+- 王召健
+  - https://sais.sjtu.edu.cn/faculty/wangzhaojian.html
+- 王肇国
+  - https://ipads.se.sjtu.edu.cn/zh/pub/members/zhaoguo_wang/
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/wangzhaoguo.html
+- 王志武
+  - https://sais.sjtu.edu.cn/faculty/wangzhiwu.html
+- 魏飞鸣
+  - https://sais.sjtu.edu.cn/faculty/weifeiming.html
+- 魏星达
+  - https://ipads.se.sjtu.edu.cn/pub/members/xingda_wei/
+- 温睦宁
+  - https://morning9393.github.io/
+- 温晓婧
+  - https://sais.sjtu.edu.cn/faculty/wenxiaojing.html
+- 温颖
+  - https://soai.sjtu.edu.cn/cn/facultydetails/zzjs/wenying
+  - https://yingwen.io/
+- 文玉梅
+  - https://sais.sjtu.edu.cn/faculty/wenyumei.html
+- 汶川
+  - https://alvinwen428.github.io/
+- 翁正新
+  - https://sais.sjtu.edu.cn/faculty/wengzhengxin.html
+- 邬晶
+  - https://sais.sjtu.edu.cn/faculty/wujing.html
+- 吴 帆
+  - https://www.cs.sjtu.edu.cn/~fwu/
+- 吴 刚
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/wugang.html
+- 吴 鹏
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/wupeng.html
+- 吴 奇
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/wuqi.html
+- 吴 旋
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/1556.html
+- 吴 越
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/wuyue.html
+- 吴安邦
+  - https://anbangwu.com/
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/wuanbang.html
+- 吴超逸
+  - https://chaoyi-wu.github.io/
+- 吴晨涛
+  - https://www.cs.sjtu.edu.cn/~wuct/
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/wuchentao.html
+- 吴开杰
+  - https://sais.sjtu.edu.cn/faculty/wukaijie.html
+- 吴梦玥
+  - https://myw19.github.io/
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/wumengyue.html
+- 吴明瑜
+  - https://ipads.se.sjtu.edu.cn/zh/pub/members/mingyu_wu/
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/wumingyu.html
+- 吴小宝
+  - https://bobxwu.github.io/
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/wuxiaobao.html
+- 吴晓燕
+  - https://sais.sjtu.edu.cn/faculty/wuxiaoyan.html
+- 吴亚东
+  - https://yadong101.github.io
+- 吴跃军
+  - https://sais.sjtu.edu.cn/faculty/wuyuejun.html
+- 伍 军
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/wujun.html
+- 武元新
+  - https://sais.sjtu.edu.cn/faculty/wuyuanxin.html
+- 夏纫秋
+  - https://renqiux0302.github.io/xiarenqiu.github.io/
+- 夏虞斌
+  - https://ipads.se.sjtu.edu.cn/yubin_xia
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/xiayubin.html
+- 夏宇轩
+  - https://sais.sjtu.edu.cn/faculty/xiayuxuan.html
+- 夏正敏
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/xiazhengmin.html
+- 相里元博
+  - https://kam1107.github.io/
+  - https://soai.sjtu.edu.cn/cn/facultydetails/zzjs/xiangliyuanbo
+- 向立瑶
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/xiangliyao.html
+- 项艳
+  - https://sais.sjtu.edu.cn/faculty/xiangyan.html
+- 肖双九
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/xiaoshuangjiu.html
+- 肖太龙
+  - https://sais.sjtu.edu.cn/faculty/xiaotailong.html
+  - https://xiaotailong.github.io/
+- 谢威
+  - https://sais.sjtu.edu.cn/faculty/xiewei.html
+- 谢伟迪
+  - https://weidixie.github.io
+- 邢朝平
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/xingchaoping.html
+  - https://xingcp.github.io/
+- 熊 红凯(兼职)
+  - https://cs.sjtu.edu.cn/cse/PeopleDetail.aspx?id=398
+- 熊刚
+  - https://sais.sjtu.edu.cn/faculty/xionggang.html
+- 熊国钧
+  - https://xionggj001.github.io/
+- 徐 雷(主任)
+  - https://cs.sjtu.edu.cn/cse/PeopleDetail.aspx?id=298
+- 徐 磊
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/xulei.html
+- 徐尔茨
+  - https://giorgioercixu.github.io/
+- 徐璠
+  - https://sais.sjtu.edu.cn/faculty/xufan.html
+- 徐寒松
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/xuhansong.html
+- 徐宁仪
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/xuningyi.html
+- 徐燕虹
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/xuyanhong.html
+- 徐云雯
+  - https://sais.sjtu.edu.cn/faculty/xuyunwen.html
+- 许 可
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/xuke.html
+- 许 强
+  - https://qiangxu-sjtu.github.io/
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/xuqiang.html
+- 许齐敏
+  - https://sais.sjtu.edu.cn/faculty/xuqimin.html
+- 许岩岩
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/xuyanyan.html
+- 薛 质
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/xuezhi.html
+- 薛栋梁
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/xuedongliang.html
+- 薛广涛
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/xueguangtao.html
+- 薛拾贝
+  - https://sais.sjtu.edu.cn/faculty/xueshibei.html
+- 严骏驰
+  - https://soai.sjtu.edu.cn/cn/facultydetails/zzjs/yanjunchi
+- 阎威武
+  - https://sais.sjtu.edu.cn/faculty/yanweiwu.html
+- 晏轶超
+  - https://daodaofr.github.io/
+- 杨 宽
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/yangkuan.html
+- 杨 旸
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/yangyang.html
+- 杨博
+  - https://sais.sjtu.edu.cn/faculty/yangbo.html
+- 杨根科
+  - https://sais.sjtu.edu.cn/faculty/yanggenke.html
+- 杨佳苗
+  - https://sais.sjtu.edu.cn/faculty/yangjiamiao.html
+- 杨杰
+  - https://sais.sjtu.edu.cn/faculty/yangjie.html
+- 杨岚青
+  - https://lanqing-sjtu.github.io/academic/
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/yanglanqing.html
+- 杨理欣
+  - https://lixiny.github.io/
+- 杨明-控制
+  - https://sais.sjtu.edu.cn/faculty/yangming1.html
+- 杨明-仪器
+  - https://sais.sjtu.edu.cn/faculty/yangming.html
+- 杨天
+  - https://sais.sjtu.edu.cn/faculty/yangtian.html
+- 杨旭波
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/yangxubo.html
+- 杨学
+  - https://sais.sjtu.edu.cn/faculty/yangxue.html
+  - https://yangxue.site/
+- 杨旸
+  - https://angelayangyang1.github.io
+  - https://soai.sjtu.edu.cn/cn/facultydetails/zzjs/yangyang
+- 杨玉婷
+  - https://sais.sjtu.edu.cn/faculty/yangyuting.html
+- 杨紫雯
+  - https://sais.sjtu.edu.cn/faculty/yangziwen.html
+- 姚 斌
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/yaobin.html
+- 姚建国
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/yaojianguo.html
+- 姚立红
+  - https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=146
+- 姚莉秀
+  - https://sais.sjtu.edu.cn/faculty/yaolixiu.html
+- 姚江潮
+  - https://sunarker.github.io/index.html
+- 姚旭佳
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/yaoxujia.html
+- 叶南阳
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/yenanyang.html
+- 易 平
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/yiping.html
+- 易 冉
+  - https://yiranran.github.io/
+- 殷翔
+  - http://xiangyin.sjtu.edu.cn/
+- 银 鹰
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/yinying.html
+- 尹 强
+  - https://basics.sjtu.edu.cn/~qyin/
+- 应 凯
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/yingkai.html
+- 应臣浩
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/yingchenhao.html
+- 于 晗
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/yuhan.html
+- 于文彬
+  - https://sais.sjtu.edu.cn/faculty/yuwenbin.html
+- 余 炀
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/yuyang.html
+- 余甘
+  - https://sais.sjtu.edu.cn/faculty/yugan.html
+  - https://theganyu.github.io/
+- 俞 凯
+  - https://x-lance.sjtu.edu.cn/~kaiyu/
+- 俞 勇
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/yuyong.html
+- 俞嘉地
+  - https://www.cs.sjtu.edu.cn/~jdyu/
+- 郁 昱
+  - http://yuyu.hk/
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/yuyu.html
+- 郁文贤
+  - https://sais.sjtu.edu.cn/faculty/yuwenxian.html
+- 袁 晨
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/yuanchen.html
+- 袁礼伟
+  - https://sais.sjtu.edu.cn/faculty/1609.html
+- 袁汀
+  - https://sais.sjtu.edu.cn/faculty/yuanting.html
+- 袁肖赟
+  - https://sais.sjtu.edu.cn/faculty/1609.html
+- 臧斌宇
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/zangbinyu.html
+- 张 驰
+  - https://pi.xiaoyunyuan.net/
+- 张 丽清(副主任)
+  - https://cs.sjtu.edu.cn/cse/PeopleDetail.aspx?id=67
+- 张 宁
+  - https://cs.sjtu.edu.cn/cse/PeopleDetail.aspx?id=422
+- 张 谦
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/zhangqian.html
+- 张 同珍
+  - https://cs.sjtu.edu.cn/cse/PeopleDetail.aspx?id=69
+- 张爱新
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/zhangaixin.html
+- 张保稳
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/zhangbaowen.html
+- 张驰豪
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/zhangchihao.html
+- 张德新
+  - https://sais.sjtu.edu.cn/faculty/zhangdexin.html
+- 张晗
+  - https://zhanghan-tc.github.io/
+- 张宏陆
+  - https://sais.sjtu.edu.cn/faculty/zhanghonglu.html
+- 张健夫
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/zhangjianfu.html
+- 张景龙
+  - https://sais.sjtu.edu.cn/faculty/zhangjinglong.html
+- 张丽清
+  - https://bcmi.sjtu.edu.cn/home/zhangliqing/Index_cn.html
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/zhangliqing.html
+- 张林峰
+  - http://www.zhanglinfeng.tech
+  - https://soai.sjtu.edu.cn/cn/facultydetails/zzjs/zhanglinfeng
+- 张倩
+  - http://www.zhanglinfeng.tech
+- 张强
+  - https://sais.sjtu.edu.cn/faculty/zhangqiang.html
+- 张庆昊
+  - https://sais.sjtu.edu.cn/faculty/zhangqinghao.html
+- 张全海
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/zhangquanhai.html
+- 张拳石
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/zhangquanshi.html
+- 张少霆
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/zhangshaoting.html
+- 张颂安
+  - https://sais.sjtu.edu.cn/faculty/1228.html
+- 张涛
+  - https://sais.sjtu.edu.cn/faculty/zhangtao.html
+- 张王优
+  - https://sais.sjtu.edu.cn/faculty/zhangtao.html
+- 张维夏
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/zhangweixia.html
+  - https://zwx8981.github.io/zhangweixia/
+- 张伟楠
+  - https://wangyou-zhang.github.io/
+- 张卫东
+  - https://sais.sjtu.edu.cn/faculty/zhangweidong1.html
+- 张卫东-人工智能
+  - https://sais.sjtu.edu.cn/faculty/zhangweidong.html
+- 张文豪
+  - https://wnzhang.net/
+- 张晓凡
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/zhangxiaofan.html
+  - https://zhangxiaofan101.github.io/
+- 张晓涵
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/zhangxiaohan.html
+- 张雅倩
+  - https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=168
+- 张娅
+  - https://annzhanglion.github.io/
+  - https://mediabrain.sjtu.edu.cn/yazhang/
+  - https://soai.sjtu.edu.cn/cn/facultydetails/zzjs/zhangya
+- 张小云
+  - https://mediabrain.sjtu.edu.cn/xiaoyun-zhang/
+- 张一鸣
+  - https://zhangxiaofan101.github.io/
+- 张宇昊
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/zhangxiaohan.html
+- 张宇伦
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/zhangyulun.html
+  - https://yulunzhang.com/
+- 张媛媛
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/zhangyuanyuan.html
+- 张月国
+  - https://mediabrain.sjtu.edu.cn/xiaoyun-zhang/
+- 张增辉
+  - https://sais.sjtu.edu.cn/faculty/zhangzenghui.html
+- 张志鹏
+  - https://soai.sjtu.edu.cn/cn/facultydetails/zzjs/zhangzhipeng
+  - https://zhipengzhang.cn/
+- 张倬胜
+  - https://bcmi.sjtu.edu.cn/~zhangzs
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/zhangzhuosheng.html
+- 招浩华
+  - https://yulunzhang.com/
+- 赵 海
+  - http://bcmi.sjtu.edu.cn/home/zhaohai
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/zhaohai.html
+- 赵 涵
+  - https://mivenhan.github.io/
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/zhaohan.html
+- 赵波
+  - https://soai.sjtu.edu.cn/cn/facultydetails/zzjs/zhaobo
+  - https://www.bozhao.me/
+- 赵春宇
+  - https://sais.sjtu.edu.cn/faculty/zhaochunyu.html
+- 赵辉
+  - https://zhipengzhang.cn/
+- 赵健康
+  - https://sais.sjtu.edu.cn/faculty/zhaojiankang.html
+- 赵杰茹
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/zhaojieru.html
+  - https://zjru.github.io/
+- 赵凯
+  - https://sais.sjtu.edu.cn/faculty/zhaokai.html
+- 赵沛霖
+  - http://bcmi.sjtu.edu.cn/home/zhaohai
+- 赵世振
+  - https://mivenhan.github.io/
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/zhaohan.html
+- 赵旭
+  - https://sais.sjtu.edu.cn/faculty/zhaoxu.html
+- 赵忠华
+  - https://sais.sjtu.edu.cn/faculty/zhaozhonghua.html
+- 郑聪惠
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/zhengconghui.html
+- 郑冠杰
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/zhengguanjie.html
+- 郑圣安
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/zhaojieru.html
+  - https://zjru.github.io/
+- 郑伟龙
+  - https://cs.sjtu.edu.cn/cse/PeopleDetail.aspx?id=444
+  - https://weilongzheng.github.io/
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/zhengweilong.html
+- 郑文立
+  - https://peilinzhao.github.io/
+- 郑毅
+  - https://sais.sjtu.edu.cn/faculty/zhengyi.html
+- 郑臻哲
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/zhengzhenzhe.html
+  - https://zhengzhenzhe220.github.io/
+- 钟 浩
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/zhonghao.html
+- 钟志航
+  - https://soai.sjtu.edu.cn/cn/facultydetails/zzjs/zhongzhihang
+  - https://zzh-tech.github.io/
+- 周晓
+  - https://astaxanthin.github.io/
+  - https://soai.sjtu.edu.cn/cn/facultydetails/zzjs/zhouxiao
+- 周煊赫
+  - https://db.zhouxh.store
+- 周越
+  - https://sais.sjtu.edu.cn/faculty/zhouyue.html
+- 周志洪
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/zhouzhihong.html
+- 朱 贇
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/zhuyun.html
+- 朱浩瑾
+  - https://nsec.sjtu.edu.cn/~hjzhu/
+- 朱弘恣
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/zhuhongzi.html
+- 朱开元
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/z.html
+- 朱茂然
+  - https://sais.sjtu.edu.cn/faculty/zhumaoran.html
+- 朱善迎
+  - https://sais.sjtu.edu.cn/faculty/zhushanying.html
+- 朱燕民
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/zhuyanmin.html
+- 邹丹平
+  - https://sais.sjtu.edu.cn/faculty/zoudanping.html
+- 邹福泰
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/zoufutai.html
+- 邹君妮
+  - https://www.cs.sjtu.edu.cn/jiaoshiml/zoujunni.html
+- 邹应天
+  - https://yingtian.world/
+- 邹媛媛
+  - https://sais.sjtu.edu.cn/faculty/zouyuanyuan.html

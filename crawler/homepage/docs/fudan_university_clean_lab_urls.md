@@ -1,0 +1,90 @@
+# Fudan University Clean Lab and Research Group URL List
+
+- CAN Lab
+  - https://can.fudan.edu.cn/
+- Data Intelligence Lab
+  - https://dil.fudan.edu.cn/
+- DataNET / Big Data and Networking Group
+  - https://fudan-datanet.mysxl.cn/
+- DML / Fudan Digital Media Lab
+  - https://dml.fudan.edu.cn/
+- DSPT Lab
+  - https://dspt.fudan.edu.cn/
+- FDU-VIS / Fudan Visual Analytics and Intelligent Decision Lab
+  - https://fduvis.net/
+- Fudan Computer Vision Lab
+  - https://fvl.fudan.edu.cn/joinus_cn/list.htm
+- Fudan MAS Lab
+  - https://fdmas.github.io/en/
+- Fudan Machine Vision Lab / Fudan Multimedia Lab
+  - https://fudanmv.github.io/
+- Fudan ROI Lab
+  - https://www.fudanroilab.com/recruit.html
+- Fudan Software Engineering Lab
+  - https://fudanselab.github.io/
+- Fudan Vision and Learning Lab
+  - https://viplab.fudan.edu.cn/
+- IPASS / Intelligent Perception and Autonomous SystemS Lab
+  - https://ipass.fudan.edu.cn/
+- Logos Robotics Group
+  - https://lzrobots.github.io/
+- MAI Lab / Biomedical Artificial Intelligence Lab
+  - https://mai.fudan.edu.cn/
+- MediaNet Group
+  - https://ydxu2025.github.io/
+- OpenMOSS / Qiu Xipeng Team
+  - https://xpqiu.github.io/recruit.html
+- System Software and Security Lab
+  - https://secsys.fudan.edu.cn/recruit
+- Yang Chen Group
+  - https://chenyang03.wordpress.com/recruitment/
+- Shanghai Blockchain Engineering Technology Research Center
+  - https://cs.fudan.edu.cn/c7/d7/c24779a444375/page.htm
+- Shanghai Blockchain and Intellectual Property Protection Service Platform
+  - https://cs.fudan.edu.cn/30/b6/c24779a733366/page.htm
+- Shanghai Key Laboratory of Data Science
+  - https://datascience.fudan.edu.cn/
+- Shanghai Key Laboratory of Intelligent Information Processing
+  - https://iipl.fudan.edu.cn/
+- Ministry of Culture and Tourism Technology Innovation Center for Digital Calligraphy and Painting
+  - https://cs.fudan.edu.cn/bb/de/c24779a637918/page.htm
+- AI Technology Lab
+  - https://cv.fudan.edu.cn/_upload/tpl/06/f4/1780/template1780/index.psp
+- UCNSS / Complex Network Science and Intelligent Systems Lab
+  - https://ucnss.fudan.edu.cn/info/1013/1982.htm
+- BEAR Lab
+  - https://fduxiongteam.fudan.edu.cn/
+- Smart Tax Innovation Lab
+  - https://cs.fudan.edu.cn/30/b7/c24779a733367/page.htm
+- MemX / Human-Machine Interaction Lab
+  - https://memx.life/
+- Digital Culture Preservation and Tourism Data Intelligence Lab
+  - https://cs.fudan.edu.cn/c7/d9/c24779a444377/page.htm
+- Network Information Security Audit and Monitoring Engineering Research Center
+  - https://cs.fudan.edu.cn/17/f9/c24779a268281/page.htm
+- CNBI / Key Laboratory of Computational Neuroscience and Brain-Inspired Intelligence
+  - https://cnbi.fudan.edu.cn/
+- BCNC / Center for Brain-like Computing and Neural Computing
+  - https://istbi-bcnc.fudan.edu.cn/
+- CISL / CSCW Lab
+  - https://cscw.fudan.edu.cn/
+- BEAM Lab / AI for Science
+  - https://www.beamlab.ai/join_us
+- Dataology / Data Science Research Center
+  - https://dataology.fudan.edu.cn/p4612c4488/list.htm
+- Knowledge Works
+  - https://kw.fudan.edu.cn/recruitment/
+- SpaceNet
+  - https://spacenet.fudan.edu.cn/bswssyjs/list.htm
+- Data Systems Group / DSG
+  - https://dsg.fudan.edu.cn/
+- DASLab
+  - https://daslab.fudan.edu.cn/26843/list.htm
+- NAIG / Next-generation Artificial Intelligence Group
+  - https://www.weifengge.net/zh/
+- Machine Vision Lab
+  - https://faculty.fudan.edu.cn/mvl/zh_CN/index.htm
+- CHAOS Lab
+  - https://chaos-q.github.io/
+- BIRLab / Brain-Inspired Intelligent Robotics Lab
+  - https://fudan-birlab.com/joinus.html

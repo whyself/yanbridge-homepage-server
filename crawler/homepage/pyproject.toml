@@ -1,0 +1,15 @@
+[project]
+name = "homepage-crawler"
+version = "0.1.0"
+description = "Scheduled crawler for advisor and lab homepages."
+requires-python = ">=3.11"
+dependencies = [
+    "crawl4ai>=0.8.0",
+    "psycopg2-binary>=2.9",
+]
+
+[tool.uv]
+package = true
+
+[tool.setuptools.packages.find]
+include = ["homepage_crawler*"]

@@ -1,0 +1,720 @@
+{"id": "sjtu_faculty_白_石_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "白 石", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/baishi.html", "status": "active"}
+{"id": "sjtu_faculty_白婷_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "白婷", "url": "https://sais.sjtu.edu.cn/faculty/1611.html", "status": "active"}
+{"id": "sjtu_faculty_白婷_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "白婷", "url": "https://tingbai.com.cn/", "status": "active"}
+{"id": "sjtu_faculty_白洋_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "白洋", "url": "https://sais.sjtu.edu.cn/faculty/baiyang.html", "status": "active"}
+{"id": "sjtu_faculty_鲍其莲_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "鲍其莲", "url": "https://sais.sjtu.edu.cn/faculty/baoqilian.html", "status": "active"}
+{"id": "sjtu_faculty_蔡鸿明_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "蔡鸿明", "url": "https://ist.sjtu.edu.cn/memberscaihm", "status": "active"}
+{"id": "sjtu_faculty_蔡鸿明_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "蔡鸿明", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/caihongming.html", "status": "active"}
+{"id": "sjtu_faculty_蔡盼盼_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "蔡盼盼", "url": "https://cindycia.github.io/", "status": "active"}
+{"id": "sjtu_faculty_蔡盼盼_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "蔡盼盼", "url": "https://soai.sjtu.edu.cn/cn/facultydetails/zzjs/caipanpan", "status": "active"}
+{"id": "sjtu_faculty_蔡云泽_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "蔡云泽", "url": "https://sais.sjtu.edu.cn/faculty/caiyunze.html", "status": "active"}
+{"id": "sjtu_faculty_曹_健_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "曹 健", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/caojian.html", "status": "active"}
+{"id": "sjtu_faculty_曹_培_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "曹 培", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/caopei.html", "status": "active"}
+{"id": "sjtu_faculty_曹成喜_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "曹成喜", "url": "https://sais.sjtu.edu.cn/faculty/caochengxi.html", "status": "active"}
+{"id": "sjtu_faculty_曹钦翔_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "曹钦翔", "url": "https://soai.sjtu.edu.cn/cn/facultydetails/zzjs/caoqinxiang", "status": "active"}
+{"id": "sjtu_faculty_曾贵华_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "曾贵华", "url": "https://sais.sjtu.edu.cn/faculty/zengguihua.html", "status": "active"}
+{"id": "sjtu_faculty_柴洪峰_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "柴洪峰", "url": "https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=28", "status": "active"}
+{"id": "sjtu_faculty_陈_晨_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "陈 晨", "url": "https://jhc.sjtu.edu.cn/~chen-chen/", "status": "active"}
+{"id": "sjtu_faculty_陈_露_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "陈 露", "url": "https://coai-sjtu.github.io", "status": "active"}
+{"id": "sjtu_faculty_陈_全_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "陈 全", "url": "https://www.cs.sjtu.edu.cn/~chen-quan/", "status": "active"}
+{"id": "sjtu_faculty_陈_全_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "陈 全", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/chenquan.html", "status": "active"}
+{"id": "sjtu_faculty_陈_榕_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "陈 榕", "url": "https://ipads.se.sjtu.edu.cn/rong_chen", "status": "active"}
+{"id": "sjtu_faculty_陈_谐_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "陈 谐", "url": "https://faculty.sjtu.edu.cn/chenxie/zh_CN/zsxx/578699/list/index.htm", "status": "active"}
+{"id": "sjtu_faculty_陈彩莲_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "陈彩莲", "url": "https://sais.sjtu.edu.cn/faculty/chencailian.html", "status": "active"}
+{"id": "sjtu_faculty_陈东尧_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "陈东尧", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/chendongyao.html", "status": "active"}
+{"id": "sjtu_faculty_陈恭亮_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "陈恭亮", "url": "https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=33", "status": "active"}
+{"id": "sjtu_faculty_陈贵海_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "陈贵海", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/chenguihai.html", "status": "active"}
+{"id": "sjtu_faculty_陈国兴_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "陈国兴", "url": "https://donnod.github.io/", "status": "active"}
+{"id": "sjtu_faculty_陈海波_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "陈海波", "url": "https://ipads.se.sjtu.edu.cn/haibo_chen", "status": "active"}
+{"id": "sjtu_faculty_陈昊鹏_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "陈昊鹏", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/chenhaopeng.html", "status": "active"}
+{"id": "sjtu_faculty_陈颢天_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "陈颢天", "url": "https://hytn.github.io/", "status": "active"}
+{"id": "sjtu_faculty_陈颢天_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "陈颢天", "url": "https://soai.sjtu.edu.cn/cn/facultydetails/zzjs/chenhaotian", "status": "active"}
+{"id": "sjtu_faculty_陈宏田_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "陈宏田", "url": "https://sais.sjtu.edu.cn/faculty/chenhongtian.html", "status": "active"}
+{"id": "sjtu_faculty_陈黎兴_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "陈黎兴", "url": "https://lx-chen-sjtu.github.io/", "status": "active"}
+{"id": "sjtu_faculty_陈黎兴_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "陈黎兴", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/chenlixing.html", "status": "active"}
+{"id": "sjtu_faculty_陈力波_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "陈力波", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/chenlibo.html", "status": "active"}
+{"id": "sjtu_faculty_陈立鹏_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "陈立鹏", "url": "https://lipeng-chen.github.io/JoinUs/", "status": "active"}
+{"id": "sjtu_faculty_陈明达_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "陈明达", "url": "https://mingdachen.github.io/", "status": "active"}
+{"id": "sjtu_faculty_陈明达_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "陈明达", "url": "https://soai.sjtu.edu.cn/cn/facultydetails/zzjs/chenmingda", "status": "active"}
+{"id": "sjtu_faculty_陈思衡_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "陈思衡", "url": "https://siheng-chen.github.io/", "status": "active"}
+{"id": "sjtu_faculty_陈思衡_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "陈思衡", "url": "https://soai.sjtu.edu.cn/cn/facultydetails/zzjs/sihengc", "status": "active"}
+{"id": "sjtu_faculty_陈卫东_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "陈卫东", "url": "https://faculty.sjtu.edu.cn/chenweidong/zh_CN/zsxx/91935/list/index.htm", "status": "active"}
+{"id": "sjtu_faculty_陈晓桦_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "陈晓桦", "url": "https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=27", "status": "active"}
+{"id": "sjtu_faculty_陈新_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "陈新", "url": "https://sais.sjtu.edu.cn/faculty/chenxin.html", "status": "active"}
+{"id": "sjtu_faculty_陈秀真_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "陈秀真", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/chenxiuzhen.html", "status": "active"}
+{"id": "sjtu_faculty_陈奕超_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "陈奕超", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/chenyichao.html", "status": "active"}
+{"id": "sjtu_faculty_陈奕超_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "陈奕超", "url": "https://yichao0319.github.io/", "status": "active"}
+{"id": "sjtu_faculty_陈翌佳_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "陈翌佳", "url": "https://basics.sjtu.edu.cn/~chen/", "status": "active"}
+{"id": "sjtu_faculty_陈翌佳_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "陈翌佳", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/chenyijia.html", "status": "active"}
+{"id": "sjtu_faculty_陈勇波_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "陈勇波", "url": "https://sites.google.com/view/yongbochen/home", "status": "active"}
+{"id": "sjtu_faculty_陈勇波_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "陈勇波", "url": "https://sais.sjtu.edu.cn/faculty/chenyongbo.html", "status": "active"}
+{"id": "sjtu_faculty_陈游旻_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "陈游旻", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/chenyoumin.html", "status": "active"}
+{"id": "sjtu_faculty_陈友仁_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "陈友仁", "url": "https://sais.sjtu.edu.cn/faculty/chenyouren.html", "status": "active"}
+{"id": "sjtu_faculty_陈雨亭_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "陈雨亭", "url": "https://cs.sjtu.edu.cn/cse/PeopleDetail.aspx?id=322", "status": "active"}
+{"id": "sjtu_faculty_陈雨亭_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "陈雨亭", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/chenyuting.html", "status": "active"}
+{"id": "sjtu_faculty_陈玉泉_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "陈玉泉", "url": "https://www.cs.sjtu.edu.cn/en/PeopleDetail.aspx?id=110", "status": "active"}
+{"id": "sjtu_faculty_陈玉泉_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "陈玉泉", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/chenyuquan.html", "status": "active"}
+{"id": "sjtu_faculty_程_帆_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "程 帆", "url": "https://en.zhiyuan.sjtu.edu.cn/en/faculty/852/detail", "status": "active"}
+{"id": "sjtu_faculty_程_帆_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "程 帆", "url": "https://cs.sjtu.edu.cn/cse/PeopleDetail.aspx?id=360", "status": "active"}
+{"id": "sjtu_faculty_程昊_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "程昊", "url": "https://sais.sjtu.edu.cn/faculty/chenghao.html", "status": "active"}
+{"id": "sjtu_faculty_程远_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "程远", "url": "https://cyuan328.github.io/position/", "status": "active"}
+{"id": "sjtu_faculty_崔大祥_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "崔大祥", "url": "https://sais.sjtu.edu.cn/faculty/cuidaxiang.html", "status": "active"}
+{"id": "sjtu_faculty_崔少波_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "崔少波", "url": "https://shaobo.info/", "status": "active"}
+{"id": "sjtu_faculty_崔少波_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "崔少波", "url": "https://soai.sjtu.edu.cn/cn/facultydetails/zzjs/cuishaobo", "status": "active"}
+{"id": "sjtu_faculty_代彬_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "代彬", "url": "https://sais.sjtu.edu.cn/faculty/daibin.html", "status": "active"}
+{"id": "sjtu_faculty_戴_文睿_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "戴 文睿", "url": "https://cs.sjtu.edu.cn/cse/PeopleDetail.aspx?id=418", "status": "active"}
+{"id": "sjtu_faculty_戴_文睿_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "戴 文睿", "url": "https://icisee.sjtu.edu.cn/jiaoshiml/2851.html", "status": "active"}
+{"id": "sjtu_faculty_戴国浩_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "戴国浩", "url": "https://dai.sjtu.edu.cn", "status": "active"}
+{"id": "sjtu_faculty_戴国浩_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "戴国浩", "url": "https://soai.sjtu.edu.cn/cn/facultydetails/zzjs/daiguohao", "status": "active"}
+{"id": "sjtu_faculty_戴文斌_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "戴文斌", "url": "https://sais.sjtu.edu.cn/faculty/daiwenbin.html", "status": "active"}
+{"id": "sjtu_faculty_单蓉胜_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "单蓉胜", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/shanrongsheng.html", "status": "active"}
+{"id": "sjtu_faculty_邓倩妮_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "邓倩妮", "url": "https://cs.sjtu.edu.cn/cse/PeopleDetail.aspx?id=105", "status": "active"}
+{"id": "sjtu_faculty_邓倩妮_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "邓倩妮", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/dengqianni.html", "status": "active"}
+{"id": "sjtu_faculty_邓志杰_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "邓志杰", "url": "https://thudzj.github.io/", "status": "active"}
+{"id": "sjtu_faculty_丁_宁_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "丁 宁", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/dingning.html", "status": "active"}
+{"id": "sjtu_faculty_丁_玥_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "丁 玥", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/dingyue.html", "status": "active"}
+{"id": "sjtu_faculty_丁国清_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "丁国清", "url": "https://sais.sjtu.edu.cn/faculty/dingguoqing.html", "status": "active"}
+{"id": "sjtu_faculty_丁家昕_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "丁家昕", "url": "https://jhc.sjtu.edu.cn/~jiaxinding/", "status": "active"}
+{"id": "sjtu_faculty_董明凯_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "董明凯", "url": "https://dong.mk/", "status": "active"}
+{"id": "sjtu_faculty_董明凯_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "董明凯", "url": "https://ipads.se.sjtu.edu.cn/zh/pub/members/mingkai_dong/", "status": "active"}
+{"id": "sjtu_faculty_董明凯_003", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "董明凯", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/dongmingkai.html", "status": "active"}
+{"id": "sjtu_faculty_董笑菊_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "董笑菊", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/dongxiaoju.html", "status": "active"}
+{"id": "sjtu_faculty_杜冬冬_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "杜冬冬", "url": "https://dongd.info/", "status": "active"}
+{"id": "sjtu_faculty_段圣雄_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "段圣雄", "url": "https://zias.sjtu.edu.cn/info/1267/2958.htm", "status": "active"}
+{"id": "sjtu_faculty_段圣雄_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "段圣雄", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/duanshengxiong.html", "status": "active"}
+{"id": "sjtu_faculty_段苏峰_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "段苏峰", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/duansufeng.html", "status": "active"}
+{"id": "sjtu_faculty_段晓明_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "段晓明", "url": "https://sais.sjtu.edu.cn/faculty/duanxiaoming.html", "status": "active"}
+{"id": "sjtu_faculty_范_磊_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "范 磊", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/fanlei.html", "status": "active"}
+{"id": "sjtu_faculty_方崇荣_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "方崇荣", "url": "https://sais.sjtu.edu.cn/faculty/fangchongrong.html", "status": "active"}
+{"id": "sjtu_faculty_方涛_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "方涛", "url": "https://sais.sjtu.edu.cn/faculty/fangtao.html", "status": "active"}
+{"id": "sjtu_faculty_方兴其_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "方兴其", "url": "https://sais.sjtu.edu.cn/faculty/fangxingqi.html", "status": "active"}
+{"id": "sjtu_faculty_房茂波_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "房茂波", "url": "https://sais.sjtu.edu.cn/faculty/fangmaobo.html", "status": "active"}
+{"id": "sjtu_faculty_冯_宇_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "冯 宇", "url": "https://yufenguofr.github.io/", "status": "active"}
+{"id": "sjtu_faculty_冯二虎_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "冯二虎", "url": "https://ipads.se.sjtu.edu.cn/pub/members/erhu_feng", "status": "active"}
+{"id": "sjtu_faculty_冯二虎_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "冯二虎", "url": "https://soai.sjtu.edu.cn/cn/facultydetails/zzjs/fengerhu", "status": "active"}
+{"id": "sjtu_faculty_伏玉笋_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "伏玉笋", "url": "https://sais.sjtu.edu.cn/faculty/fuyusun.html", "status": "active"}
+{"id": "sjtu_faculty_符芳诚_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "符芳诚", "url": "https://ccchengff.github.io", "status": "active"}
+{"id": "sjtu_faculty_符鸿飞_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "符鸿飞", "url": "https://jhc.sjtu.edu.cn/~hongfeifu/", "status": "active"}
+{"id": "sjtu_faculty_符鸿飞_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "符鸿飞", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/fuhongfei.html", "status": "active"}
+{"id": "sjtu_faculty_付华林_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "付华林", "url": "https://sais.sjtu.edu.cn/faculty/fuhualin.html", "status": "active"}
+{"id": "sjtu_faculty_傅洛伊_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "傅洛伊", "url": "https://www.cs.sjtu.edu.cn/~fu-ly/index.html", "status": "active"}
+{"id": "sjtu_faculty_傅洛伊_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "傅洛伊", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/fuluoyi.html", "status": "active"}
+{"id": "sjtu_faculty_傅山_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "傅山", "url": "https://sais.sjtu.edu.cn/faculty/fushan.html", "status": "active"}
+{"id": "sjtu_faculty_傅育熙_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "傅育熙", "url": "https://basics.sjtu.edu.cn/~yuxi/", "status": "active"}
+{"id": "sjtu_faculty_傅育熙_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "傅育熙", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/fuyuxi.html", "status": "active"}
+{"id": "sjtu_faculty_高_岳_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "高 岳", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/gaoyue.html", "status": "active"}
+{"id": "sjtu_faculty_高安柱_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "高安柱", "url": "https://sais.sjtu.edu.cn/faculty/gaoanzhu.html", "status": "active"}
+{"id": "sjtu_faculty_高国_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "高国", "url": "https://sais.sjtu.edu.cn/faculty/gaoguo.html", "status": "active"}
+{"id": "sjtu_faculty_高晓沨_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "高晓沨", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/gaoxiaofeng.html", "status": "active"}
+{"id": "sjtu_faculty_葛骑岐_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "葛骑岐", "url": "https://sais.sjtu.edu.cn/faculty/geqiqi.html", "status": "active"}
+{"id": "sjtu_faculty_宫亮_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "宫亮", "url": "https://sais.sjtu.edu.cn/faculty/gongliang.html", "status": "active"}
+{"id": "sjtu_faculty_龚玲_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "龚玲", "url": "https://sais.sjtu.edu.cn/faculty/gongling.html", "status": "active"}
+{"id": "sjtu_faculty_古金宇_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "古金宇", "url": "https://ipads.se.sjtu.edu.cn/zh/pub/members/jinyu_gu/", "status": "active"}
+{"id": "sjtu_faculty_古金宇_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "古金宇", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/gujinyu.html", "status": "active"}
+{"id": "sjtu_faculty_谷_大武_首席科学家_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "谷 大武 (首席科学家)", "url": "https://cs.sjtu.edu.cn/cse/PeopleDetail.aspx?id=101", "status": "active"}
+{"id": "sjtu_faculty_谷朝臣_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "谷朝臣", "url": "https://sais.sjtu.edu.cn/faculty/guchaochen.html", "status": "active"}
+{"id": "sjtu_faculty_谷大武_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "谷大武", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/gudawu.html", "status": "active"}
+{"id": "sjtu_faculty_顾磊磊_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "顾磊磊", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/guleilei.html", "status": "active"}
+{"id": "sjtu_faculty_顾小东_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "顾小东", "url": "https://guxd.github.io/", "status": "active"}
+{"id": "sjtu_faculty_顾小东_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "顾小东", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/guxiaodong.html", "status": "active"}
+{"id": "sjtu_faculty_顾运_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "顾运", "url": "https://sais.sjtu.edu.cn/faculty/guyun.html", "status": "active"}
+{"id": "sjtu_faculty_关新平_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "关新平", "url": "https://sais.sjtu.edu.cn/faculty/guanxinping.html", "status": "active"}
+{"id": "sjtu_faculty_管海兵_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "管海兵", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/guanhaibing.html", "status": "active"}
+{"id": "sjtu_faculty_归_琳_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "归 琳", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/guilin.html", "status": "active"}
+{"id": "sjtu_faculty_桂佳平_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "桂佳平", "url": "https://guijiaping.github.io/", "status": "active"}
+{"id": "sjtu_faculty_郭_捷_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "郭 捷", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/guojie.html", "status": "active"}
+{"id": "sjtu_faculty_郭劲宏_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "郭劲宏", "url": "https://sais.sjtu.edu.cn/faculty/guojinhong.html", "status": "active"}
+{"id": "sjtu_faculty_郭宁_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "郭宁", "url": "https://gabriel-ning.github.io/", "status": "active"}
+{"id": "sjtu_faculty_郭宁_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "郭宁", "url": "https://soai.sjtu.edu.cn/cn/facultydetails/zzjs/guoning", "status": "active"}
+{"id": "sjtu_faculty_郭逸_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "郭逸", "url": "https://sais.sjtu.edu.cn/faculty/guoyi.html", "status": "active"}
+{"id": "sjtu_faculty_过敏意_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "过敏意", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/guominyi.html", "status": "active"}
+{"id": "sjtu_faculty_韩_帅_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "韩 帅", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/hanshuai.html", "status": "active"}
+{"id": "sjtu_faculty_韩韬_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "韩韬", "url": "https://sais.sjtu.edu.cn/faculty/hantao.html", "status": "active"}
+{"id": "sjtu_faculty_韩晓东_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "韩晓东", "url": "https://sais.sjtu.edu.cn/faculty/hanxiaodong.html", "status": "active"}
+{"id": "sjtu_faculty_何迪_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "何迪", "url": "https://sais.sjtu.edu.cn/faculty/hedi.html", "status": "active"}
+{"id": "sjtu_faculty_何建平_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "何建平", "url": "https://sais.sjtu.edu.cn/faculty/hejianping.html", "status": "active"}
+{"id": "sjtu_faculty_何劲_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "何劲", "url": "https://sais.sjtu.edu.cn/faculty/hejin.html", "status": "active"}
+{"id": "sjtu_faculty_何黎明_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "何黎明", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/heliming.html", "status": "active"}
+{"id": "sjtu_faculty_何星_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "何星", "url": "https://sais.sjtu.edu.cn/faculty/hexing.html", "status": "active"}
+{"id": "sjtu_faculty_何哲陟_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "何哲陟", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/hezhezhi.html", "status": "active"}
+{"id": "sjtu_faculty_贺超翔_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "贺超翔", "url": "https://chxhe.github.io/", "status": "active"}
+{"id": "sjtu_faculty_贺超翔_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "贺超翔", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/hechaoxiang.html", "status": "active"}
+{"id": "sjtu_faculty_贺可强_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "贺可强", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/hekeqiang.html", "status": "active"}
+{"id": "sjtu_faculty_洪_义_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "洪 义", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/hongyi.html", "status": "active"}
+{"id": "sjtu_faculty_洪佳楠_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "洪佳楠", "url": "https://hongjianansjtu.github.io/", "status": "active"}
+{"id": "sjtu_faculty_侯勤胜_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "侯勤胜", "url": "https://chicharitomu14.github.io/", "status": "active"}
+{"id": "sjtu_faculty_侯勤胜_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "侯勤胜", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/houqinsheng.html", "status": "active"}
+{"id": "sjtu_faculty_侯小凤_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "侯小凤", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/houxiaofeng.html", "status": "active"}
+{"id": "sjtu_faculty_侯中宇_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "侯中宇", "url": "https://sais.sjtu.edu.cn/faculty/houzhongyu.html", "status": "active"}
+{"id": "sjtu_faculty_胡_畔_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "胡 畔", "url": "https://faculty.sjtu.edu.cn/hupan/zh_CN/index.htm", "status": "active"}
+{"id": "sjtu_faculty_胡_畔_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "胡 畔", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/hupan.html", "status": "active"}
+{"id": "sjtu_faculty_胡宏盛_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "胡宏盛", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/huhongsheng.html", "status": "active"}
+{"id": "sjtu_faculty_胡易坤_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "胡易坤", "url": "https://yikunh.github.io/", "status": "active"}
+{"id": "sjtu_faculty_胡云聪_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "胡云聪", "url": "https://huyuncong.com", "status": "active"}
+{"id": "sjtu_faculty_胡云聪_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "胡云聪", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/huyuncong.html", "status": "active"}
+{"id": "sjtu_faculty_华志超_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "华志超", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/huazhichao.html", "status": "active"}
+{"id": "sjtu_faculty_化存卿_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "化存卿", "url": "https://faculty.sjtu.edu.cn/huacunqing/zh_CN/zsxx/188319/list/index.htm", "status": "active"}
+{"id": "sjtu_faculty_宦飞_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "宦飞", "url": "https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=19", "status": "active"}
+{"id": "sjtu_faculty_黄_涛_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "黄 涛", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/huangtao.html", "status": "active"}
+{"id": "sjtu_faculty_黄_征_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "黄 征", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/huangzheng.html", "status": "active"}
+{"id": "sjtu_faculty_黄靖正_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "黄靖正", "url": "https://qsip.sjtu.edu.cn/info/1119/1194.htm", "status": "active"}
+{"id": "sjtu_faculty_黄靖正_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "黄靖正", "url": "https://sais.sjtu.edu.cn/faculty/huangjingzheng.html", "status": "active"}
+{"id": "sjtu_faculty_黄俊钦_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "黄俊钦", "url": "https://huangjunqin.com/", "status": "active"}
+{"id": "sjtu_faculty_黄俊钦_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "黄俊钦", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/huangjunqin.html", "status": "active"}
+{"id": "sjtu_faculty_黄林鹏_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "黄林鹏", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/huanglinpeng.html", "status": "active"}
+{"id": "sjtu_faculty_黄林庆_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "黄林庆", "url": "https://shaoyuhlq.github.io/HuangLinqing0228.github.io/", "status": "active"}
+{"id": "sjtu_faculty_黄梅珍_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "黄梅珍", "url": "https://sais.sjtu.edu.cn/faculty/huangmeizhen.html", "status": "active"}
+{"id": "sjtu_faculty_黄鹏_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "黄鹏", "url": "https://sais.sjtu.edu.cn/faculty/huangpeng.html", "status": "active"}
+{"id": "sjtu_faculty_黄维然_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "黄维然", "url": "https://mifa.sjtu.edu.cn/~weiranhuang/", "status": "active"}
+{"id": "sjtu_faculty_黄维然_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "黄维然", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/huangweiran.html", "status": "active"}
+{"id": "sjtu_faculty_黄晓霖_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "黄晓霖", "url": "https://sais.sjtu.edu.cn/faculty/huangxiaolin.html", "status": "active"}
+{"id": "sjtu_faculty_黄震宇_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "黄震宇", "url": "https://sais.sjtu.edu.cn/faculty/huangzhenyu.html", "status": "active"}
+{"id": "sjtu_faculty_回_红_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "回 红", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/huihong.html", "status": "active"}
+{"id": "sjtu_faculty_霍宏_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "霍宏", "url": "https://sais.sjtu.edu.cn/faculty/huohong.html", "status": "active"}
+{"id": "sjtu_faculty_纪幸辰_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "纪幸辰", "url": "https://jhc.sjtu.edu.cn/~xingchenji/", "status": "active"}
+{"id": "sjtu_faculty_纪幸辰_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "纪幸辰", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/jixingchen.html", "status": "active"}
+{"id": "sjtu_faculty_贾孟硕_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "贾孟硕", "url": "https://sais.sjtu.edu.cn/faculty/jiamengshuo.html", "status": "active"}
+{"id": "sjtu_faculty_江_波_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "江 波", "url": "https://jhc.sjtu.edu.cn/~bjiang/", "status": "active"}
+{"id": "sjtu_faculty_姜丽红_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "姜丽红", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/jianglihong.html", "status": "active"}
+{"id": "sjtu_faculty_姜萍萍_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "姜萍萍", "url": "https://sais.sjtu.edu.cn/faculty/jiangpingping.html", "status": "active"}
+{"id": "sjtu_faculty_蒋_力_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "蒋 力", "url": "https://cs.sjtu.edu.cn/~jiangli/", "status": "active"}
+{"id": "sjtu_faculty_蒋兴浩_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "蒋兴浩", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/jiangxinghao.html", "status": "active"}
+{"id": "sjtu_faculty_金顾敏_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "金顾敏", "url": "https://sais.sjtu.edu.cn/faculty/jingumin.html", "status": "active"}
+{"id": "sjtu_faculty_金海明_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "金海明", "url": "https://www.cs.sjtu.edu.cn/~jinhaiming/", "status": "active"}
+{"id": "sjtu_faculty_金海明_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "金海明", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/jinhaiming.html", "status": "active"}
+{"id": "sjtu_faculty_金涵_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "金涵", "url": "https://sais.sjtu.edu.cn/faculty/jinhan.html", "status": "active"}
+{"id": "sjtu_faculty_金梦_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "金梦", "url": "https://yume-sjtu.github.io/", "status": "active"}
+{"id": "sjtu_faculty_金耀辉_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "金耀辉", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/jinyaohui.html", "status": "active"}
+{"id": "sjtu_faculty_柯_晶_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "柯 晶", "url": "https://crystal-kej.github.io/", "status": "active"}
+{"id": "sjtu_faculty_孔令和_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "孔令和", "url": "https://www.cs.sjtu.edu.cn/~linghe.kong/", "status": "active"}
+{"id": "sjtu_faculty_孔令和_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "孔令和", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/konglinghe.html", "status": "active"}
+{"id": "sjtu_faculty_来学嘉_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "来学嘉", "url": "https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=85", "status": "active"}
+{"id": "sjtu_faculty_赖奕甫_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "赖奕甫", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/laiyifu.html", "status": "active"}
+{"id": "sjtu_faculty_乐心怡_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "乐心怡", "url": "https://sais.sjtu.edu.cn/faculty/yuexinyi.html", "status": "active"}
+{"id": "sjtu_faculty_雷华明_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "雷华明", "url": "https://sais.sjtu.edu.cn/faculty/leihuaming.html", "status": "active"}
+{"id": "sjtu_faculty_雷信生_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "雷信生", "url": "https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=25", "status": "active"}
+{"id": "sjtu_faculty_冷静文_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "冷静文", "url": "https://cs.sjtu.edu.cn/~leng-jw/", "status": "active"}
+{"id": "sjtu_faculty_李_超_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "李 超", "url": "https://cs.sjtu.edu.cn/~lichao/students.html", "status": "active"}
+{"id": "sjtu_faculty_李_健_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "李 健", "url": "https://faculty.sjtu.edu.cn/jianli/zh_CN/index.htm", "status": "active"}
+{"id": "sjtu_faculty_李_健_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "李 健", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/lijian.html", "status": "active"}
+{"id": "sjtu_faculty_李_颉_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "李 颉", "url": "https://www.cs.sjtu.edu.cn/~lijie/", "status": "active"}
+{"id": "sjtu_faculty_李_颉_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "李 颉", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/lijie.html", "status": "active"}
+{"id": "sjtu_faculty_李_颉_主任_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "李 颉 (主任)", "url": "https://cs.sjtu.edu.cn/cse/PeopleDetail.aspx?id=384", "status": "active"}
+{"id": "sjtu_faculty_李_力_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "李 力", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/lili.html", "status": "active"}
+{"id": "sjtu_faculty_李_强_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "李 强", "url": "https://faculty.sjtu.edu.cn/jianli/zh_CN/index.htm", "status": "active"}
+{"id": "sjtu_faculty_李_伟_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "李 伟", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/liwei.html", "status": "active"}
+{"id": "sjtu_faculty_李_阳_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "李 阳", "url": "https://liyang.page/", "status": "active"}
+{"id": "sjtu_faculty_李_阳_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "李 阳", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/l.html", "status": "active"}
+{"id": "sjtu_faculty_李晨达_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "李晨达", "url": "https://chenda.li/", "status": "active"}
+{"id": "sjtu_faculty_李晨达_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "李晨达", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/lichenda.html", "status": "active"}
+{"id": "sjtu_faculty_李德伟_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "李德伟", "url": "https://sais.sjtu.edu.cn/faculty/lidewei.html", "status": "active"}
+{"id": "sjtu_faculty_李东瀛_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "李东瀛", "url": "https://sais.sjtu.edu.cn/faculty/lidongying.html", "status": "active"}
+{"id": "sjtu_faculty_李高磊_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "李高磊", "url": "https://www.cs.sjtu.edu.cn/~lijie/", "status": "active"}
+{"id": "sjtu_faculty_李国强_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "李国强", "url": "https://basics.sjtu.edu.cn/~liguoqiang/VIP.htm", "status": "active"}
+{"id": "sjtu_faculty_李红兵_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "李红兵", "url": "https://sais.sjtu.edu.cn/faculty/lihongbing.html", "status": "active"}
+{"id": "sjtu_faculty_李洪婧_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "李洪婧", "url": "https://sais.sjtu.edu.cn/faculty/lihongjing.html", "status": "active"}
+{"id": "sjtu_faculty_李建华_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "李建华", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/lijianhua.html", "status": "active"}
+{"id": "sjtu_faculty_李建勋_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "李建勋", "url": "https://sais.sjtu.edu.cn/faculty/lijianxun.html", "status": "active"}
+{"id": "sjtu_faculty_李晶晶_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "李晶晶", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/lijingjing.html", "status": "active"}
+{"id": "sjtu_faculty_李林森_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "李林森", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/lilinsen.html", "status": "active"}
+{"id": "sjtu_faculty_李柠_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "李柠", "url": "https://sais.sjtu.edu.cn/faculty/lining.html", "status": "active"}
+{"id": "sjtu_faculty_李平_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "李平", "url": "https://sais.sjtu.edu.cn/faculty/liping.html", "status": "active"}
+{"id": "sjtu_faculty_李沁雅_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "李沁雅", "url": "https://liyang.page/", "status": "active"}
+{"id": "sjtu_faculty_李生红_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "李生红", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/lishenghong.html", "status": "active"}
+{"id": "sjtu_faculty_李世阳_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "李世阳", "url": "https://sais.sjtu.edu.cn/faculty/lishiyang.html", "status": "active"}
+{"id": "sjtu_faculty_李帅_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "李帅", "url": "https://shuaili8.github.io/students.html", "status": "active"}
+{"id": "sjtu_faculty_李宋宋_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "李宋宋", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/lisongsong.html", "status": "active"}
+{"id": "sjtu_faculty_李希君_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "李希君", "url": "https://tcloud.sjtu.edu.cn/people/lixijun/", "status": "active"}
+{"id": "sjtu_faculty_李贤伟_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "李贤伟", "url": "https://sais.sjtu.edu.cn/faculty/lixianwei.html", "status": "active"}
+{"id": "sjtu_faculty_李小勇_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "李小勇", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/lixiaoyong.html", "status": "active"}
+{"id": "sjtu_faculty_李一辰_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "李一辰", "url": "https://sais.sjtu.edu.cn/faculty/liyichen.html", "status": "active"}
+{"id": "sjtu_faculty_李永露_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "李永露", "url": "https://dirtyharrylyl.github.io/", "status": "active"}
+{"id": "sjtu_faculty_李永露_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "李永露", "url": "https://soai.sjtu.edu.cn/cn/facultydetails/zzjs/liyonglu", "status": "active"}
+{"id": "sjtu_faculty_李元龙_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "李元龙", "url": "https://xijunlee.github.io/", "status": "active"}
+{"id": "sjtu_faculty_李钟毓_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "李钟毓", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/lizhongyu.html", "status": "active"}
+{"id": "sjtu_faculty_连文昭_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "连文昭", "url": "https://lianwenzhao.github.io/", "status": "active"}
+{"id": "sjtu_faculty_连文昭_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "连文昭", "url": "https://soai.sjtu.edu.cn/cn/facultydetails/zzjs/lianwenzhao", "status": "active"}
+{"id": "sjtu_faculty_梁诗宇_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "梁诗宇", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/liangshiyu.html", "status": "active"}
+{"id": "sjtu_faculty_梁晓峣_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "梁晓峣", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/liangxiaoyao.html", "status": "active"}
+{"id": "sjtu_faculty_林_夕_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "林 夕", "url": "https://sais.sjtu.edu.cn/faculty/liyichen.html", "status": "active"}
+{"id": "sjtu_faculty_林_祥_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "林 祥", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/linxiang.html", "status": "active"}
+{"id": "sjtu_faculty_林_学民_兼职_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "林 学民(兼职)", "url": "https://cs.sjtu.edu.cn/cse/PeopleDetail.aspx?id=560", "status": "active"}
+{"id": "sjtu_faculty_林_云_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "林 云", "url": "http://linyun.info", "status": "active"}
+{"id": "sjtu_faculty_林树靖_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "林树靖", "url": "https://sais.sjtu.edu.cn/faculty/linshujing.html", "status": "active"}
+{"id": "sjtu_faculty_林洲汉_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "林洲汉", "url": "https://hantek.github.io/", "status": "active"}
+{"id": "sjtu_faculty_林洲汉_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "林洲汉", "url": "https://soai.sjtu.edu.cn/cn/facultydetails/zzjs/linzhouhan", "status": "active"}
+{"id": "sjtu_faculty_刘_铭_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "刘 铭", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/lizhongyu.html", "status": "active"}
+{"id": "sjtu_faculty_刘_振_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "刘 振", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/liuzhen.html", "status": "active"}
+{"id": "sjtu_faculty_刘大生_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "刘大生", "url": "https://sais.sjtu.edu.cn/faculty/liudasheng.html", "status": "active"}
+{"id": "sjtu_faculty_刘方鑫_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "刘方鑫", "url": "https://mxhx7199.github.io/", "status": "active"}
+{"id": "sjtu_faculty_刘功申_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "刘功申", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/liugongshen.html", "status": "active"}
+{"id": "sjtu_faculty_刘海涛_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "刘海涛", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/liuhaitao.html", "status": "active"}
+{"id": "sjtu_faculty_刘华_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "刘华", "url": "https://sais.sjtu.edu.cn/faculty/liuhua.html", "status": "active"}
+{"id": "sjtu_faculty_刘锦阳_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "刘锦阳", "url": "https://hantek.github.io/", "status": "active"}
+{"id": "sjtu_faculty_刘满华_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "刘满华", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/liumanhua.html", "status": "active"}
+{"id": "sjtu_faculty_刘鹏飞_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "刘鹏飞", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/liupengfei.html", "status": "active"}
+{"id": "sjtu_faculty_刘琦_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "刘琦", "url": "https://sais.sjtu.edu.cn/faculty/liuqi.html", "status": "active"}
+{"id": "sjtu_faculty_刘若楠_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "刘若楠", "url": "https://sais.sjtu.edu.cn/faculty/liuruonan.html", "status": "active"}
+{"id": "sjtu_faculty_刘生钟_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "刘生钟", "url": "https://liushengzhong1023.github.io/", "status": "active"}
+{"id": "sjtu_faculty_刘生钟_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "刘生钟", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/liushengzhong.html", "status": "active"}
+{"id": "sjtu_faculty_刘胜利_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "刘胜利", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/liushengli.html", "status": "active"}
+{"id": "sjtu_faculty_刘盛云_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "刘盛云", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/liushengyun.html", "status": "active"}
+{"id": "sjtu_faculty_刘澍鑫_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "刘澍鑫", "url": "https://sais.sjtu.edu.cn/faculty/liushuxin.html", "status": "active"}
+{"id": "sjtu_faculty_刘思学_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "刘思学", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/liusixue.html", "status": "active"}
+{"id": "sjtu_faculty_刘松桦_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "刘松桦", "url": "https://huage001.github.io", "status": "active"}
+{"id": "sjtu_faculty_刘松桦_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "刘松桦", "url": "https://soai.sjtu.edu.cn/cn/facultydetails/zzjs/liusonghua", "status": "active"}
+{"id": "sjtu_faculty_刘伟_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "刘伟", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/liumanhua.html", "status": "active"}
+{"id": "sjtu_faculty_刘伟文_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "刘伟文", "url": "https://sais.sjtu.edu.cn/faculty/liuweiwen.html", "status": "active"}
+{"id": "sjtu_faculty_刘卫文_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "刘卫文", "url": "https://wwliu555.github.io/", "status": "active"}
+{"id": "sjtu_faculty_刘卫文_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "刘卫文", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/liuweiwen.html", "status": "active"}
+{"id": "sjtu_faculty_刘笑宏_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "刘笑宏", "url": "https://jhc.sjtu.edu.cn/~xiaohongliu/supervision/", "status": "active"}
+{"id": "sjtu_faculty_刘岩磊_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "刘岩磊", "url": "https://sais.sjtu.edu.cn/faculty/liuyanlei.html", "status": "active"}
+{"id": "sjtu_faculty_刘彦博_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "刘彦博", "url": "https://faculty.sjtu.edu.cn/liuyanbo/zh_CN/index.htm", "status": "active"}
+{"id": "sjtu_faculty_刘彦博_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "刘彦博", "url": "https://sais.sjtu.edu.cn/faculty/liuyanbo.html", "status": "active"}
+{"id": "sjtu_faculty_刘雨桐_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "刘雨桐", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/liushengyun.html", "status": "active"}
+{"id": "sjtu_faculty_刘哲_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "刘哲", "url": "https://irmv.sjtu.edu.cn/liuzhe_cn", "status": "active"}
+{"id": "sjtu_faculty_龙_环_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "龙 环", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/longhuan.html", "status": "active"}
+{"id": "sjtu_faculty_龙_宇_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "龙 宇", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/longyu.html", "status": "active"}
+{"id": "sjtu_faculty_龙承念_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "龙承念", "url": "https://sais.sjtu.edu.cn/faculty/longchengnian.html", "status": "active"}
+{"id": "sjtu_faculty_龙海辉_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "龙海辉", "url": "https://sais.sjtu.edu.cn/faculty/longhaihui.html", "status": "active"}
+{"id": "sjtu_faculty_龙泳_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "龙泳", "url": "https://sais.sjtu.edu.cn/faculty/1610.html", "status": "active"}
+{"id": "sjtu_faculty_娄_炯_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "娄 炯", "url": "https://loujiong.com/", "status": "active"}
+{"id": "sjtu_faculty_卢策吾_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "卢策吾", "url": "https://soai.sjtu.edu.cn/cn/facultydetails/zzjs/lucewu", "status": "active"}
+{"id": "sjtu_faculty_卢宏涛_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "卢宏涛", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/luhongtao.html", "status": "active"}
+{"id": "sjtu_faculty_卢俊国_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "卢俊国", "url": "https://sais.sjtu.edu.cn/faculty/lujunguo.html", "status": "active"}
+{"id": "sjtu_faculty_卢艺_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "卢艺", "url": "https://jhc.sjtu.edu.cn/~xiaohongliu/", "status": "active"}
+{"id": "sjtu_faculty_陆_朝俊_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "陆 朝俊", "url": "https://cs.sjtu.edu.cn/cse/PeopleDetail.aspx?id=88", "status": "active"}
+{"id": "sjtu_faculty_陆_佳亮_兼职_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "陆 佳亮 (兼职)", "url": "https://cs.sjtu.edu.cn/cse/PeopleDetail.aspx?id=319", "status": "active"}
+{"id": "sjtu_faculty_陆海宁_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "陆海宁", "url": "https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=126", "status": "active"}
+{"id": "sjtu_faculty_陆海宁_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "陆海宁", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/luhaining.html", "status": "active"}
+{"id": "sjtu_faculty_陆燕玉_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "陆燕玉", "url": "https://sais.sjtu.edu.cn/faculty/luyanyu.html", "status": "active"}
+{"id": "sjtu_faculty_鹿存跃_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "鹿存跃", "url": "https://sais.sjtu.edu.cn/faculty/lucunyue.html", "status": "active"}
+{"id": "sjtu_faculty_罗骋韬_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "罗骋韬", "url": "https://sais.sjtu.edu.cn/faculty/luochengtao.html", "status": "active"}
+{"id": "sjtu_faculty_罗欣剑_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "罗欣剑", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/luoxinjian.html", "status": "active"}
+{"id": "sjtu_faculty_骆_源_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "骆 源", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/luoyuan.html", "status": "active"}
+{"id": "sjtu_faculty_骆_源_副主任_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "骆 源 (副主任)", "url": "https://cs.sjtu.edu.cn/cse/PeopleDetail.aspx?id=87", "status": "active"}
+{"id": "sjtu_faculty_吕宝粮_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "吕宝粮", "url": "https://bcmi.sjtu.edu.cn/home/blu/", "status": "active"}
+{"id": "sjtu_faculty_吕宝粮_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "吕宝粮", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/lyubaoliang.html", "status": "active"}
+{"id": "sjtu_faculty_吕娜_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "吕娜", "url": "https://sais.sjtu.edu.cn/faculty/lyuna.html", "status": "active"}
+{"id": "sjtu_faculty_马_超_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "马 超", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/machao.html", "status": "active"}
+{"id": "sjtu_faculty_马_进_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "马 进", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/majin.html", "status": "active"}
+{"id": "sjtu_faculty_马_融_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "马 融", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/marong.html", "status": "active"}
+{"id": "sjtu_faculty_马奥运_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "马奥运", "url": "https://sais.sjtu.edu.cn/faculty/maaoyun.html", "status": "active"}
+{"id": "sjtu_faculty_马进_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "马进", "url": "https://faculty.sjtu.edu.cn/mayixin", "status": "active"}
+{"id": "sjtu_faculty_马利庄_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "马利庄", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/malizhuang.html", "status": "active"}
+{"id": "sjtu_faculty_马汝辉_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "马汝辉", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/maruhui.html", "status": "active"}
+{"id": "sjtu_faculty_马叶涵_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "马叶涵", "url": "https://jhc.sjtu.edu.cn/~yehanma/", "status": "active"}
+{"id": "sjtu_faculty_马叶涵_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "马叶涵", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/mayehan.html", "status": "active"}
+{"id": "sjtu_faculty_马艺馨_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "马艺馨", "url": "https://faculty.sjtu.edu.cn/mayixin", "status": "active"}
+{"id": "sjtu_faculty_马艺馨_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "马艺馨", "url": "https://sais.sjtu.edu.cn/faculty/mayixin.html", "status": "active"}
+{"id": "sjtu_faculty_马颖华_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "马颖华", "url": "https://sais.sjtu.edu.cn/faculty/mazhuochen.html", "status": "active"}
+{"id": "sjtu_faculty_马卓晨_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "马卓晨", "url": "https://sais.sjtu.edu.cn/faculty/mazhuochen.html", "status": "active"}
+{"id": "sjtu_faculty_毛义梅_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "毛义梅", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/mengyan.html", "status": "active"}
+{"id": "sjtu_faculty_毛逸飞_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "毛逸飞", "url": "https://sais.sjtu.edu.cn/faculty/maoyifei.html", "status": "active"}
+{"id": "sjtu_faculty_茅旭初_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "茅旭初", "url": "https://sais.sjtu.edu.cn/faculty/maoxuchu.html", "status": "active"}
+{"id": "sjtu_faculty_孟_岩_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "孟 岩", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/mengyan.html", "status": "active"}
+{"id": "sjtu_faculty_孟_岩_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "孟 岩", "url": "https://yan4meng.github.io/", "status": "active"}
+{"id": "sjtu_faculty_孟魁_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "孟魁", "url": "https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=144", "status": "active"}
+{"id": "sjtu_faculty_糜泽羽_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "糜泽羽", "url": "https://ipads.se.sjtu.edu.cn/pub/members/zeyu_mi", "status": "active"}
+{"id": "sjtu_faculty_糜泽羽_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "糜泽羽", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/mizeyu.html", "status": "active"}
+{"id": "sjtu_faculty_穆_尧_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "穆 尧", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/muyao.html", "status": "active"}
+{"id": "sjtu_faculty_南卓江_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "南卓江", "url": "https://sais.sjtu.edu.cn/faculty/nanzhuojiang.html", "status": "active"}
+{"id": "sjtu_faculty_宁超_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "宁超", "url": "https://sais.sjtu.edu.cn/faculty/ningchao.html", "status": "active"}
+{"id": "sjtu_faculty_牛_力_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "牛 力", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/niuli.html", "status": "active"}
+{"id": "sjtu_faculty_牛超越_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "牛超越", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/niuchaoyue.html", "status": "active"}
+{"id": "sjtu_faculty_潘_昊_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "潘 昊", "url": "https://ppjhh.com/", "status": "active"}
+{"id": "sjtu_faculty_潘_昊_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "潘 昊", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/panhao.html", "status": "active"}
+{"id": "sjtu_faculty_潘_理_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "潘 理", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/panli.html", "status": "active"}
+{"id": "sjtu_faculty_潘_烨_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "潘 烨", "url": "https://whitneypanye.github.io/", "status": "active"}
+{"id": "sjtu_faculty_潘_烨_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "潘 烨", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/panye.html", "status": "active"}
+{"id": "sjtu_faculty_潘常春_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "潘常春", "url": "https://sais.sjtu.edu.cn/faculty/panchangchun.html", "status": "active"}
+{"id": "sjtu_faculty_潘鹿鹿_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "潘鹿鹿", "url": "https://llp26.github.io/", "status": "active"}
+{"id": "sjtu_faculty_潘鹿鹿_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "潘鹿鹿", "url": "https://sais.sjtu.edu.cn/faculty/panlulu.html", "status": "active"}
+{"id": "sjtu_faculty_潘小勇_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "潘小勇", "url": "https://sais.sjtu.edu.cn/faculty/panxiaoyong.html", "status": "active"}
+{"id": "sjtu_faculty_潘小勇_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "潘小勇", "url": "https://xypan1232.github.io/", "status": "active"}
+{"id": "sjtu_faculty_庞_浦_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "庞 浦", "url": "https://pangpu.github.io/", "status": "active"}
+{"id": "sjtu_faculty_庞_浦_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "庞 浦", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/pangpu.html", "status": "active"}
+{"id": "sjtu_faculty_庞溟舟_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "庞溟舟", "url": "https://ppjhh.com/", "status": "active"}
+{"id": "sjtu_faculty_庞溟舟_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "庞溟舟", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/panhao.html", "status": "active"}
+{"id": "sjtu_faculty_裴凌_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "裴凌", "url": "https://sais.sjtu.edu.cn/faculty/peiling.html", "status": "active"}
+{"id": "sjtu_faculty_彭_博_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "彭 博", "url": "https://tcloud.sjtu.edu.cn/people/pengbo/", "status": "active"}
+{"id": "sjtu_faculty_彭_博_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "彭 博", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/pengbo.html", "status": "active"}
+{"id": "sjtu_faculty_彭云峰_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "彭云峰", "url": "https://whitneypanye.github.io/", "status": "active"}
+{"id": "sjtu_faculty_戚正伟_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "戚正伟", "url": "https://llp26.github.io/", "status": "active"}
+{"id": "sjtu_faculty_钱忱_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "钱忱", "url": "https://pangpu.github.io/", "status": "active"}
+{"id": "sjtu_faculty_钱久超_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "钱久超", "url": "https://sais.sjtu.edu.cn/faculty/qianjiuchao.html", "status": "active"}
+{"id": "sjtu_faculty_钱诗友_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "钱诗友", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/qianshiyou.html", "status": "active"}
+{"id": "sjtu_faculty_钱彦旻_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "钱彦旻", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/qianyanmin.html", "status": "active"}
+{"id": "sjtu_faculty_钱烨强_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "钱烨强", "url": "https://sais.sjtu.edu.cn/faculty/qianyeqiang.html", "status": "active"}
+{"id": "sjtu_faculty_乔宇_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "乔宇", "url": "https://sais.sjtu.edu.cn/faculty/qiaoyu.html", "status": "active"}
+{"id": "sjtu_faculty_秦鹏_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "秦鹏", "url": "https://sais.sjtu.edu.cn/faculty/qinpeng.html", "status": "active"}
+{"id": "sjtu_faculty_邱卫东_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "邱卫东", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/qiuweidong.html", "status": "active"}
+{"id": "sjtu_faculty_曲元_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "曲元", "url": "https://sais.sjtu.edu.cn/faculty/quyuan.html", "status": "active"}
+{"id": "sjtu_faculty_任_锐_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "任 锐", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/renrui.html", "status": "active"}
+{"id": "sjtu_faculty_任庆生_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "任庆生", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/renqingsheng.html", "status": "active"}
+{"id": "sjtu_faculty_阮_娜_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "阮 娜", "url": "https://www.cs.sjtu.edu.cn/~naruan/", "status": "active"}
+{"id": "sjtu_faculty_阮_娜_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "阮 娜", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/ruanna.html", "status": "active"}
+{"id": "sjtu_faculty_邵海滨_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "邵海滨", "url": "https://sais.sjtu.edu.cn/faculty/shaohaibin.html", "status": "active"}
+{"id": "sjtu_faculty_邵海滨_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "邵海滨", "url": "https://shaohaibin.github.io/", "status": "active"}
+{"id": "sjtu_faculty_邵荣君_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "邵荣君", "url": "https://sais.sjtu.edu.cn/faculty/shaorongjun.html", "status": "active"}
+{"id": "sjtu_faculty_邵硕_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "邵硕", "url": "https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=160", "status": "active"}
+{"id": "sjtu_faculty_邵晓巍_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "邵晓巍", "url": "https://sais.sjtu.edu.cn/faculty/1150.html", "status": "active"}
+{"id": "sjtu_faculty_申_瑞民_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "申 瑞民", "url": "https://cs.sjtu.edu.cn/cse/PeopleDetail.aspx?id=82", "status": "active"}
+{"id": "sjtu_faculty_申丽萍_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "申丽萍", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/shenliping.html", "status": "active"}
+{"id": "sjtu_faculty_申赞伟_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "申赞伟", "url": "https://www.cs.sjtu.edu.cn/~naruan/", "status": "active"}
+{"id": "sjtu_faculty_沈_红斌_兼职_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "沈 红斌(兼职)", "url": "https://cs.sjtu.edu.cn/cse/PeopleDetail.aspx?id=404", "status": "active"}
+{"id": "sjtu_faculty_沈_为_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "沈 为", "url": "https://shenwei1231.github.io/", "status": "active"}
+{"id": "sjtu_faculty_沈_为_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "沈 为", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/shenwei.html", "status": "active"}
+{"id": "sjtu_faculty_沈_耀_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "沈 耀", "url": "https://www.cs.sjtu.edu.cn/~yshen/", "status": "active"}
+{"id": "sjtu_faculty_沈_耀_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "沈 耀", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/shenyao.html", "status": "active"}
+{"id": "sjtu_faculty_沈_耀_003", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "沈 耀", "url": "https://y.sjtu.edu.cn", "status": "active"}
+{"id": "sjtu_faculty_沈备军_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "沈备军", "url": "https://base.sjtu.edu.cn/~bjshen/", "status": "active"}
+{"id": "sjtu_faculty_沈备军_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "沈备军", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/shenbeijun.html", "status": "active"}
+{"id": "sjtu_faculty_沈红斌_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "沈红斌", "url": "https://sais.sjtu.edu.cn/faculty/shenhongbin.html", "status": "active"}
+{"id": "sjtu_faculty_沈艳艳_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "沈艳艳", "url": "https://faculty.sjtu.edu.cn/shenyanyan", "status": "active"}
+{"id": "sjtu_faculty_沈艳艳_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "沈艳艳", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/shenyanyan.html", "status": "active"}
+{"id": "sjtu_faculty_盛_斌_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "盛 斌", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/shengbin.html", "status": "active"}
+{"id": "sjtu_faculty_施_勇_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "施 勇", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/shiyong.html", "status": "active"}
+{"id": "sjtu_faculty_石剑虹_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "石剑虹", "url": "https://sais.sjtu.edu.cn/faculty/shaohaibin.html", "status": "active"}
+{"id": "sjtu_faculty_时良仁_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "时良仁", "url": "https://sais.sjtu.edu.cn/faculty/shiliangren.html", "status": "active"}
+{"id": "sjtu_faculty_史汝川_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "史汝川", "url": "https://sais.sjtu.edu.cn/faculty/shiruchuan.html", "status": "active"}
+{"id": "sjtu_faculty_舒汀_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "舒汀", "url": "https://sais.sjtu.edu.cn/faculty/shuting.html", "status": "active"}
+{"id": "sjtu_faculty_斯_雪明_首席科学家_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "斯 雪明 (首席科学家)", "url": "https://cs.sjtu.edu.cn/cse/PeopleDetail.aspx?id=433", "status": "active"}
+{"id": "sjtu_faculty_宋_涛_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "宋 涛", "url": "https://shenwei1231.github.io/", "status": "active"}
+{"id": "sjtu_faculty_宋磊_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "宋磊", "url": "https://sais.sjtu.edu.cn/faculty/songlei.html", "status": "active"}
+{"id": "sjtu_faculty_宋卓然_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "宋卓然", "url": "https://songzhuoran.github.io/", "status": "active"}
+{"id": "sjtu_faculty_宋卓然_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "宋卓然", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/songzhuoran.html", "status": "active"}
+{"id": "sjtu_faculty_苏_波_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "苏 波", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/subo.html", "status": "active"}
+{"id": "sjtu_faculty_苏贵洋_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "苏贵洋", "url": "https://faculty.sjtu.edu.cn/shenyanyan", "status": "active"}
+{"id": "sjtu_faculty_苏剑波_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "苏剑波", "url": "https://sais.sjtu.edu.cn/faculty/sujianbo.html", "status": "active"}
+{"id": "sjtu_faculty_苏奇_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "苏奇", "url": "https://iwin.sjtu.edu.cn/Web/FacultyShow/35?name=QiSu", "status": "active"}
+{"id": "sjtu_faculty_苏奇_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "苏奇", "url": "https://sais.sjtu.edu.cn/faculty/suqi.html", "status": "active"}
+{"id": "sjtu_faculty_苏锐丹_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "苏锐丹", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/suruidan.html", "status": "active"}
+{"id": "sjtu_faculty_苏跃增_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "苏跃增", "url": "https://sais.sjtu.edu.cn/faculty/suyuezeng.html", "status": "active"}
+{"id": "sjtu_faculty_孙_焱_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "孙 焱", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/sunyan.html", "status": "active"}
+{"id": "sjtu_faculty_孙健华_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "孙健华", "url": "https://gothicai.github.io/HomePage", "status": "active"}
+{"id": "sjtu_faculty_孙健华_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "孙健华", "url": "https://soai.sjtu.edu.cn/cn/facultydetails/zzjs/Jianhua", "status": "active"}
+{"id": "sjtu_faculty_孙士锋_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "孙士锋", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/sunshifeng.html", "status": "active"}
+{"id": "sjtu_faculty_孙世轩_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "孙世轩", "url": "https://shixuansun.github.io/", "status": "active"}
+{"id": "sjtu_faculty_孙仕亮_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "孙仕亮", "url": "https://sais.sjtu.edu.cn/faculty/sunshiliang.html", "status": "active"}
+{"id": "sjtu_faculty_孙锬锋_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "孙锬锋", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/suntanfeng.html", "status": "active"}
+{"id": "sjtu_faculty_汤晟_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "汤晟", "url": "https://sais.sjtu.edu.cn/faculty/tangcheng.html", "status": "active"}
+{"id": "sjtu_faculty_唐_灯_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "唐 灯", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/tangdeng.html", "status": "active"}
+{"id": "sjtu_faculty_唐_鹏_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "唐 鹏", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/tangpeng.html", "status": "active"}
+{"id": "sjtu_faculty_唐飞龙_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "唐飞龙", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/tangfeilong.html", "status": "active"}
+{"id": "sjtu_faculty_唐俊华_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "唐俊华", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/tangjunhua.html", "status": "active"}
+{"id": "sjtu_faculty_唐新怀_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "唐新怀", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/tangxinhuai.html", "status": "active"}
+{"id": "sjtu_faculty_陶表帅_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "陶表帅", "url": "https://jhc.sjtu.edu.cn/~bstao/", "status": "active"}
+{"id": "sjtu_faculty_陶表帅_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "陶表帅", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/taobiaoshuai.html", "status": "active"}
+{"id": "sjtu_faculty_陶卫_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "陶卫", "url": "https://sais.sjtu.edu.cn/faculty/taowei.html", "status": "active"}
+{"id": "sjtu_faculty_田社平_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "田社平", "url": "https://sais.sjtu.edu.cn/faculty/tiansheping.html", "status": "active"}
+{"id": "sjtu_faculty_田园_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "田园", "url": "https://sais.sjtu.edu.cn/faculty/tianyuan.html", "status": "active"}
+{"id": "sjtu_faculty_涂_仕奎_主任助理_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "涂 仕奎(主任助理)", "url": "https://cs.sjtu.edu.cn/cse/PeopleDetail.aspx?id=372", "status": "active"}
+{"id": "sjtu_faculty_涂仕奎_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "涂仕奎", "url": "http://www.cs.sjtu.edu.cn/~tushikui", "status": "active"}
+{"id": "sjtu_faculty_汪宇霆_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "汪宇霆", "url": "https://jhc.sjtu.edu.cn/~yutingwang/", "status": "active"}
+{"id": "sjtu_faculty_汪宇霆_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "汪宇霆", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/wangyuting.html", "status": "active"}
+{"id": "sjtu_faculty_汪哲东_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "汪哲东", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/wangzhedong.html", "status": "active"}
+{"id": "sjtu_faculty_王_东_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "王 东", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/wangdong.html", "status": "active"}
+{"id": "sjtu_faculty_王_赓_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "王 赓", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/wanggeng1.html", "status": "active"}
+{"id": "sjtu_faculty_王_更_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "王 更", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/wanggeng.html", "status": "active"}
+{"id": "sjtu_faculty_王_磊_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "王 磊", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/wanglei.html", "status": "active"}
+{"id": "sjtu_faculty_王_磊_副主任_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "王 磊 (副主任)", "url": "https://cs.sjtu.edu.cn/cse/PeopleDetail.aspx?id=324", "status": "active"}
+{"id": "sjtu_faculty_王_瑞_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "王 瑞", "url": "https://wangruinlp.github.io/", "status": "active"}
+{"id": "sjtu_faculty_王_瑞_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "王 瑞", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/wangrui.html", "status": "active"}
+{"id": "sjtu_faculty_王_烁_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "王 烁", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/wangshuo.html", "status": "active"}
+{"id": "sjtu_faculty_王_新兵_兼职_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "王 新兵(兼职)", "url": "https://faculty.sjtu.edu.cn/wangxinbing/zh_CN/zsxx/167455/list/index.htm", "status": "active"}
+{"id": "sjtu_faculty_王_铮_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "王 铮", "url": "https://zhengwang100.github.io/for_students.html", "status": "active"}
+{"id": "sjtu_faculty_王冰_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "王冰", "url": "https://sais.sjtu.edu.cn/faculty/wangbing.html", "status": "active"}
+{"id": "sjtu_faculty_王春香_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "王春香", "url": "https://sais.sjtu.edu.cn/faculty/wangchunxiang.html", "status": "active"}
+{"id": "sjtu_faculty_王德泉_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "王德泉", "url": "https://dequan.wang/", "status": "active"}
+{"id": "sjtu_faculty_王德泉_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "王德泉", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/wangdequan.html", "status": "active"}
+{"id": "sjtu_faculty_王国忠_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "王国忠", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/wangguozhong.html", "status": "active"}
+{"id": "sjtu_faculty_王浩洋_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "王浩洋", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/wanghaoyang.html", "status": "active"}
+{"id": "sjtu_faculty_王贺升_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "王贺升", "url": "https://sais.sjtu.edu.cn/faculty/wanghesheng.html", "status": "active"}
+{"id": "sjtu_faculty_王红雨_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "王红雨", "url": "https://sais.sjtu.edu.cn/faculty/wanghongyu.html", "status": "active"}
+{"id": "sjtu_faculty_王景成_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "王景成", "url": "https://sais.sjtu.edu.cn/faculty/wangjingcheng.html", "status": "active"}
+{"id": "sjtu_faculty_王景川_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "王景川", "url": "https://robotics.sjtu.edu.cn/minglu/465.html", "status": "active"}
+{"id": "sjtu_faculty_王俊杰_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "王俊杰", "url": "https://sais.sjtu.edu.cn/faculty/wangjunjie.html", "status": "active"}
+{"id": "sjtu_faculty_王俊璞_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "王俊璞", "url": "https://sais.sjtu.edu.cn/faculty/wangjunpu.html", "status": "active"}
+{"id": "sjtu_faculty_王侃_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "王侃", "url": "https://sais.sjtu.edu.cn/faculty/wangkan.html", "status": "active"}
+{"id": "sjtu_faculty_王坤东_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "王坤东", "url": "https://sais.sjtu.edu.cn/faculty/wangkundong.html", "status": "active"}
+{"id": "sjtu_faculty_王利生_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "王利生", "url": "https://sais.sjtu.edu.cn/faculty/wanglisheng.html", "status": "active"}
+{"id": "sjtu_faculty_王琳_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "王琳", "url": "https://sais.sjtu.edu.cn/faculty/wanglin.html", "status": "active"}
+{"id": "sjtu_faculty_王鹏_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "王鹏", "url": "https://p11gh.github.io/", "status": "active"}
+{"id": "sjtu_faculty_王启圣_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "王启圣", "url": "https://wangqs13.github.io/", "status": "active"}
+{"id": "sjtu_faculty_王启圣_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "王启圣", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/wangqisheng.html", "status": "active"}
+{"id": "sjtu_faculty_王强民_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "王强民", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/wangqiangmin.html", "status": "active"}
+{"id": "sjtu_faculty_王士林_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "王士林", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/wangshilin.html", "status": "active"}
+{"id": "sjtu_faculty_王涛_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "王涛", "url": "https://sais.sjtu.edu.cn/faculty/wangtao.html", "status": "active"}
+{"id": "sjtu_faculty_王晓乐_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "王晓乐", "url": "https://sais.sjtu.edu.cn/faculty/wangxiaole.html", "status": "active"}
+{"id": "sjtu_faculty_王延峰_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "王延峰", "url": "https://cmic.sjtu.edu.cn/wangyanfeng", "status": "active"}
+{"id": "sjtu_faculty_王延峰_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "王延峰", "url": "https://soai.sjtu.edu.cn/cn/facultydetails/zzjs/wangyanfeng", "status": "active"}
+{"id": "sjtu_faculty_王艳芳_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "王艳芳", "url": "https://sais.sjtu.edu.cn/faculty/wangyanfang.html", "status": "active"}
+{"id": "sjtu_faculty_王遥_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "王遥", "url": "https://sais.sjtu.edu.cn/faculty/wangyao.html", "status": "active"}
+{"id": "sjtu_faculty_王易因_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "王易因", "url": "http://isea.sjtu.edu.cn/", "status": "active"}
+{"id": "sjtu_faculty_王轶骏_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "王轶骏", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/wangyijun.html", "status": "active"}
+{"id": "sjtu_faculty_王钰_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "王钰", "url": "https://yuwangsjtu.github.io/", "status": "active"}
+{"id": "sjtu_faculty_王韫博_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "王韫博", "url": "https://wyb15.github.io/", "status": "active"}
+{"id": "sjtu_faculty_王召健_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "王召健", "url": "https://sais.sjtu.edu.cn/faculty/wangzhaojian.html", "status": "active"}
+{"id": "sjtu_faculty_王肇国_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "王肇国", "url": "https://ipads.se.sjtu.edu.cn/zh/pub/members/zhaoguo_wang/", "status": "active"}
+{"id": "sjtu_faculty_王肇国_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "王肇国", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/wangzhaoguo.html", "status": "active"}
+{"id": "sjtu_faculty_王志武_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "王志武", "url": "https://sais.sjtu.edu.cn/faculty/wangzhiwu.html", "status": "active"}
+{"id": "sjtu_faculty_魏飞鸣_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "魏飞鸣", "url": "https://sais.sjtu.edu.cn/faculty/weifeiming.html", "status": "active"}
+{"id": "sjtu_faculty_魏星达_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "魏星达", "url": "https://ipads.se.sjtu.edu.cn/pub/members/xingda_wei/", "status": "active"}
+{"id": "sjtu_faculty_温睦宁_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "温睦宁", "url": "https://morning9393.github.io/", "status": "active"}
+{"id": "sjtu_faculty_温晓婧_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "温晓婧", "url": "https://sais.sjtu.edu.cn/faculty/wenxiaojing.html", "status": "active"}
+{"id": "sjtu_faculty_温颖_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "温颖", "url": "https://soai.sjtu.edu.cn/cn/facultydetails/zzjs/wenying", "status": "active"}
+{"id": "sjtu_faculty_温颖_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "温颖", "url": "https://yingwen.io/", "status": "active"}
+{"id": "sjtu_faculty_文玉梅_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "文玉梅", "url": "https://sais.sjtu.edu.cn/faculty/wenyumei.html", "status": "active"}
+{"id": "sjtu_faculty_汶川_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "汶川", "url": "https://alvinwen428.github.io/", "status": "active"}
+{"id": "sjtu_faculty_翁正新_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "翁正新", "url": "https://sais.sjtu.edu.cn/faculty/wengzhengxin.html", "status": "active"}
+{"id": "sjtu_faculty_邬晶_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "邬晶", "url": "https://sais.sjtu.edu.cn/faculty/wujing.html", "status": "active"}
+{"id": "sjtu_faculty_吴_帆_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "吴 帆", "url": "https://www.cs.sjtu.edu.cn/~fwu/", "status": "active"}
+{"id": "sjtu_faculty_吴_刚_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "吴 刚", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/wugang.html", "status": "active"}
+{"id": "sjtu_faculty_吴_鹏_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "吴 鹏", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/wupeng.html", "status": "active"}
+{"id": "sjtu_faculty_吴_奇_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "吴 奇", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/wuqi.html", "status": "active"}
+{"id": "sjtu_faculty_吴_旋_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "吴 旋", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/1556.html", "status": "active"}
+{"id": "sjtu_faculty_吴_越_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "吴 越", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/wuyue.html", "status": "active"}
+{"id": "sjtu_faculty_吴安邦_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "吴安邦", "url": "https://anbangwu.com/", "status": "active"}
+{"id": "sjtu_faculty_吴安邦_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "吴安邦", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/wuanbang.html", "status": "active"}
+{"id": "sjtu_faculty_吴超逸_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "吴超逸", "url": "https://chaoyi-wu.github.io/", "status": "active"}
+{"id": "sjtu_faculty_吴晨涛_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "吴晨涛", "url": "https://www.cs.sjtu.edu.cn/~wuct/", "status": "active"}
+{"id": "sjtu_faculty_吴晨涛_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "吴晨涛", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/wuchentao.html", "status": "active"}
+{"id": "sjtu_faculty_吴开杰_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "吴开杰", "url": "https://sais.sjtu.edu.cn/faculty/wukaijie.html", "status": "active"}
+{"id": "sjtu_faculty_吴梦玥_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "吴梦玥", "url": "https://myw19.github.io/", "status": "active"}
+{"id": "sjtu_faculty_吴梦玥_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "吴梦玥", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/wumengyue.html", "status": "active"}
+{"id": "sjtu_faculty_吴明瑜_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "吴明瑜", "url": "https://ipads.se.sjtu.edu.cn/zh/pub/members/mingyu_wu/", "status": "active"}
+{"id": "sjtu_faculty_吴明瑜_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "吴明瑜", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/wumingyu.html", "status": "active"}
+{"id": "sjtu_faculty_吴小宝_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "吴小宝", "url": "https://bobxwu.github.io/", "status": "active"}
+{"id": "sjtu_faculty_吴小宝_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "吴小宝", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/wuxiaobao.html", "status": "active"}
+{"id": "sjtu_faculty_吴晓燕_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "吴晓燕", "url": "https://sais.sjtu.edu.cn/faculty/wuxiaoyan.html", "status": "active"}
+{"id": "sjtu_faculty_吴亚东_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "吴亚东", "url": "https://yadong101.github.io", "status": "active"}
+{"id": "sjtu_faculty_吴跃军_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "吴跃军", "url": "https://sais.sjtu.edu.cn/faculty/wuyuejun.html", "status": "active"}
+{"id": "sjtu_faculty_伍_军_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "伍 军", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/wujun.html", "status": "active"}
+{"id": "sjtu_faculty_武元新_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "武元新", "url": "https://sais.sjtu.edu.cn/faculty/wuyuanxin.html", "status": "active"}
+{"id": "sjtu_faculty_夏纫秋_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "夏纫秋", "url": "https://renqiux0302.github.io/xiarenqiu.github.io/", "status": "active"}
+{"id": "sjtu_faculty_夏虞斌_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "夏虞斌", "url": "https://ipads.se.sjtu.edu.cn/yubin_xia", "status": "active"}
+{"id": "sjtu_faculty_夏虞斌_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "夏虞斌", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/xiayubin.html", "status": "active"}
+{"id": "sjtu_faculty_夏宇轩_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "夏宇轩", "url": "https://sais.sjtu.edu.cn/faculty/xiayuxuan.html", "status": "active"}
+{"id": "sjtu_faculty_夏正敏_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "夏正敏", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/xiazhengmin.html", "status": "active"}
+{"id": "sjtu_faculty_相里元博_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "相里元博", "url": "https://kam1107.github.io/", "status": "active"}
+{"id": "sjtu_faculty_相里元博_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "相里元博", "url": "https://soai.sjtu.edu.cn/cn/facultydetails/zzjs/xiangliyuanbo", "status": "active"}
+{"id": "sjtu_faculty_向立瑶_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "向立瑶", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/xiangliyao.html", "status": "active"}
+{"id": "sjtu_faculty_项艳_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "项艳", "url": "https://sais.sjtu.edu.cn/faculty/xiangyan.html", "status": "active"}
+{"id": "sjtu_faculty_肖双九_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "肖双九", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/xiaoshuangjiu.html", "status": "active"}
+{"id": "sjtu_faculty_肖太龙_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "肖太龙", "url": "https://sais.sjtu.edu.cn/faculty/xiaotailong.html", "status": "active"}
+{"id": "sjtu_faculty_肖太龙_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "肖太龙", "url": "https://xiaotailong.github.io/", "status": "active"}
+{"id": "sjtu_faculty_谢威_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "谢威", "url": "https://sais.sjtu.edu.cn/faculty/xiewei.html", "status": "active"}
+{"id": "sjtu_faculty_谢伟迪_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "谢伟迪", "url": "https://weidixie.github.io", "status": "active"}
+{"id": "sjtu_faculty_邢朝平_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "邢朝平", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/xingchaoping.html", "status": "active"}
+{"id": "sjtu_faculty_邢朝平_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "邢朝平", "url": "https://xingcp.github.io/", "status": "active"}
+{"id": "sjtu_faculty_熊_红凯_兼职_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "熊 红凯(兼职)", "url": "https://cs.sjtu.edu.cn/cse/PeopleDetail.aspx?id=398", "status": "active"}
+{"id": "sjtu_faculty_熊刚_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "熊刚", "url": "https://sais.sjtu.edu.cn/faculty/xionggang.html", "status": "active"}
+{"id": "sjtu_faculty_熊国钧_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "熊国钧", "url": "https://xionggj001.github.io/", "status": "active"}
+{"id": "sjtu_faculty_徐_雷_主任_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "徐 雷(主任)", "url": "https://cs.sjtu.edu.cn/cse/PeopleDetail.aspx?id=298", "status": "active"}
+{"id": "sjtu_faculty_徐_磊_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "徐 磊", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/xulei.html", "status": "active"}
+{"id": "sjtu_faculty_徐尔茨_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "徐尔茨", "url": "https://giorgioercixu.github.io/", "status": "active"}
+{"id": "sjtu_faculty_徐璠_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "徐璠", "url": "https://sais.sjtu.edu.cn/faculty/xufan.html", "status": "active"}
+{"id": "sjtu_faculty_徐寒松_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "徐寒松", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/xuhansong.html", "status": "active"}
+{"id": "sjtu_faculty_徐宁仪_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "徐宁仪", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/xuningyi.html", "status": "active"}
+{"id": "sjtu_faculty_徐燕虹_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "徐燕虹", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/xuyanhong.html", "status": "active"}
+{"id": "sjtu_faculty_徐云雯_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "徐云雯", "url": "https://sais.sjtu.edu.cn/faculty/xuyunwen.html", "status": "active"}
+{"id": "sjtu_faculty_许_可_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "许 可", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/xuke.html", "status": "active"}
+{"id": "sjtu_faculty_许_强_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "许 强", "url": "https://qiangxu-sjtu.github.io/", "status": "active"}
+{"id": "sjtu_faculty_许_强_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "许 强", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/xuqiang.html", "status": "active"}
+{"id": "sjtu_faculty_许齐敏_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "许齐敏", "url": "https://sais.sjtu.edu.cn/faculty/xuqimin.html", "status": "active"}
+{"id": "sjtu_faculty_许岩岩_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "许岩岩", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/xuyanyan.html", "status": "active"}
+{"id": "sjtu_faculty_薛_质_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "薛 质", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/xuezhi.html", "status": "active"}
+{"id": "sjtu_faculty_薛栋梁_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "薛栋梁", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/xuedongliang.html", "status": "active"}
+{"id": "sjtu_faculty_薛广涛_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "薛广涛", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/xueguangtao.html", "status": "active"}
+{"id": "sjtu_faculty_薛拾贝_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "薛拾贝", "url": "https://sais.sjtu.edu.cn/faculty/xueshibei.html", "status": "active"}
+{"id": "sjtu_faculty_严骏驰_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "严骏驰", "url": "https://soai.sjtu.edu.cn/cn/facultydetails/zzjs/yanjunchi", "status": "active"}
+{"id": "sjtu_faculty_阎威武_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "阎威武", "url": "https://sais.sjtu.edu.cn/faculty/yanweiwu.html", "status": "active"}
+{"id": "sjtu_faculty_晏轶超_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "晏轶超", "url": "https://daodaofr.github.io/", "status": "active"}
+{"id": "sjtu_faculty_杨_宽_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "杨 宽", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/yangkuan.html", "status": "active"}
+{"id": "sjtu_faculty_杨_旸_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "杨 旸", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/yangyang.html", "status": "active"}
+{"id": "sjtu_faculty_杨博_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "杨博", "url": "https://sais.sjtu.edu.cn/faculty/yangbo.html", "status": "active"}
+{"id": "sjtu_faculty_杨根科_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "杨根科", "url": "https://sais.sjtu.edu.cn/faculty/yanggenke.html", "status": "active"}
+{"id": "sjtu_faculty_杨佳苗_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "杨佳苗", "url": "https://sais.sjtu.edu.cn/faculty/yangjiamiao.html", "status": "active"}
+{"id": "sjtu_faculty_杨杰_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "杨杰", "url": "https://sais.sjtu.edu.cn/faculty/yangjie.html", "status": "active"}
+{"id": "sjtu_faculty_杨岚青_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "杨岚青", "url": "https://lanqing-sjtu.github.io/academic/", "status": "active"}
+{"id": "sjtu_faculty_杨岚青_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "杨岚青", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/yanglanqing.html", "status": "active"}
+{"id": "sjtu_faculty_杨理欣_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "杨理欣", "url": "https://lixiny.github.io/", "status": "active"}
+{"id": "sjtu_faculty_杨明_控制_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "杨明-控制", "url": "https://sais.sjtu.edu.cn/faculty/yangming1.html", "status": "active"}
+{"id": "sjtu_faculty_杨明_仪器_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "杨明-仪器", "url": "https://sais.sjtu.edu.cn/faculty/yangming.html", "status": "active"}
+{"id": "sjtu_faculty_杨天_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "杨天", "url": "https://sais.sjtu.edu.cn/faculty/yangtian.html", "status": "active"}
+{"id": "sjtu_faculty_杨旭波_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "杨旭波", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/yangxubo.html", "status": "active"}
+{"id": "sjtu_faculty_杨学_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "杨学", "url": "https://sais.sjtu.edu.cn/faculty/yangxue.html", "status": "active"}
+{"id": "sjtu_faculty_杨学_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "杨学", "url": "https://yangxue.site/", "status": "active"}
+{"id": "sjtu_faculty_杨旸_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "杨旸", "url": "https://angelayangyang1.github.io", "status": "active"}
+{"id": "sjtu_faculty_杨旸_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "杨旸", "url": "https://soai.sjtu.edu.cn/cn/facultydetails/zzjs/yangyang", "status": "active"}
+{"id": "sjtu_faculty_杨玉婷_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "杨玉婷", "url": "https://sais.sjtu.edu.cn/faculty/yangyuting.html", "status": "active"}
+{"id": "sjtu_faculty_杨紫雯_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "杨紫雯", "url": "https://sais.sjtu.edu.cn/faculty/yangziwen.html", "status": "active"}
+{"id": "sjtu_faculty_姚_斌_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "姚 斌", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/yaobin.html", "status": "active"}
+{"id": "sjtu_faculty_姚建国_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "姚建国", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/yaojianguo.html", "status": "active"}
+{"id": "sjtu_faculty_姚立红_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "姚立红", "url": "https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=146", "status": "active"}
+{"id": "sjtu_faculty_姚莉秀_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "姚莉秀", "url": "https://sais.sjtu.edu.cn/faculty/yaolixiu.html", "status": "active"}
+{"id": "sjtu_faculty_姚江潮_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "姚江潮", "url": "https://sunarker.github.io/index.html", "status": "active"}
+{"id": "sjtu_faculty_姚旭佳_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "姚旭佳", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/yaoxujia.html", "status": "active"}
+{"id": "sjtu_faculty_叶南阳_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "叶南阳", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/yenanyang.html", "status": "active"}
+{"id": "sjtu_faculty_易_平_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "易 平", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/yiping.html", "status": "active"}
+{"id": "sjtu_faculty_易_冉_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "易 冉", "url": "https://yiranran.github.io/", "status": "active"}
+{"id": "sjtu_faculty_殷翔_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "殷翔", "url": "http://xiangyin.sjtu.edu.cn/", "status": "active"}
+{"id": "sjtu_faculty_银_鹰_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "银 鹰", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/yinying.html", "status": "active"}
+{"id": "sjtu_faculty_尹_强_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "尹 强", "url": "https://basics.sjtu.edu.cn/~qyin/", "status": "active"}
+{"id": "sjtu_faculty_应_凯_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "应 凯", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/yingkai.html", "status": "active"}
+{"id": "sjtu_faculty_应臣浩_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "应臣浩", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/yingchenhao.html", "status": "active"}
+{"id": "sjtu_faculty_于_晗_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "于 晗", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/yuhan.html", "status": "active"}
+{"id": "sjtu_faculty_于文彬_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "于文彬", "url": "https://sais.sjtu.edu.cn/faculty/yuwenbin.html", "status": "active"}
+{"id": "sjtu_faculty_余_炀_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "余 炀", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/yuyang.html", "status": "active"}
+{"id": "sjtu_faculty_余甘_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "余甘", "url": "https://sais.sjtu.edu.cn/faculty/yugan.html", "status": "active"}
+{"id": "sjtu_faculty_余甘_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "余甘", "url": "https://theganyu.github.io/", "status": "active"}
+{"id": "sjtu_faculty_俞_凯_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "俞 凯", "url": "https://x-lance.sjtu.edu.cn/~kaiyu/", "status": "active"}
+{"id": "sjtu_faculty_俞_勇_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "俞 勇", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/yuyong.html", "status": "active"}
+{"id": "sjtu_faculty_俞嘉地_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "俞嘉地", "url": "https://www.cs.sjtu.edu.cn/~jdyu/", "status": "active"}
+{"id": "sjtu_faculty_郁_昱_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "郁 昱", "url": "http://yuyu.hk/", "status": "active"}
+{"id": "sjtu_faculty_郁_昱_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "郁 昱", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/yuyu.html", "status": "active"}
+{"id": "sjtu_faculty_郁文贤_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "郁文贤", "url": "https://sais.sjtu.edu.cn/faculty/yuwenxian.html", "status": "active"}
+{"id": "sjtu_faculty_袁_晨_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "袁 晨", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/yuanchen.html", "status": "active"}
+{"id": "sjtu_faculty_袁礼伟_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "袁礼伟", "url": "https://sais.sjtu.edu.cn/faculty/1609.html", "status": "active"}
+{"id": "sjtu_faculty_袁汀_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "袁汀", "url": "https://sais.sjtu.edu.cn/faculty/yuanting.html", "status": "active"}
+{"id": "sjtu_faculty_袁肖赟_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "袁肖赟", "url": "https://sais.sjtu.edu.cn/faculty/1609.html", "status": "active"}
+{"id": "sjtu_faculty_臧斌宇_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "臧斌宇", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/zangbinyu.html", "status": "active"}
+{"id": "sjtu_faculty_张_驰_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "张 驰", "url": "https://pi.xiaoyunyuan.net/", "status": "active"}
+{"id": "sjtu_faculty_张_丽清_副主任_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "张 丽清(副主任)", "url": "https://cs.sjtu.edu.cn/cse/PeopleDetail.aspx?id=67", "status": "active"}
+{"id": "sjtu_faculty_张_宁_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "张 宁", "url": "https://cs.sjtu.edu.cn/cse/PeopleDetail.aspx?id=422", "status": "active"}
+{"id": "sjtu_faculty_张_谦_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "张 谦", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/zhangqian.html", "status": "active"}
+{"id": "sjtu_faculty_张_同珍_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "张 同珍", "url": "https://cs.sjtu.edu.cn/cse/PeopleDetail.aspx?id=69", "status": "active"}
+{"id": "sjtu_faculty_张爱新_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "张爱新", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/zhangaixin.html", "status": "active"}
+{"id": "sjtu_faculty_张保稳_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "张保稳", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/zhangbaowen.html", "status": "active"}
+{"id": "sjtu_faculty_张驰豪_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "张驰豪", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/zhangchihao.html", "status": "active"}
+{"id": "sjtu_faculty_张德新_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "张德新", "url": "https://sais.sjtu.edu.cn/faculty/zhangdexin.html", "status": "active"}
+{"id": "sjtu_faculty_张晗_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "张晗", "url": "https://zhanghan-tc.github.io/", "status": "active"}
+{"id": "sjtu_faculty_张宏陆_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "张宏陆", "url": "https://sais.sjtu.edu.cn/faculty/zhanghonglu.html", "status": "active"}
+{"id": "sjtu_faculty_张健夫_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "张健夫", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/zhangjianfu.html", "status": "active"}
+{"id": "sjtu_faculty_张景龙_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "张景龙", "url": "https://sais.sjtu.edu.cn/faculty/zhangjinglong.html", "status": "active"}
+{"id": "sjtu_faculty_张丽清_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "张丽清", "url": "https://bcmi.sjtu.edu.cn/home/zhangliqing/Index_cn.html", "status": "active"}
+{"id": "sjtu_faculty_张丽清_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "张丽清", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/zhangliqing.html", "status": "active"}
+{"id": "sjtu_faculty_张林峰_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "张林峰", "url": "http://www.zhanglinfeng.tech", "status": "active"}
+{"id": "sjtu_faculty_张林峰_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "张林峰", "url": "https://soai.sjtu.edu.cn/cn/facultydetails/zzjs/zhanglinfeng", "status": "active"}
+{"id": "sjtu_faculty_张倩_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "张倩", "url": "http://www.zhanglinfeng.tech", "status": "active"}
+{"id": "sjtu_faculty_张强_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "张强", "url": "https://sais.sjtu.edu.cn/faculty/zhangqiang.html", "status": "active"}
+{"id": "sjtu_faculty_张庆昊_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "张庆昊", "url": "https://sais.sjtu.edu.cn/faculty/zhangqinghao.html", "status": "active"}
+{"id": "sjtu_faculty_张全海_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "张全海", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/zhangquanhai.html", "status": "active"}
+{"id": "sjtu_faculty_张拳石_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "张拳石", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/zhangquanshi.html", "status": "active"}
+{"id": "sjtu_faculty_张少霆_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "张少霆", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/zhangshaoting.html", "status": "active"}
+{"id": "sjtu_faculty_张颂安_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "张颂安", "url": "https://sais.sjtu.edu.cn/faculty/1228.html", "status": "active"}
+{"id": "sjtu_faculty_张涛_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "张涛", "url": "https://sais.sjtu.edu.cn/faculty/zhangtao.html", "status": "active"}
+{"id": "sjtu_faculty_张王优_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "张王优", "url": "https://sais.sjtu.edu.cn/faculty/zhangtao.html", "status": "active"}
+{"id": "sjtu_faculty_张维夏_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "张维夏", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/zhangweixia.html", "status": "active"}
+{"id": "sjtu_faculty_张维夏_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "张维夏", "url": "https://zwx8981.github.io/zhangweixia/", "status": "active"}
+{"id": "sjtu_faculty_张伟楠_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "张伟楠", "url": "https://wangyou-zhang.github.io/", "status": "active"}
+{"id": "sjtu_faculty_张卫东_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "张卫东", "url": "https://sais.sjtu.edu.cn/faculty/zhangweidong1.html", "status": "active"}
+{"id": "sjtu_faculty_张卫东_人工智能_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "张卫东-人工智能", "url": "https://sais.sjtu.edu.cn/faculty/zhangweidong.html", "status": "active"}
+{"id": "sjtu_faculty_张文豪_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "张文豪", "url": "https://wnzhang.net/", "status": "active"}
+{"id": "sjtu_faculty_张晓凡_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "张晓凡", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/zhangxiaofan.html", "status": "active"}
+{"id": "sjtu_faculty_张晓凡_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "张晓凡", "url": "https://zhangxiaofan101.github.io/", "status": "active"}
+{"id": "sjtu_faculty_张晓涵_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "张晓涵", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/zhangxiaohan.html", "status": "active"}
+{"id": "sjtu_faculty_张雅倩_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "张雅倩", "url": "https://infosec.sjtu.edu.cn/DirectoryDetail.aspx?id=168", "status": "active"}
+{"id": "sjtu_faculty_张娅_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "张娅", "url": "https://annzhanglion.github.io/", "status": "active"}
+{"id": "sjtu_faculty_张娅_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "张娅", "url": "https://mediabrain.sjtu.edu.cn/yazhang/", "status": "active"}
+{"id": "sjtu_faculty_张娅_003", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "张娅", "url": "https://soai.sjtu.edu.cn/cn/facultydetails/zzjs/zhangya", "status": "active"}
+{"id": "sjtu_faculty_张小云_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "张小云", "url": "https://mediabrain.sjtu.edu.cn/xiaoyun-zhang/", "status": "active"}
+{"id": "sjtu_faculty_张一鸣_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "张一鸣", "url": "https://zhangxiaofan101.github.io/", "status": "active"}
+{"id": "sjtu_faculty_张宇昊_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "张宇昊", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/zhangxiaohan.html", "status": "active"}
+{"id": "sjtu_faculty_张宇伦_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "张宇伦", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/zhangyulun.html", "status": "active"}
+{"id": "sjtu_faculty_张宇伦_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "张宇伦", "url": "https://yulunzhang.com/", "status": "active"}
+{"id": "sjtu_faculty_张媛媛_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "张媛媛", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/zhangyuanyuan.html", "status": "active"}
+{"id": "sjtu_faculty_张月国_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "张月国", "url": "https://mediabrain.sjtu.edu.cn/xiaoyun-zhang/", "status": "active"}
+{"id": "sjtu_faculty_张增辉_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "张增辉", "url": "https://sais.sjtu.edu.cn/faculty/zhangzenghui.html", "status": "active"}
+{"id": "sjtu_faculty_张志鹏_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "张志鹏", "url": "https://soai.sjtu.edu.cn/cn/facultydetails/zzjs/zhangzhipeng", "status": "active"}
+{"id": "sjtu_faculty_张志鹏_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "张志鹏", "url": "https://zhipengzhang.cn/", "status": "active"}
+{"id": "sjtu_faculty_张倬胜_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "张倬胜", "url": "https://bcmi.sjtu.edu.cn/~zhangzs", "status": "active"}
+{"id": "sjtu_faculty_张倬胜_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "张倬胜", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/zhangzhuosheng.html", "status": "active"}
+{"id": "sjtu_faculty_招浩华_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "招浩华", "url": "https://yulunzhang.com/", "status": "active"}
+{"id": "sjtu_faculty_赵_海_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "赵 海", "url": "http://bcmi.sjtu.edu.cn/home/zhaohai", "status": "active"}
+{"id": "sjtu_faculty_赵_海_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "赵 海", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/zhaohai.html", "status": "active"}
+{"id": "sjtu_faculty_赵_涵_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "赵 涵", "url": "https://mivenhan.github.io/", "status": "active"}
+{"id": "sjtu_faculty_赵_涵_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "赵 涵", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/zhaohan.html", "status": "active"}
+{"id": "sjtu_faculty_赵波_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "赵波", "url": "https://soai.sjtu.edu.cn/cn/facultydetails/zzjs/zhaobo", "status": "active"}
+{"id": "sjtu_faculty_赵波_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "赵波", "url": "https://www.bozhao.me/", "status": "active"}
+{"id": "sjtu_faculty_赵春宇_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "赵春宇", "url": "https://sais.sjtu.edu.cn/faculty/zhaochunyu.html", "status": "active"}
+{"id": "sjtu_faculty_赵辉_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "赵辉", "url": "https://zhipengzhang.cn/", "status": "active"}
+{"id": "sjtu_faculty_赵健康_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "赵健康", "url": "https://sais.sjtu.edu.cn/faculty/zhaojiankang.html", "status": "active"}
+{"id": "sjtu_faculty_赵杰茹_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "赵杰茹", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/zhaojieru.html", "status": "active"}
+{"id": "sjtu_faculty_赵杰茹_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "赵杰茹", "url": "https://zjru.github.io/", "status": "active"}
+{"id": "sjtu_faculty_赵凯_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "赵凯", "url": "https://sais.sjtu.edu.cn/faculty/zhaokai.html", "status": "active"}
+{"id": "sjtu_faculty_赵沛霖_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "赵沛霖", "url": "http://bcmi.sjtu.edu.cn/home/zhaohai", "status": "active"}
+{"id": "sjtu_faculty_赵世振_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "赵世振", "url": "https://mivenhan.github.io/", "status": "active"}
+{"id": "sjtu_faculty_赵世振_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "赵世振", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/zhaohan.html", "status": "active"}
+{"id": "sjtu_faculty_赵旭_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "赵旭", "url": "https://sais.sjtu.edu.cn/faculty/zhaoxu.html", "status": "active"}
+{"id": "sjtu_faculty_赵忠华_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "赵忠华", "url": "https://sais.sjtu.edu.cn/faculty/zhaozhonghua.html", "status": "active"}
+{"id": "sjtu_faculty_郑聪惠_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "郑聪惠", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/zhengconghui.html", "status": "active"}
+{"id": "sjtu_faculty_郑冠杰_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "郑冠杰", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/zhengguanjie.html", "status": "active"}
+{"id": "sjtu_faculty_郑圣安_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "郑圣安", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/zhaojieru.html", "status": "active"}
+{"id": "sjtu_faculty_郑圣安_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "郑圣安", "url": "https://zjru.github.io/", "status": "active"}
+{"id": "sjtu_faculty_郑伟龙_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "郑伟龙", "url": "https://cs.sjtu.edu.cn/cse/PeopleDetail.aspx?id=444", "status": "active"}
+{"id": "sjtu_faculty_郑伟龙_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "郑伟龙", "url": "https://weilongzheng.github.io/", "status": "active"}
+{"id": "sjtu_faculty_郑伟龙_003", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "郑伟龙", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/zhengweilong.html", "status": "active"}
+{"id": "sjtu_faculty_郑文立_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "郑文立", "url": "https://peilinzhao.github.io/", "status": "active"}
+{"id": "sjtu_faculty_郑毅_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "郑毅", "url": "https://sais.sjtu.edu.cn/faculty/zhengyi.html", "status": "active"}
+{"id": "sjtu_faculty_郑臻哲_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "郑臻哲", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/zhengzhenzhe.html", "status": "active"}
+{"id": "sjtu_faculty_郑臻哲_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "郑臻哲", "url": "https://zhengzhenzhe220.github.io/", "status": "active"}
+{"id": "sjtu_faculty_钟_浩_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "钟 浩", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/zhonghao.html", "status": "active"}
+{"id": "sjtu_faculty_钟志航_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "钟志航", "url": "https://soai.sjtu.edu.cn/cn/facultydetails/zzjs/zhongzhihang", "status": "active"}
+{"id": "sjtu_faculty_钟志航_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "钟志航", "url": "https://zzh-tech.github.io/", "status": "active"}
+{"id": "sjtu_faculty_周晓_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "周晓", "url": "https://astaxanthin.github.io/", "status": "active"}
+{"id": "sjtu_faculty_周晓_002", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "周晓", "url": "https://soai.sjtu.edu.cn/cn/facultydetails/zzjs/zhouxiao", "status": "active"}
+{"id": "sjtu_faculty_周煊赫_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "周煊赫", "url": "https://db.zhouxh.store", "status": "active"}
+{"id": "sjtu_faculty_周越_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "周越", "url": "https://sais.sjtu.edu.cn/faculty/zhouyue.html", "status": "active"}
+{"id": "sjtu_faculty_周志洪_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "周志洪", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/zhouzhihong.html", "status": "active"}
+{"id": "sjtu_faculty_朱_贇_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "朱 贇", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/zhuyun.html", "status": "active"}
+{"id": "sjtu_faculty_朱浩瑾_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "朱浩瑾", "url": "https://nsec.sjtu.edu.cn/~hjzhu/", "status": "active"}
+{"id": "sjtu_faculty_朱弘恣_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "朱弘恣", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/zhuhongzi.html", "status": "active"}
+{"id": "sjtu_faculty_朱开元_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "朱开元", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/z.html", "status": "active"}
+{"id": "sjtu_faculty_朱茂然_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "朱茂然", "url": "https://sais.sjtu.edu.cn/faculty/zhumaoran.html", "status": "active"}
+{"id": "sjtu_faculty_朱善迎_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "朱善迎", "url": "https://sais.sjtu.edu.cn/faculty/zhushanying.html", "status": "active"}
+{"id": "sjtu_faculty_朱燕民_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "朱燕民", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/zhuyanmin.html", "status": "active"}
+{"id": "sjtu_faculty_邹丹平_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "邹丹平", "url": "https://sais.sjtu.edu.cn/faculty/zoudanping.html", "status": "active"}
+{"id": "sjtu_faculty_邹福泰_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "邹福泰", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/zoufutai.html", "status": "active"}
+{"id": "sjtu_faculty_邹君妮_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "邹君妮", "url": "https://www.cs.sjtu.edu.cn/jiaoshiml/zoujunni.html", "status": "active"}
+{"id": "sjtu_faculty_邹应天_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "邹应天", "url": "https://yingtian.world/", "status": "active"}
+{"id": "sjtu_faculty_邹媛媛_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "faculty", "name": "邹媛媛", "url": "https://sais.sjtu.edu.cn/faculty/zouyuanyuan.html", "status": "active"}
+{"id": "sjtu_lab_bis_lab_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "lab", "name": "BIS Lab", "url": "https://bislab.sjtu.edu.cn/join/join.html", "status": "active"}
+{"id": "sjtu_lab_machine_vision_and_intelligence_group_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "lab", "name": "Machine Vision and Intelligence Group", "url": "https://www.mvig.org/", "status": "active"}
+{"id": "sjtu_lab_mspm_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "lab", "name": "MSPM", "url": "https://mspm.sjtu.edu.cn/info/1012/1212.htm", "status": "active"}
+{"id": "sjtu_lab_sjtu_character_lab_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "lab", "name": "SJTU Character Lab", "url": "https://sjtu-characterlab.github.io/", "status": "active"}
+{"id": "sjtu_lab_think_lab_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "lab", "name": "Think Lab", "url": "https://thinklab.sjtu.edu.cn/", "status": "active"}
+{"id": "sjtu_lab_qsip_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "lab", "name": "QSIP", "url": "https://qsip.sjtu.edu.cn/info/1080/2055.htm", "status": "active"}
+{"id": "sjtu_lab_swarm_intelligence_laboratory_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "lab", "name": "Swarm Intelligence Laboratory", "url": "https://shaohaibin.github.io/opening/", "status": "active"}
+{"id": "sjtu_lab_上海交通大学智能无线网络与协同控制中心_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "lab", "name": "上海交通大学智能无线网络与协同控制中心", "url": "https://iwin.sjtu.edu.cn/Web/Content/44", "status": "active"}
+{"id": "sjtu_lab_自主机器人实验室_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "lab", "name": "自主机器人实验室", "url": "https://robotics.sjtu.edu.cn/", "status": "active"}
+{"id": "sjtu_lab_上海交通大学杨天研究组_纳米光子学实验室_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "lab", "name": "上海交通大学杨天研究组 / 纳米光子学实验室", "url": "https://yanglab.sjtu.edu.cn/Jiaru/Default.aspx", "status": "active"}
+{"id": "sjtu_lab_mediabrain_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "lab", "name": "MediaBrain", "url": "https://mediabrain.sjtu.edu.cn/join-us/", "status": "active"}
+{"id": "sjtu_lab_dmcv_lab_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "lab", "name": "DMCV Lab", "url": "https://dmcv.sjtu.edu.cn/", "status": "active"}
+{"id": "sjtu_lab_airc_人工智能与机器人中心_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "lab", "name": "AIRC 人工智能与机器人中心", "url": "https://airc.sjtu.edu.cn/zszp.htm", "status": "active"}
+{"id": "sjtu_lab_audiocc_lab_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "lab", "name": "AudioCC Lab", "url": "https://audiocc.sjtu.edu.cn/zh/join-us", "status": "active"}
+{"id": "sjtu_lab_decentralized_computing_lab_dcl_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "lab", "name": "Decentralized Computing Lab (DCL)", "url": "https://shengyunliu.github.io/", "status": "active"}
+{"id": "sjtu_lab_deepdelta_lab_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "lab", "name": "DeepDelta Lab", "url": "https://deepdeltalab.github.io/vacancies", "status": "active"}
+{"id": "sjtu_lab_iwin_fins_何建平课题组_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "lab", "name": "IWIN-FINS 何建平课题组", "url": "https://iwin-fins.com/sciencex_event/for-prospective-students-updating/", "status": "active"}
+{"id": "sjtu_lab_intelligent_computing_research_group_icrg_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "lab", "name": "Intelligent Computing Research Group (ICRG)", "url": "https://elliothe.github.io/", "status": "active"}
+{"id": "sjtu_lab_data_driven_software_technology_laboratory_ddst_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "lab", "name": "Data Driven Software Technology Laboratory (DDST)", "url": "https://www.hlpsjtu.cn/", "status": "active"}
+{"id": "sjtu_lab_mifa_lab_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "lab", "name": "MIFA Lab", "url": "https://mifa.sjtu.edu.cn/", "status": "active"}
+{"id": "sjtu_lab_complex_systems_and_cognition_lab_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "lab", "name": "Complex Systems and Cognition Lab", "url": "https://csc-lab.com/zh/post/postdoc-phd-position-open/", "status": "active"}
+{"id": "sjtu_lab_aisig_云计算智能融合团队_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "lab", "name": "AISIG 云计算智能融合团队", "url": "https://aisig.sjtu.edu.cn/join/", "status": "active"}
+{"id": "sjtu_lab_scalelab_空间认知与自动化学习实验室_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "lab", "name": "ScaleLab 空间认知与自动化学习实验室", "url": "https://scalelab-sjtu.github.io/", "status": "active"}
+{"id": "sjtu_lab_nsec_network_security_and_privacy_protection_lab_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "lab", "name": "NSEC / Network Security and Privacy Protection Lab", "url": "https://nsec.sjtu.edu.cn/", "status": "active"}
+{"id": "sjtu_lab_cmach_lab_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "lab", "name": "CMaCH Lab", "url": "https://cmach.sjtu.edu.cn/", "status": "active"}
+{"id": "sjtu_lab_yulun_zhang_group_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "lab", "name": "Yulun Zhang Group", "url": "https://yulunzhang.com/group/", "status": "active"}
+{"id": "sjtu_lab_institute_for_intelligent_computing_iic_sjtu_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "lab", "name": "Institute for Intelligent Computing (IIC@SJTU)", "url": "https://iiclab.sjtu.edu.cn/index", "status": "active"}
+{"id": "sjtu_lab_intellisim_lab_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "lab", "name": "IntelLiSim Lab", "url": "https://lwkobe.github.io/", "status": "active"}
+{"id": "sjtu_lab_dai_lab_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "lab", "name": "DAI Lab", "url": "https://dai.sjtu.edu.cn/join.html", "status": "active"}
+{"id": "sjtu_lab_nls_navigation_and_location_based_services_lab_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "lab", "name": "NLS / Navigation and Location Based Services Lab", "url": "https://nls.sjtu.edu.cn/web/index", "status": "active"}
+{"id": "sjtu_lab_sustainable_architecture_and_intelligence_labora_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "lab", "name": "Sustainable Architecture and Intelligence Laboratory / SAIL", "url": "https://www.cs.sjtu.edu.cn/sail/index.html", "status": "active"}
+{"id": "sjtu_lab_hirol_lab_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "lab", "name": "HIROL Lab", "url": "https://hirol.sjtu.edu.cn", "status": "active"}
+{"id": "sjtu_lab_isn_institute_for_sensing_and_navigation_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "lab", "name": "ISN / Institute for Sensing and Navigation", "url": "https://isn.sjtu.edu.cn/", "status": "active"}
+{"id": "sjtu_lab_ibds_lab_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "lab", "name": "IBDS Lab", "url": "https://ibdsys.sjtu.edu.cn", "status": "active"}
+{"id": "sjtu_lab_csc_lab_recruitment_post_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "lab", "name": "CSC-Lab Recruitment Post", "url": "https://csc-lab.com/cardshow.htm", "status": "active"}
+{"id": "sjtu_lab_ning_s_group_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "lab", "name": "Ning's Group", "url": "https://academic532.github.io/", "status": "active"}
+{"id": "sjtu_lab_gair_generative_artificial_intelligence_research_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "lab", "name": "GAIR / Generative Artificial Intelligence Research Lab", "url": "https://plms.ai/", "status": "active"}
+{"id": "sjtu_lab_cyberc3_sjtu_intelligent_vehicle_lab_001", "batch": "sjtu_202605", "university": "上海交通大学", "source_type": "lab", "name": "CyberC3 / SJTU Intelligent Vehicle Lab", "url": "https://cyberc3.sjtu.edu.cn/", "status": "active"}

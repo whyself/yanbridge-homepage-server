@@ -1,0 +1,29 @@
+services:
+  homepage-crawler:
+    build:
+      context: ./crawler/homepage
+    image: yanbridge-homepage-crawler:latest
+    env_file: .env
+    volumes:
+      - homepage_output:/app/output
+    profiles:
+      - run-only
+    networks:
+      - yanbridge_default
+
+  pipeline:
+    build:
+      context: ./crawler/pipline
+    image: yanbridge-homepage-pipeline:latest
+    env_file: .env
+    profiles:
+      - run-only
+    networks:
+      - yanbridge_default
+
+volumes:
+  homepage_output:
+
+networks:
+  yanbridge_default:
+    external: true

@@ -1,0 +1,295 @@
+# University of Science and Technology of China Clean CS Faculty Homepage URL List
+
+- Nikolaos Freris
+  - http://staff.ustc.edu.cn/~nfr/
+- 丁虎 (Hu Ding)
+  - http://staff.ustc.edu.cn/~huding/
+- 万寿红 (Shouhong Wan)
+  - http://cs.ustc.edu.cn/2020/0906/c23239a460133/page.htm
+- 伍新明 (Xinming Wu)
+  - https://faculty.ustc.edu.cn/xinming/zh_CN/index.htm
+- 何向南 (Xiangnan He)
+  - https://eeis.ustc.edu.cn/_t780/2019/0402/c2648a377500/page.htm
+  - https://faculty.ustc.edu.cn/hexiangnan/zh_CN/index.htm
+- 余卓隆 (Zhuolong Yu)
+  - https://cs.ustc.edu.cn/2025/0515/c23236a716437/page.htm
+- 侯嘉慧 (Jiahui Hou)
+  - https://faculty.ustc.edu.cn/houjiahui/zh_CN/index.htm
+- 俞能海 (Nenghai Yu)
+  - https://faculty.ustc.edu.cn/yunenghai/zh_CN/index.htm
+- 储琪
+  - http://staff.ustc.edu.cn/~qchu
+- 凌震华 (Zhenhua Ling)
+  - https://eeis.ustc.edu.cn/_t780/2011/0311/c2648a19247/page.htm
+- 刘东 (Dong Liu)
+  - https://faculty.ustc.edu.cn/dongeliu/zh_CN/index.htm
+- 刘嘉威 (Jiawei Liu)
+  - https://jiaweiliu92.github.io/
+- 刘建春 (Jianchun Liu)
+  - https://jcliu17.github.io/
+  - https://cs.ustc.edu.cn/2022/0707/c23240a562030/page.htm
+- 刘武 (Wu Liu)
+  - https://eeis.ustc.edu.cn/_t780/2024/0613/c2648a643777/page.htm
+- 刘淇 (Qi Liu)
+  - http://staff.ustc.edu.cn/~qiliuql/
+- 刘贵全 (Guiquan Liu)
+  - http://cs.ustc.edu.cn/2020/0906/c23239a460124/page.htm
+- 华蓓 (Bei Hua)
+  - http://staff.ustc.edu.cn/~bhua/
+- 卢汉成 (Hancheng Lu)
+  - https://eeis.ustc.edu.cn/_t780/2010/0825/c2648a19508/page.htm
+- 吉建民 (Jianmin Ji)
+  - http://staff.ustc.edu.cn/~jianmin/
+- 吕敏 (Min Lv)
+  - http://staff.ustc.edu.cn/~lvmin05
+- 吴俊敏 (Junmin Wu)
+  - http://cs.ustc.edu.cn/2020/0906/c23239a460139/page.htm
+- 吴思 (Si Wu)
+  - https://kobesi.github.io/
+- 吴枫 (Feng Wu)
+  - https://faculty.ustc.edu.cn/wufeng/zh_CN/index.htm
+- 吴锋 (Feng Wu)
+  - http://staff.ustc.edu.cn/~wufeng02/
+- 周学海 (Xuehai Zhou)
+  - http://staff.ustc.edu.cn/~xhzhou
+- 周文柏
+  - http://staff.ustc.edu.cn/~welbeckz/
+- 周文罡 (Wengang Zhou)
+  - https://eeis.ustc.edu.cn/_t780/2014/0225/c2648a374889/page.htm
+- 周熠 (Yi Zhou)
+  - https://eeis.ustc.edu.cn/_t780/2022/0607/c2648a557568/page.htm
+- 周颢 (Hao Zhou)
+  - http://cs.ustc.edu.cn/2020/0905/c23239a460148/page.htm
+- 夏彦 (Yan Xia)
+  - https://faculty.ustc.edu.cn/xiayan/zh_CN/index.htm
+- 姚涵涛 (Hantao Yao)
+  - https://eeis.ustc.edu.cn/_t780/2025/0704/c2648a690160/page.htm
+- 孙广中 (Guangzhong Sun)
+  - http://staff.ustc.edu.cn/~gzsun/
+- 孙晓艳 (Xiaoyan Sun)
+  - https://eeis.ustc.edu.cn/_t780/2022/0926/c2648a571218/page.htm
+- 孙经纬 (Jingwei Sun)
+  - https://faculty.ustc.edu.cn/sunjingwei/en/index.htm
+- 孙达 (Da Sun)
+  - https://cs.ustc.edu.cn/2022/0418/c23236a640205/page.htm
+- 安虹 (An Hong)
+  - http://acsa.ustc.edu.cn/
+- 宋骐 (Qi Song)
+  - https://songqi1990.github.io/
+- 宫磊 (Lei Gong)
+  - https://cs.ustc.edu.cn/2020/1203/c23239a462623/page.htm
+- 庄连生
+  - http://staff.ustc.edu.cn/~lszhuang
+- 康奇宇 (Qiyu Kang)
+  - https://eeis.ustc.edu.cn/_t780/2025/0704/c2648a690180/page.htm
+- 廖倩芳 (Qianfang Liao)
+  - https://cs.ustc.edu.cn/2022/0418/c23236a640206/page.htm
+- 张俊霞 (Junxia Zhang)
+  - http://cs.ustc.edu.cn/2020/0905/c23239a463247/page.htm
+- 张信明 (Xinming Zhang)
+  - http://staff.ustc.edu.cn/~xinming
+- 张兰 (Lan Zhang)
+  - http://linke.ustc.edu.cn/LanZhang/list.htm
+- 张凯 (Kai Zhang)
+  - https://faculty.ustc.edu.cn/zhangkai123/zh_CN/index.htm
+  - https://faculty.ustc.edu.cn/zhangkai123/zh_CN/zsxx/986688/content/1987.htm
+- 张勇东 (Yongdong Zhang)
+  - https://faculty.ustc.edu.cn/zhangyongdong/zh_CN/index.htm
+- 张午阳 (Wuyang Zhang)
+  - https://wuyangz-ustc.github.io/
+- 张卫明 (Weiming Zhang)
+  - https://eeis.ustc.edu.cn/_t780/2017/0807/c2648a190437/page.htm
+- 张少锋 (Shaofeng Zhang)
+  - https://faculty.ustc.edu.cn/zhangshaofeng1/zh_CN/index.htm
+- 张岸 (An Zhang)
+  - https://faculty.ustc.edu.cn/zhangan12/zh_CN/index.htm
+- 张昱 (Yu Zhang)
+  - http://staff.ustc.edu.cn/~yuzhang
+- 张燕咏 (Yanyong Zhang)
+  - http://staff.ustc.edu.cn/~yanyongz
+  - https://faculty.ustc.edu.cn/zhangyanyong/zh_CN/index.htm
+- 张辉 (Hui Zhang)
+  - https://cs.ustc.edu.cn/2020/1203/c23239a462605/page.htm
+- 彭攀 (Pan Peng)
+  - http://staff.ustc.edu.cn/~ppeng/
+- 徐云 (Yun Xu)
+  - http://staff.ustc.edu.cn/~xuyun/
+- 徐伟 (Xu Wei)
+  - http://cs.ustc.edu.cn/2020/0909/c23239a463206/page.htm
+- 徐宏力 (Hongli Xu)
+  - http://staff.ustc.edu.cn/~xuhongli
+- 徐小华 (Xiaohua Xu)
+  - http://staff.ustc.edu.cn/~xiaohuaxu/
+- 徐林莉 (Linli Xu)
+  - http://staff.ustc.edu.cn/~linlixu/
+- 徐童 (Tong Xu)
+  - http://staff.ustc.edu.cn/~tongxu/
+- 戴礼荣 (Li-Rong Dai)
+  - https://eeis.ustc.edu.cn/_t780/2010/0825/c2648a20101/page.htm
+- 曾凡平 (Fanping Zeng)
+  - http://staff.ustc.edu.cn/~billzeng/
+- 曾晋哲 (Jinzhe Zeng)
+  - https://faculty.ustc.edu.cn/jinzhezeng/zh_CN/index.htm
+- 朱祖勍 (Zuqing Zhu)
+  - https://eeis.ustc.edu.cn/_t780/2015/0721/c2648a19423/page.htm
+- 李京 (Jing Li)
+  - http://cs.ustc.edu.cn/2020/0828/c23235a460094/page.htm
+- 李厚强 (Houqiang Li)
+  - https://eeis.ustc.edu.cn/_t780/2010/0825/c2648a21007/page.htm
+- 李向阳 (Xiang-Yang Li)
+  - http://staff.ustc.edu.cn/~xiangyangli/
+- 李志慧 (Zhihui Li)
+  - https://eeis.ustc.edu.cn/_t780/2025/0704/c2648a690185/page.htm
+- 李成 (Cheng Li)
+  - https://mr-cheng-li.github.io/
+- 李斌 (Bin Li)
+  - https://eeis.ustc.edu.cn/_t780/2013/0510/c2648a19424/page.htm
+- 李曦 (Xi Li)
+  - http://staff.ustc.edu.cn/~llxx
+- 李永坤 (Yongkun Li)
+  - http://staff.ustc.edu.cn/~ykli
+- 李礼 (Li Li)
+  - https://eeis.ustc.edu.cn/_t780/2025/0704/c2648a690178/page.htm
+- 李诚 (Cheng Li)
+  - http://staff.ustc.edu.cn/~chengli7
+  - https://mr-cheng-li.github.io/
+- 李金龙 (Jinlong Li)
+  - http://staff.ustc.edu.cn/~jlli/
+- 杜俊 (Jun Du)
+  - https://eeis.ustc.edu.cn/_t780/2015/0721/c2648a19419/page.htm
+- 杨勋 (Xun Yang)
+  - https://eeis.ustc.edu.cn/_t780/2022/0328/c2648a550457/page.htm
+- 杨坚 (Jian Yang)
+  - http://staff.ustc.edu.cn/~jianyang/
+- 杨威 (Wei Yang)
+  - http://staff.ustc.edu.cn/~qubit
+- 杨盘隆 (Panlong Yang)
+  - https://linke.ustc.edu.cn/2020/0512/c22160a444407/page.htm
+- 林璟锵
+  - https://lin-jingqiang.github.io
+- 毛震东
+  - https://faculty.ustc.edu.cn/maozhendong/zh_CN/index.htm
+- 洪佩琳 (Peilin Hong)
+  - https://eeis.ustc.edu.cn/_t780/2010/0825/c2648a20139/page.htm
+- 熊志伟 (Zhiwei Xiong)
+  - https://faculty.ustc.edu.cn/xiongzhiwei/
+- 熊焰 (Yan Xiong)
+  - http://cs.ustc.edu.cn/2020/0828/c23235a460082/page.htm
+- 王上飞 (Shangfei Wang)
+  - http://staff.ustc.edu.cn/~sfwang/
+- 王文杰 (Wenjie Wang)
+  - https://eeis.ustc.edu.cn/_t780/2025/0704/c2648a690173/page.htm
+- 王杨 (Yang Wang)
+  - http://staff.ustc.edu.cn/~angyan/
+- 王杰 (Jie Wang)
+  - https://eeis.ustc.edu.cn/_t780/2017/0807/c2648a190580/page.htm
+- 王皓 (Hao Wang)
+  - https://faculty.ustc.edu.cn/wh5731/zh_CN/index.htm
+- 王翔宇 (Xiangyu Wang)
+  - https://cs.ustc.edu.cn/2023/1020/c23240a615267/page.htm
+- 王行甫 (Xingfu Wang)
+  - http://staff.ustc.edu.cn/~wangxfu/
+- 王超 (Chao Wang)
+  - http://staff.ustc.edu.cn/~cswang
+- 田新梅 (Xinmei Tian)
+  - https://eeis.ustc.edu.cn/_t780/2012/0306/c2648a19378/page.htm
+- 田晗 (Han Tian)
+  - https://cs.ustc.edu.cn/2021/0104/c23240a634054/page.htm
+- 田野 (Ye Tian)
+  - http://staff.ustc.edu.cn/~yetian
+- 程明月 (Mingyue Cheng)
+  - https://mingyue-cheng.github.io/
+- 糜相行 (Xianghang Mi)
+  - https://xianghang.me
+- 肖力 (Li Xiao)
+  - https://faculty.ustc.edu.cn/xiaoli/zh_CN/index.htm
+- 肖明军 (Mingjun Xiao)
+  - http://staff.ustc.edu.cn/~xiaomj
+- 苏兆锋 (Zhaofeng Su)
+  - http://woc-lab.ustc.edu.cn/2022/0228/c30243a547171/page.htm
+- 苏骏炜 (Junwei Su)
+  - https://faculty.ustc.edu.cn/sujunwei/zh_CN/index.htm
+- 苗付友 (Fuyou Miao)
+  - http://staff.ustc.edu.cn/~mfy
+- 董兰芳 (Lanfang Dong)
+  - http://staff.ustc.edu.cn/~lfdong/
+- 董建阔
+  - https://djiankuo.github.io/
+- 蔡晓辉 (Xiaohui Cai)
+  - http://cs.ustc.edu.cn/2020/0827/c37118a654550/page.htm
+- 薛吟兴 (Yinxing Xue)
+  - https://yinxingxue.github.io/
+- 薛开平 (Kaiping Xue)
+  - https://eeis.ustc.edu.cn/_t780/2016/0711/c2648a19460/page.htm
+- 薛颖杰 (Yingjie Xue)
+  - https://yingjiexue-brown.github.io
+- 计洋 (Yang Ji)
+  - https://eeis.ustc.edu.cn/_t780/2025/0704/c2648a690184/page.htm
+- 许胤龙 (Yinlong Xu)
+  - http://cs.ustc.edu.cn/2020/0828/c23235a460084/page.htm
+- 谈海生 (Haisheng Tan)
+  - http://staff.ustc.edu.cn/~hstan/
+  - https://faculty.ustc.edu.cn/tanhaisheng/zh_CN/index.htm
+- 谢伟 (Wei Xie)
+  - https://linke.ustc.edu.cn/2023/0704/c22160a607701/page.htm
+- 谢洪 (Hong Xie)
+  - https://hongxie.github.io/
+- 赵功名 (Gongming Zhao)
+  - https://gmzhao-ustc.github.io/
+  - https://cs.ustc.edu.cn/2020/0928/c23239a460151/page.htm
+- 赵峰 (Feng Zhao)
+  - https://auto.ustc.edu.cn/2021/0510/c25976a484874/page.htm
+- 连德富 (Defu Lian)
+  - http://staff.ustc.edu.cn/~liandefu
+- 邢凯 (Kai Xing)
+  - http://staff.ustc.edu.cn/~kxing
+- 邵帅 (Shuai Shao)
+  - https://faculty.ustc.edu.cn/sshaocn/zh_CN/index.htm
+- 郑启龙 (Qilong Zheng)
+  - http://cs.ustc.edu.cn/2020/0905/c23239a460153/page.htm
+- 郑浩然 (Haoran Zheng)
+  - http://cs.ustc.edu.cn/2020/0905/c23239a460152/page.htm
+- 金培权 (Peiquan Jin)
+  - http://staff.ustc.edu.cn/~jpq
+- 钟志诚
+  - https://faculty.ustc.edu.cn/zhongzhicheng/zh_CN/index.htm
+- 闫宇博 (Yubo Yan)
+  - https://faculty.ustc.edu.cn/yanyubo/zh_CN/index.htm
+- 陈俊仕 (Junshi Chen)
+  - https://cs.ustc.edu.cn/2020/1203/c23240a462625/page.htm
+- 陈勋
+  - https://eeis.ustc.edu.cn/_t780/2020/0720/c2648a439187/page.htm
+- 陈可江
+  - http://home.ustc.edu.cn/~chenkj/
+- 陈宗海
+  - https://faculty.ustc.edu.cn/chenzonghai/zh_CN/index.htm
+- 陈小平 (Xiaoping Chen)
+  - http://www.wrighteagle.org/en/people/xpchen.php
+- 陈志波
+  - https://eeis.ustc.edu.cn/_t780/2014/0504/c2648a19381/page.htm
+- 陈恩红 (Enhong Chen)
+  - http://staff.ustc.edu.cn/~cheneh
+- 陈欢欢 (Huanhuan Chen)
+  - http://staff.ustc.edu.cn/~hchen/
+- 陈雪 (Xue Chen)
+  - http://staff.ustc.edu.cn/~xuechen1989/
+- 陈雪锦
+  - https://eeis.ustc.edu.cn/_t780/2011/0311/c2648a19248/page.htm
+- 顾乃杰 (Naijie Gu)
+  - http://cs.ustc.edu.cn/2020/0828/c23235a460079/page.htm
+- 顾强强 (Qiangqiang Gu)
+  - https://faculty.ustc.edu.cn/guqq/zh_CN/index.htm
+- 马建辉 (Jianhui Ma)
+  - http://staff.ustc.edu.cn/~jianhui
+- 黄刘生 (Liusheng Huang)
+  - https://faculty.ustc.edu.cn/huangliusheng/zh_CN/index.htm
+- 黄振亚 (Zhenya Huang)
+  - http://staff.ustc.edu.cn/~huangzhy/
+- 黄文超 (Wenchao Huang)
+  - http://staff.ustc.edu.cn/~huangwc
+- 黄章进 (Zhangjin Huang)
+  - http://staff.ustc.edu.cn/~zhuang
+- 黄虎
+  - http://staff.ustc.edu.cn/~huhuang/
+- 龚伟 (Wei Gong)
+  - http://staff.ustc.edu.cn/~weigong/

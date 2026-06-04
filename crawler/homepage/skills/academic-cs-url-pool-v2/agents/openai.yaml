@@ -1,0 +1,4 @@
+interface:
+  display_name: "Academic CS URL Pool V2"
+  short_description: "Build and crawler-clean broad-CS faculty/lab URL pools."
+  default_prompt: "Build broad-CS faculty/advisor homepage and research group/lab homepage URL pools for the requested university, then produce crawler-ready clean faculty and lab URL lists for admissions extraction. First write a todo list, then discover broad roots, expand candidates, verify pages, reverse-search final names, serially Crawl4AI-clean lab URLs for admissions pages, serially Crawl4AI-clean faculty URLs while removing empty profile pages, and report completion status."

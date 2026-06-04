@@ -1,0 +1,100 @@
+# Nanjing University Clean Lab and Research Group URL List
+
+- 计算机软件新技术国家重点实验室
+  - https://keysoftlab.nju.edu.cn/
+- 南京大学计算机软件研究所
+  - https://ics.nju.edu.cn/
+- 计算机软件研究所基础研究中心
+  - https://ics.nju.edu.cn/centers/research-center/index.html
+- 计算机软件研究所系统工程中心
+  - https://ics.nju.edu.cn/centers/engineering-center/index.html
+- 计算机软件研究所前沿交叉中心
+  - https://ics.nju.edu.cn/centers/leading-edge-center/index.html
+- DSE: Dynamic Software Evolution Group
+  - https://ics.nju.edu.cn/dse/index.html
+- PASCAL Research Group
+  - https://pascal-lab.net/
+- SPAR: System & Program Analysis Research
+  - https://ics.nju.edu.cn/spar/index.html
+- PLaX Lab
+  - https://plax-lab.github.io/
+- 机器学习与数据挖掘研究所 / LAMDA
+  - https://www.lamda.nju.edu.cn/MainPage.ashx
+- 神经计算研究组 / RINC
+  - https://cs.nju.edu.cn/rinc/index.html
+- 网络合作与安全研究组 / COSEC
+  - https://cosec.nju.edu.cn/
+- 万维网软件研究组 / Websoft
+  - http://ws.nju.edu.cn/wiki/
+- 南京大学自然语言处理研究组 / NJU NLP
+  - https://nlp.nju.edu.cn/
+- 分布式计算与并行处理实验室 / DISLAB
+  - https://dislab.nju.edu.cn/
+- PASA 大数据技术实验室
+  - https://pasa-bigdata.nju.edu.cn/
+- 理论计算机科学组 / TCS
+  - https://tcs.nju.edu.cn/
+- 先进网络与数据科学研究组 / LANDS
+  - https://cs.nju.edu.cn/lands/index.htm
+  - https://njulimn.github.io/group.html
+- 智能化信息处理研究组 / IIP
+  - http://iip.nju.edu.cn/index.php/%E9%A6%96%E9%A1%B5
+- 媒体计算研究组 / MCG
+  - https://mcg.nju.edu.cn/
+- 智能图形和三维视觉研究组 / Meta Graphics and 3D Vision Lab
+  - https://www.njumeta.com/
+- 智能软件技术研究组 / ISET
+  - https://isetnju.github.io/index.html
+- 南京大学大模型研究协同创新中心
+  - https://cs.nju.edu.cn/lm/
+- 软件研发效能实验室 / DevOps+ Research Laboratory
+  - https://softeng.nju.edu.cn/
+- iSE 智能软件工程实验室
+  - http://www.iselab.cn/
+  - https://nju-ise.github.io/
+- MAGUS 媒体识别与理解研究组
+  - https://magus.ink/
+- 语言智能处理研究组 / LIPLAB
+  - https://liplab.site/
+- AtoL Lab
+  - https://atollab.com/work-with-us/
+- Reasoning & Learning Group
+  - https://cs.nju.edu.cn/rl/index.htm
+- 杨鲲老师课题组
+  - https://ise.nju.edu.cn/info/1007/2451.htm
+- 钮鑫涛老师课题组
+  - https://ise.nju.edu.cn/info/1007/2491.htm
+- 蒋智威老师课题组
+  - https://ise.nju.edu.cn/info/1007/2561.htm
+- 赵阳明老师课题组
+  - https://ise.nju.edu.cn/info/1007/2591.htm
+- 殷亚凤老师课题组
+  - https://ise.nju.edu.cn/info/1007/2601.htm
+- NJU SecLab / System and Software Security Laboratory
+  - https://seclab.nju.edu.cn/
+- IMAGINE Lab
+  - https://cs.nju.edu.cn/lutong/
+- Knowledge Garden / Knowledge Mining Team
+  - http://ws2.nju.edu.cn/kgwiki/
+  - http://ws2.nju.edu.cn/kgwiki/doku.php?id=start
+- 计算成像技术实验室 / CITE
+  - https://cite.nju.edu.cn/
+- NJU-Slab
+  - https://nju-slab.cn/
+- XPlan-Lab
+  - https://ai.nju.edu.cn/hankz/
+- LogAI Lab
+  - https://dxliunju.github.io/
+- LAMDA RL Lab
+  - https://lamda-rl.nju.edu.cn/joinus.html
+- 南京大学智慧网络与通信研究院 / NINE
+  - https://ninelab.org.cn/
+- GIST / Group in Intelligent Software Technology
+  - http://gist.nju.edu.cn/
+- Trustworthy Robotics Lab
+  - https://mrjunhuizhang.github.io/group/
+- 南京大学软件工程组 / SEG
+  - https://seg.nju.edu.cn/
+  - https://seg.nju.edu.cn/aboutSEG.jsp
+- 杨若瑜 Virtual Human Group
+  - http://cs.nju.edu.cn/yangry

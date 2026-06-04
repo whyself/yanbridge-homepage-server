@@ -1,0 +1,70 @@
+# 浙江大学 Clean CS Lab and Research Group Homepage URL List
+
+- CompLife Lab
+  - https://wei-ying.net/openings.html
+- Computer Vision Group @ State Key Lab of CAD&CG, Zhejiang University
+  - http://www.zjucvg.net
+- future-item research subgroup
+  - https://github.com/future-item
+- GUS / Brain and Intelligence Lab
+  - https://guslab.org
+- InCAS / 浙江大学智能计算与系统实验室
+  - http://vm.zju.edu.cn/
+- Interactive Data Group / IDG@ZJU
+  - https://zjuidg.org/
+- IVLab / Image & Vision Laboratory
+  - http://www.ivlab.net/index.htm
+- NESA / Network System Security & Privacy Lab
+  - https://nesa.zju.edu.cn/index.html
+- SPAIL / System Performance Analytics & Intelligence Lab
+  - https://zju-spail.github.io/
+- Sustainable Data Intelligence and Data Systems / SuDIS
+  - https://sudis-zju.github.io/en/
+- ZJU 3DV / Xiaowei Zhou Group
+  - https://xzhou.me/group
+- ZJU IDesign / Integrated & Intelligent Structure Design and Analysis Group
+  - http://www.cad.zju.edu.cn/home/liming/
+- 区块链与数据安全全国重点实验室
+  - https://bcds.zju.edu.cn/
+- 视觉智能与模式分析组 / VIPA
+  - https://www.vipazoo.cn/
+- 浙江大学创新软件研发中心 / EAGLE-Lab
+  - https://eagle.zju.edu.cn/recruitstudent
+- 浙江大学电力系统高性能计算实验室 Lab 203
+  - https://powerhpc.net/zh/
+- 浙江大学互联网安全实验室 / LIST
+  - https://list.zju.edu.cn/index.html
+- 浙江大学智能通信网络与安全研究所
+  - http://iicns.zju.edu.cn/
+- 浙江大学计算机辅助设计与图形系统全国重点实验室
+  - http://www.cad.zju.edu.cn/
+- 浙江大学计算机系统结构实验室（ZJU ARClab）
+  - http://arc.zju.edu.cn/65138/list.htm
+- 浙江大学可视分析小组（ZJU VAI）
+  - https://zjuvai.cn/
+- 浙江大学数据智能实验室 / Data Intelligence Laboratory of Zhejiang University
+  - https://dilab-zju.github.io/enroll.html
+- 浙江大学泛在系统安全实验室 / Ubiquitous System Security Lab
+  - https://www.usslab.org/
+- 浙江大学养老健康服务创新研究中心
+  - https://www.zjubh.com/Home/yjzx/yjzx7/cate_id/29.html
+- 浙江大学 REAL Lab
+  - https://zju-real.github.io/join.html
+- 浙江大学数字媒体处理与企业智能计算实验室
+  - http://give.zju.edu.cn/
+- 浙江大学物联网系统与网络实验室（EmNets）
+  - https://www.emnets.cn/zh/
+- 浙江大学新型CMOS器件课题组
+  - http://cmos.zju.edu.cn/6.html
+- 浙江省信息处理与通信网络重点实验室
+  - http://www.ipcan.zju.edu.cn/
+- 浙江大学形式化验证组（Formal Verification Group）
+  - https://fiction-zju.github.io/vacancies/
+- 浙江大学知识图谱团队（ZJUKG）
+  - https://zjunlp.github.io/
+- 浙江大学智能计算与软件中心
+  - http://www.icsoft.zju.edu.cn/
+- 浙江大学智能计算与网络实验室（iCAN Lab）
+  - https://zjuicanlab.github.io/
+- 浙江大学智能传感与微纳集成研究所
+  - https://sensor.zju.edu.cn/zh/

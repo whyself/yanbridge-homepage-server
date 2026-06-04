@@ -1,0 +1,756 @@
+# 浙江大学 Clean CS Faculty Homepage URL List
+
+- 白洪欢
+  - https://person.zju.edu.cn/blackwhite
+- 鲍虎军
+  - http://www.cad.zju.edu.cn/home/bao/
+- 鲍凌峰
+  - https://mypage.zju.edu.cn/baolingfeng
+- 贝毅君
+  - https://person.zju.edu.cn/beiyj
+- 卜佳俊
+  - https://mypage.zju.edu.cn/bjj
+- 卜凯
+  - http://list.zju.edu.cn/kaibu/
+  - https://mypage.zju.edu.cn/kaibu
+- 才振功
+  - https://person.zju.edu.cn/zhengong
+- 蔡登
+  - http://www.cad.zju.edu.cn/home/dengcai/
+- 蔡亮
+  - https://mypage.zju.edu.cn/0002380
+- 蔡铭
+  - https://mypage.zju.edu.cn/0002444
+- 蔡钰祥
+  - https://caiyuxiang.github.io/
+  - https://person.zju.edu.cn/caiyx
+- 曾丽敏
+  - https://person.zju.edu.cn/lmzeng
+- 常志豪
+  - https://person.zju.edu.cn/changzhihao
+  - https://proudc.github.io/
+- 陈超超
+  - https://person.zju.edu.cn/zjuccc
+  - https://sites.google.com/site/ccchomepage/
+- 陈纯
+  - https://www.zju.edu.cn/2016/0728/c32708a1512115/pagem.htm
+- 陈刚
+  - https://mypage.zju.edu.cn/0098112
+- 陈昊
+  - https://stan-haochen.github.io/
+- 陈华钧
+  - https://mypage.zju.edu.cn/huajun
+- 陈佳伟
+  - https://jiawei-chen.github.io/
+  - https://person.zju.edu.cn/0022087
+- 陈嘉弛
+  - https://jiachi-chen.github.io/
+  - https://person.zju.edu.cn/chenjiachi
+- 陈建海
+  - https://person.zju.edu.cn/cjh
+- 陈锦涛
+  - https://chenjintaozju.github.io/
+  - https://person.zju.edu.cn/NB25041
+- 陈凯旋
+  - https://chenchkx.github.io/
+- 陈珂
+  - https://mypage.zju.edu.cn/kechenpage
+- 陈岭
+  - https://mypage.zju.edu.cn/lc
+- 陈璐
+  - https://person.zju.edu.cn/luchen
+- 陈明帅
+  - https://person.zju.edu.cn/chenms
+- 陈为
+  - http://www.cad.zju.edu.cn/home/chenwei
+- 陈文智
+  - https://mypage.zju.edu.cn/chenwenzhi
+  - https://person.zju.edu.cn/chenwenzhi
+- 陈翔
+  - https://xchen-cs.github.io/
+  - https://person.zju.edu.cn/xchencs
+- 陈越
+  - https://mypage.zju.edu.cn/0096205
+- 程冠杰
+  - https://person.zju.edu.cn/chengguanjie
+- 程学林
+  - https://person.zju.edu.cn/cxlin
+- 崔玉增
+  - https://person.zju.edu.cn/cyz
+- 崔兆鹏
+  - https://zhpcui.github.io/
+  - https://person.zju.edu.cn/zhpcui
+- 邓达臻
+  - https://person.zju.edu.cn/dengdazhen
+- 邓水光
+  - https://mypage.zju.edu.cn/shuiguang
+- 丁尧相
+  - https://yaoxiangding.github.io/
+- 董玮
+  - https://dongw.emnets.cn/index.html
+  - https://mypage.zju.edu.cn/dongw
+- 董亚波
+  - https://mypage.zju.edu.cn/dyb
+- 杜天宇
+  - https://tydusky.github.io/
+  - https://person.zju.edu.cn/dty
+  - https://person.zju.edu.cn/NB23063
+- 杜鑫
+  - https://person.zju.edu.cn/xindu
+- 范鹤鹤
+  - https://person.zju.edu.cn/hehefan
+- 房子荃
+  - https://person.zju.edu.cn/fangziquan
+  - https://fangziquan.github.io/
+- 冯结青
+  - http://www.cad.zju.edu.cn/home/jqfeng
+- 冯天
+  - https://person.zju.edu.cn/fengtian
+- 冯尊磊
+  - https://person.zju.edu.cn/fengzunlei
+- 甘磊磊
+  - https://person.zju.edu.cn/ganleilei
+- 高曙明
+  - http://www.cad.zju.edu.cn/home/smgao/
+  - https://mypage.zju.edu.cn/smgao
+- 高艺
+  - https://mypage.zju.edu.cn/gaoyi
+  - https://yi-gao.github.io/
+- 高云君
+  - https://mypage.zju.edu.cn/gaoyj_cn
+  - https://person.zju.edu.cn/gaoyj_cn
+- 葛丛丛
+  - https://person.zju.edu.cn/gcc
+- 耿卫东
+  - https://mypage.zju.edu.cn/capggeng
+- 耿光超
+  - https://genggc.org/
+- 古红英
+  - https://mypage.zju.edu.cn/gu
+  - https://person.zju.edu.cn/0097390
+- 顾实
+  - https://person.zju.edu.cn/gus
+- 何钦铭
+  - https://person.zju.edu.cn/0088262
+- 何水兵
+  - https://shuibing9420.github.io/
+  - https://person.zju.edu.cn/heshuibing
+- 何晓飞
+  - https://person.zju.edu.cn/0007101
+- 胡佳聪
+  - https://jiaconghu.com/
+- 胡天磊
+  - https://person.zju.edu.cn/htl
+- 胡星
+  - https://person.zju.edu.cn/huxing
+  - https://xing-hu.github.io/
+- 侯启明
+  - https://person.zju.edu.cn/0010046
+- 黄劲
+  - http://www.cad.zju.edu.cn/home/hj
+- 黄正行
+  - https://person.zju.edu.cn/zhengxinghuang
+- 黄忠东
+  - https://person.zju.edu.cn/0095044
+- 霍宇驰
+  - https://person.zju.edu.cn/yuchihuo
+- 纪守领
+  - https://person.zju.edu.cn/sji
+- 季珂宇
+  - https://person.zju.edu.cn/jikeyu
+  - https://person.zju.edu.cn/NB25053
+- 姜晓红
+  - https://mypage.zju.edu.cn/jiangxh
+  - https://person.zju.edu.cn/jiangxh
+- 金涛
+  - https://person.zju.edu.cn/31402183
+  - https://hugddygff.github.io/
+- 金小刚
+  - http://www.cad.zju.edu.cn/home/jin
+  - https://person.zju.edu.cn/0095192
+  - https://mypage.zju.edu.cn/0096364
+  - https://person.zju.edu.cn/0096364
+- 柯翔宇
+  - https://person.zju.edu.cn/xiangyuke
+- 况琨
+  - https://kunkuang.github.io/
+  - https://person.zju.edu.cn/kunkuang
+- 李红
+  - https://person.zju.edu.cn/lihong
+- 李环
+  - https://person.zju.edu.cn/lihuan
+  - https://longaspire.github.io/
+- 李纪为
+  - https://person.zju.edu.cn/jiwei_li
+- 李际军
+  - https://mypage.zju.edu.cn/ljj
+  - https://person.zju.edu.cn/ljj
+- 李俊成
+  - https://person.zju.edu.cn/juncheng
+- 李启雷
+  - https://person.zju.edu.cn/liqilei
+- 李石坚
+  - https://mypage.zju.edu.cn/lishijian
+  - https://person.zju.edu.cn/lishijian
+- 李玺
+  - https://mypage.zju.edu.cn/xilics/
+  - https://person.zju.edu.cn/xilics/
+- 李莹
+  - https://mypage.zju.edu.cn/liying
+  - https://person.zju.edu.cn/liying
+- 李泽健
+  - https://person.zju.edu.cn/zejianli
+  - https://zejianli.github.io/
+  - http://www.idi.zju.edu.cn/member/2654.html
+- 李振源
+  - https://li-zhenyuan.github.io/
+  - https://person.zju.edu.cn/li_zhenyuan
+- 梁秀波
+  - https://person.zju.edu.cn/lxb
+- 林彬彬
+  - https://person.zju.edu.cn/binbinlin
+- 林海
+  - https://zucc.zju.edu.cn/2022/0321/c54377a2509168/page1.htm
+  - https://person.zju.edu.cn/0090040
+- 林怀忠
+  - https://mypage.zju.edu.cn/lhz
+  - https://person.zju.edu.cn/lhz
+- 林兰芬
+  - https://person.zju.edu.cn/0096005
+- 林芃
+  - https://person.zju.edu.cn/linpeng
+- 刘畅
+  - https://person.zju.edu.cn/changliu
+  - https://chang-ntu.github.io/
+- 刘海风
+  - https://mypage.zju.edu.cn/hfliu
+  - https://person.zju.edu.cn/hfliu
+- 刘新国
+  - http://www.cad.zju.edu.cn/home/xgliu/
+  - https://mypage.zju.edu.cn/xgliu
+  - https://person.zju.edu.cn/xgliu
+- 刘玉生
+  - http://www.cad.zju.edu.cn/home/ysliu/
+- 刘泽民
+  - https://zemin-liu.github.io/
+  - https://person.zju.edu.cn/liuzemin
+- 刘哲
+  - https://person.zju.edu.cn/0822187
+- 刘忠鑫
+  - https://zhongxin-liu.github.io/
+  - https://person.zju.edu.cn/liuzhongxin
+- 柳晴
+  - https://person.zju.edu.cn/qingliu
+- 楼建文
+  - https://person.zju.edu.cn/jianwenlou
+- 卢丽强
+  - https://person.zju.edu.cn/liqianglu
+  - https://sites.google.com/view/liqianglu/
+- 鲁东明
+  - https://mypage.zju.edu.cn/ldm
+  - https://person.zju.edu.cn/ldm
+- 鲁鹏
+  - https://person.zju.edu.cn/lupeng
+- 鲁伟明
+  - https://mypage.zju.edu.cn/lwm
+  - https://person.zju.edu.cn/lwm
+- 陆系群
+  - https://mypage.zju.edu.cn/0097159
+  - https://person.zju.edu.cn/0097159
+- 罗亚威
+  - https://person.zju.edu.cn/NB23035
+- 吕红兵
+  - https://mypage.zju.edu.cn/0095175
+  - https://person.zju.edu.cn/0095175
+- 吕嘉美
+  - https://lvjiamei.github.io/
+  - https://person.zju.edu.cn/lvjm
+- 马德
+  - https://person.zju.edu.cn/made
+- 毛宇尘
+  - https://person.zju.edu.cn/maoyc
+- 毛玉仁
+  - https://person.zju.edu.cn/maoyuren
+- 倪超
+  - https://person.zju.edu.cn/chaoni
+- 潘纲
+  - https://person.zju.edu.cn/gpan
+- 潘家雨
+  - https://jiayupan26.github.io/
+  - https://person.zju.edu.cn/jiayupan26
+- 潘之杰
+  - https://mypage.zju.edu.cn/zhijiepan
+- 彭程
+  - https://person.zju.edu.cn/NB25042
+- 彭思达
+  - https://pengsida.net/
+  - https://person.zju.edu.cn/pengsida
+- 钱徽
+  - https://mypage.zju.edu.cn/qianhui
+- 钱沄涛
+  - https://person.zju.edu.cn/ytqian
+- 秦泽群
+  - https://person.zju.edu.cn/qinzequn
+- 秦臻
+  - https://person.zju.edu.cn/qinzhen
+- 任奎
+  - https://person.zju.edu.cn/kuiren
+- 任文慧
+  - https://person.zju.edu.cn/NB25048
+- 任晓雪
+  - https://person.zju.edu.cn/xiaoxueREN
+- 任重
+  - https://person.zju.edu.cn/renzhong
+- 邵健
+  - https://mypage.zju.edu.cn/jshao
+- 邵天甲
+  - https://person.zju.edu.cn/tjshao
+- 沈春华
+  - https://cshen.github.io
+- 沈会良
+  - http://mypage.zju.edu.cn/shenhl
+  - http://www.ivlab.net/shenhl.html
+- 沈永亮
+  - https://person.zju.edu.cn/shenyongliang
+- 寿黎但
+  - https://mypage.zju.edu.cn/should
+- 宋杰
+  - https://person.zju.edu.cn/songjie
+- 宋明黎
+  - https://mypage.zju.edu.cn/msong
+  - https://person.zju.edu.cn/msong
+- 孙建伶
+  - https://mypage.zju.edu.cn/0093173
+- 谭思危
+  - https://person.zju.edu.cn/tansiwei
+- 汤斯亮
+  - https://mypage.zju.edu.cn/siliang
+- 唐华锦
+  - https://person.zju.edu.cn/htang
+- 唐敏
+  - https://min-tang.github.io/home/
+  - https://person.zju.edu.cn/tangm
+- 唐秀
+  - https://xiutangzju.github.io/
+  - https://person.zju.edu.cn/tangxiu
+- 陶煜波
+  - http://www.cad.zju.edu.cn/home/ybtao
+- 田吴炜
+  - https://wuweitian-zju.github.io/
+  - https://person.zju.edu.cn/wuweitian
+- 童若锋
+  - https://person.zju.edu.cn/0096114
+- 宛袁玉
+  - https://person.zju.edu.cn/wanyy
+  - https://yuanyuwan.github.io/
+- 万志远
+  - https://zhiyuan-wan.github.io/
+  - https://person.zju.edu.cn/en/wanzhiyuan
+- 汪睿
+  - https://person.zju.edu.cn/ruiwang
+- 王灿
+  - https://mypage.zju.edu.cn/wangcan
+- 王驰
+  - https://person.zju.edu.cn/wangchi
+  - https://cv.wangchi.art/
+- 王东辉
+  - https://mypage.zju.edu.cn/wdh
+- 王皓波
+  - https://person.zju.edu.cn/haobo_zju
+  - https://hbzju.github.io/
+- 王乃博
+  - https://naibo.wang
+  - https://person.zju.edu.cn/wangnaibo
+- 王强
+  - https://mypage.zju.edu.cn/wangqiang
+- 王青
+  - https://mypage.zju.edu.cn/wangqing
+- 王锐
+  - http://www.cad.zju.edu.cn/home/rwang
+- 王文冠
+  - https://person.zju.edu.cn/wenguanwang
+- 王闻箫
+  - https://www.wenxiaowang.com/
+  - https://person.zju.edu.cn/wenxiaowang
+- 王新根
+  - https://mypage.zju.edu.cn/xingenwang
+- 王新宇
+  - https://mypage.zju.edu.cn/wangxinyu
+- 王跃明
+  - https://person.zju.edu.cn/ymwang
+- 王章野
+  - http://www.cad.zju.edu.cn/home/zywang/
+- 王总辉
+  - https://mypage.zju.edu.cn/zhwang
+- 魏成坤
+  - https://chengkunwei.github.io/zh/
+  - https://person.zju.edu.cn/0621277
+- 魏颖
+  - https://person.zju.edu.cn/yingwei
+- 翁荻
+  - https://dwe.ng
+  - https://person.zju.edu.cn/diweng
+- 翁恺
+  - https://person.zju.edu.cn/wengkai
+- 翁彦琳
+  - https://person.zju.edu.cn/ylweng
+- 巫英才
+  - http://www.cad.zju.edu.cn/home/ycwu/
+  - http://www.ycwu.org/
+  - https://person.zju.edu.cn/ycwu
+- 吴春明
+  - https://mypage.zju.edu.cn/0095168
+- 吴飞
+  - https://mypage.zju.edu.cn/wufei
+- 吴鸿智
+  - https://person.zju.edu.cn/hwu
+  - https://svbrdf.github.io/
+- 吴健
+  - https://person.zju.edu.cn/0004274
+- 吴克强
+  - https://person.zju.edu.cn/keqiang
+- 吴洋洋
+  - https://person.zju.edu.cn/NB23065
+- 伍赛
+  - https://mypage.zju.edu.cn/en/wusai
+  - https://person.zju.edu.cn/0011057
+- 武伯熹
+  - https://person.zju.edu.cn/NB23009#0
+- 席萌
+  - https://person.zju.edu.cn/NB23004
+- 肖俊
+  - https://mypage.zju.edu.cn/junx
+- 肖少拥
+  - http://www.cs.zju.edu.cn/csen/2010/1021/c27062a1211086/page.htm
+- 谢钟乐
+  - https://xiezl.github.io/
+  - https://person.zju.edu.cn/xiezl
+- 邢卫
+  - https://person.zju.edu.cn/0092031
+- 徐从富
+  - https://person.zju.edu.cn/0000147
+- 徐文渊
+  - https://person.zju.edu.cn/wenyuanxu
+- 许端清
+  - https://mypage.zju.edu.cn/0092050
+- 许威威
+  - http://www.cad.zju.edu.cn/home/weiweixu/
+  - http://www.cad.zju.edu.cn/home/weiweixu/weiweixu_en.htm
+  - https://person.zju.edu.cn/0015060
+- 杨国青
+  - https://person.zju.edu.cn/ygq1978
+- 杨铭魁
+  - http://www.cs.zju.edu.cn/csen/2010/1021/c27063a1211080/page.htm
+- 杨小虎
+  - https://mypage.zju.edu.cn/xiaohu
+- 杨洋
+  - https://person.zju.edu.cn/yangy
+- 杨易
+  - https://person.zju.edu.cn/yiyang
+- 杨莹春
+  - https://mypage.zju.edu.cn/0003111
+- 杨智慧
+  - https://zhyangcs.github.io/zhihui/
+  - https://person.zju.edu.cn/zhihui
+- 姚畅
+  - https://yaochang.github.io/
+  - https://person.zju.edu.cn/changyao
+- 姚诚伟
+  - http://www.cs.zju.edu.cn/csen/2010/1021/c27063a1211083/page.htm
+- 叶德仕
+  - https://person.zju.edu.cn/dye
+- 尹建伟
+  - https://mypage.zju.edu.cn/0001038
+  - https://person.zju.edu.cn/0001038
+- 尹可挺
+  - https://person.zju.edu.cn/ykt
+- 应晶
+  - https://mypage.zju.edu.cn/0095096
+- 于金辉
+  - http://www.cad.zju.edu.cn/home/jhyu/
+  - http://www.cad.zju.edu.cn/home/jhyu/English.htm
+- 于智
+  - https://person.zju.edu.cn/yuzhirenzhe
+- 余官定
+  - http://mypage.zju.edu.cn/yuguanding
+  - https://person.zju.edu.cn/yuguanding
+- 袁巩生
+  - https://person.zju.edu.cn/NB22089
+- 袁昕
+  - https://mypage.zju.edu.cn/yuanxin
+- 张亶
+  - http://www.cs.zju.edu.cn/csen/2010/1021/c27062a1211094/page.htm
+  - https://person.zju.edu.cn/zhangdan
+- 张东祥
+  - https://person.zju.edu.cn/zhangdongxiang
+- 张国川
+  - https://person.zju.edu.cn/zgc
+- 张宏鑫
+  - http://www.cad.zju.edu.cn/home/zhx/
+- 张杰
+  - https://person.zju.edu.cn/NB25050
+- 张金山
+  - https://person.zju.edu.cn/zhangjinshan
+- 张明敏
+  - https://mypage.zju.edu.cn/0095045
+- 张宁豫
+  - https://person.zju.edu.cn/ningyu
+- 张启飞
+  - https://person.zju.edu.cn/zhangqf
+- 张圣宇
+  - https://person.zju.edu.cn/shengyuzhang
+- 张彤彧
+  - http://www.cs.zju.edu.cn/csen/2010/1021/c27062a1211105/page.htm
+- 张微
+  - https://person.zju.edu.cn/cstzhangwei
+- 张文
+  - https://person.zju.edu.cn/zhangwen
+- 张文祺
+  - https://person.zju.edu.cn/wenqizhang
+  - https://zwq2018.github.io/
+- 张文桥
+  - https://person.zju.edu.cn/wenqiao
+- 张旭鸿
+  - https://person.zju.edu.cn/zhangxuhong
+- 张寅
+  - https://mypage.zju.edu.cn/en/zhangyin
+- 张引
+  - https://mypage.zju.edu.cn/yinzhang
+- 张志猛
+  - https://person.zju.edu.cn/NB19004
+- 张治坤
+  - https://person.zju.edu.cn/zhikun
+- 章国锋
+  - http://www.cad.zju.edu.cn/home/gfzhang
+- 章敏
+  - https://person.zju.edu.cn/min_zhang
+- 赵德海
+  - https://dehaizhao.github.io/
+  - https://person.zju.edu.cn/NB25054
+- 赵海亮
+  - https://person.zju.edu.cn/hliangzhao
+- 赵俊博
+  - https://jzhao2024.github.io/
+  - https://person.zju.edu.cn/jkzhao
+- 赵莎
+  - https://person.zju.edu.cn/szhao
+- 赵晓亮
+  - https://person.zju.edu.cn/zhaoxl
+- 赵新奎
+  - https://person.zju.edu.cn/zjuzxk
+- 赵艺钧
+  - https://person.zju.edu.cn/NB19013
+- 赵洲
+  - https://mypage.zju.edu.cn/zhaozhou
+  - https://person.zju.edu.cn/zhaozhou
+- 赵子墨鸣
+  - https://person.zju.edu.cn/zhaoziming
+- 郑乾
+  - https://q-zh.github.io/
+  - https://person.zju.edu.cn/zq
+- 郑文庭
+  - https://person.zju.edu.cn/wtzheng
+- 郑小林
+  - https://mypage.zju.edu.cn/xlzheng
+  - https://person.zju.edu.cn/xlzheng
+- 郑友怡
+  - https://www.zyouyi.com/
+  - https://person.zju.edu.cn/youyizheng
+- 智晨
+  - https://person.zju.edu.cn/zjuzhichen
+- 周波
+  - https://mypage.zju.edu.cn/0096086
+  - https://person.zju.edu.cn/bzhou
+- 周晟
+  - https://zhoushengisnoob.github.io/
+  - https://person.zju.edu.cn/zhousheng
+- 周经森
+  - https://kingsum.github.io/
+  - https://person.zju.edu.cn/kingsum
+- 周昆
+  - https://mypage.zju.edu.cn/kunzhou
+  - https://person.zju.edu.cn/kunzhou
+- 周磊晶
+  - https://person.zju.edu.cn/zlj
+- 周晓巍
+  - http://www.cad.zju.edu.cn/home/xzhou/
+  - https://person.zju.edu.cn/xzhou
+  - https://xzhou.me/
+- 周赟湛
+  - https://person.zju.edu.cn/yzzhou
+- 朱建科
+  - https://mypage.zju.edu.cn/jkzhu
+  - https://person.zju.edu.cn/jkzhu
+- 朱霖潮
+  - https://person.zju.edu.cn/linchao
+  - https://ffmpbgrnn.github.io/
+- 朱梦莹
+  - https://person.zju.edu.cn/NB23086
+- 朱闽峰
+  - https://person.zju.edu.cn/minfengzhu
+- 朱强
+  - https://person.zju.edu.cn/zhuq
+- 朱小军
+  - https://person.zju.edu.cn/NB19006
+- 朱轶凡
+  - https://person.zju.edu.cn/CS_ZhuYF
+  - https://person.zju.edu.cn/NB24090
+- 庄越挺
+  - https://mypage.zju.edu.cn/0089133
+  - https://person.zju.edu.cn/yzhuang
+- 邹强
+  - https://person.zju.edu.cn/qiangzou
+- Susanto Rahardja
+  - https://person.zju.edu.cn/susanto
+- 蔡云龙
+  - http://mypage.zju.edu.cn/ylcai
+  - https://person.zju.edu.cn/ylcai
+- 陈惠芳
+  - http://mypage.zju.edu.cn/chenhuifang
+  - https://person.zju.edu.cn/chenhuifang
+- 陈晓明
+  - http://person.zju.edu.cn/chenxiaoming
+- 程磊
+  - https://person.zju.edu.cn/leicheng
+- 杜歆
+  - https://person.zju.edu.cn/duxin
+- 方榯楷
+  - https://person.zju.edu.cn/0025097
+- 龚小谨
+  - http://mypage.zju.edu.cn/gongxj
+  - https://person.zju.edu.cn/gongxj
+- 韩晓霞
+  - http://mypage.zju.edu.cn/0097067
+  - https://person.zju.edu.cn/0097067
+- 郝寅雷
+  - http://mypage.zju.edu.cn/0005147
+  - https://person.zju.edu.cn/0005147
+- 胡冰
+  - http://mypage.zju.edu.cn/hubing
+  - https://person.zju.edu.cn/hubing
+- 胡浩基
+  - http://mypage.zju.edu.cn/huhaoji
+  - https://person.zju.edu.cn/huhaoji
+- 皇甫江涛
+  - http://mypage.zju.edu.cn/huangfujt
+  - https://person.zju.edu.cn/huangfujt
+- 黄崇文
+  - https://person.zju.edu.cn/chongwenhuang?fulltext=黄崇文
+- 黄科杰
+  - https://person.zju.edu.cn/huangkejie
+- 金日成
+  - https://person.zju.edu.cn/richengjin
+- 金文光
+  - https://person.zju.edu.cn/jin2010
+- 雷鸣
+  - https://person.zju.edu.cn/lm1029
+- 李春光
+  - http://mypage.zju.edu.cn/cgli
+  - https://person.zju.edu.cn/cgli
+- 李东晓
+  - http://mypage.zju.edu.cn/lidx
+  - https://person.zju.edu.cn/lidx
+- 李建龙
+  - http://mypage.zju.edu.cn/JLLi
+  - https://person.zju.edu.cn/JLLi
+- 李军伟
+  - https://person.zju.edu.cn/0020196
+- 李凯
+  - http://mypage.zju.edu.cn/Likai
+  - https://person.zju.edu.cn/Likai
+- 李立言
+  - https://person.zju.edu.cn/liliyan
+- 李荣鹏
+  - https://rongpeng.info/
+  - https://person.zju.edu.cn/rongpeng
+- 李伟昌
+  - https://person.zju.edu.cn/0025030
+- 李旻
+  - https://person.zju.edu.cn/limin
+- 李绪荣
+  - https://person.zju.edu.cn/xurong
+- 李英明
+  - https://person.zju.edu.cn/yingming
+- 廖依伊
+  - https://person.zju.edu.cn/yiyiliao
+- 刘安
+  - https://person.zju.edu.cn/anliu
+- 刘而云
+  - https://person.zju.edu.cn/eryunliu
+- 刘雷
+  - https://person.zju.edu.cn/leiliu_cn#0
+  - https://sites.google.com/site/leihomepage/home
+- 刘鹏
+  - http://mypage.zju.edu.cn/liupeng
+  - https://person.zju.edu.cn/liupeng
+- 刘英
+  - http://person.zju.edu.cn/yliu
+- 刘云海
+  - http://mypage.zju.edu.cn/liuyh
+  - https://person.zju.edu.cn/liuyh
+- 罗小华
+  - https://person.zju.edu.cn/0004185
+- 潘赟
+  - http://mypage.zju.edu.cn/panyun
+- 冉立新
+  - http://mypage.zju.edu.cn/ranlx
+- 单杭冠
+  - https://person.zju.edu.cn/hshan/772821.html
+- 沈海斌
+  - https://person.zju.edu.cn/345890fjdasjoidf
+- 史峥
+  - http://mypage.zju.edu.cn/0000280
+- 史治国
+  - http://mypage.zju.edu.cn/shizg
+- 孙斌
+  - http://mypage.zju.edu.cn/0095070
+- 王匡
+  - http://mypage.zju.edu.cn/wangkuang
+- 王玮
+  - http://mypage.zju.edu.cn/wangw
+- 王维东
+  - http://mypage.zju.edu.cn/wdwd
+- 王勇
+  - http://mypage.zju.edu.cn/0002259
+- 王曰海
+  - http://mypage.zju.edu.cn/0099184
+- 吴锡东
+  - http://mypage.zju.edu.cn/xwu
+- 项志宇
+  - http://mypage.zju.edu.cn/xiangzy
+- 谢磊
+  - http://mypage.zju.edu.cn/0097068
+- 徐元欣
+  - http://mypage.zju.edu.cn/xuyuanxin
+- 杨建义
+  - https://person.zju.edu.cn/yjy
+- 杨倩倩
+  - https://person.zju.edu.cn/qianqianyang?fulltext=杨倩倩
+- 杨照辉
+  - https://person.zju.edu.cn/yangzhaohui
+- 叶德信
+  - https://person.zju.edu.cn/dexinye
+- 尹勋钊
+  - https://person.zju.edu.cn/xunzhaoyin
+- 虞露
+  - http://mypage.zju.edu.cn/yul
+- 张朝阳
+  - http://mypage.zju.edu.cn/zhaoyangzhang
+- 张婷
+  - http://person.zju.edu.cn/tzhang
+- 赵航芳
+  - https://person.zju.edu.cn/zhf_zju
+- 赵亮
+  - https://person.zju.edu.cn/liangzhao
+- 赵民建
+  - http://mypage.zju.edu.cn/0003171
+- 赵明敏
+  - https://person.zju.edu.cn/zhaomingmin
+- 钟杰
+  - https://person.zju.edu.cn/zhongjie
+- 周成伟
+  - https://person.zju.edu.cn/zhouchw
+- 周金芳
+  - http://mypage.zju.edu.cn/zhoujf
+- 朱怀宇
+  - http://person.zju.edu.cn/zhuhuaiyu

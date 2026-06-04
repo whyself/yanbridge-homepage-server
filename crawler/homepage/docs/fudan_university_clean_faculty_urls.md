@@ -1,0 +1,300 @@
+# Fudan University Clean Faculty Homepage URL List
+
+- 曹袖
+  - https://cs.fudan.edu.cn/c3/aa/c30604a443306/page.htm
+- 曾剑平
+  - https://faculty.fudan.edu.cn/zengjianping/zh_CN/index/170441/list/index.htm
+- 柴洪峰
+  - https://fintech.fudan.edu.cn/info/1005/1347.htm
+- 陈碧欢
+  - https://cs.fudan.edu.cn/c3/b0/c30604a443312/page.htm
+  - https://chenbihuan.github.io/
+- 陈辰
+  - https://cs.fudan.edu.cn/c5/c2/c30604a443842/page.htm
+- 陈荣华
+  - https://cs.fudan.edu.cn/c5/d4/c30604a443860/page.htm
+- 陈阳
+  - https://chenyang03.wordpress.com/
+- 池明旻
+  - https://emwlab.fudan.edu.cn/de/10/c7037a56848/page.htm
+- 戴嘉润
+  - https://djrrr.github.io/
+- 戴开宇
+  - https://cs.fudan.edu.cn/c3/c4/c30604a443332/page.htm
+  - https://cs.fudan.edu.cn/dky/list.htm
+- 董震
+  - https://zhendong2050.github.io/
+- 窦德景
+  - https://faculty.fudan.edu.cn/DejingDou/zh_CN/index.htm
+- 冯红伟
+  - https://cs.fudan.edu.cn/c5/c6/c30604a443846/page.htm
+- 冯瑞
+  - https://faculty.fudan.edu.cn/fengrui/zh_CN/zdylm/667348/list/index.htm
+- 戈维峰
+  - https://www.weifengge.net/zh/
+  - https://faculty.fudan.edu.cn/geweifeng/zh_CN/index.htm
+- 顾宁
+  - https://cscw.fudan.edu.cn/ninggu/list.htm
+  - https://cscw.fudan.edu.cn/5d/48/c31074a351560/page.htm
+- 韩伟力
+  - https://faculty.fudan.edu.cn/weili/zh_CN/index.htm
+- 何震瀛
+  - https://faculty.fudan.edu.cn/hezhenying/zh_CN/index.htm
+- 黄橙
+  - https://cs.fudan.edu.cn/31/7a/c30604a733562/page.htm
+- 黄萱菁
+  - https://faculty.fudan.edu.cn/xjhuang/
+- 姜忠鼎
+  - https://software.fudan.edu.cn/b5/c6/c29336a308678/page.htm
+- 金城
+  - https://cjinfdu.github.io/
+- 金玲飞
+  - https://cs.fudan.edu.cn/c3/fa/c30604a443386/page.htm
+  - https://ai.fudan.edu.cn/jlf/list.htm
+- 李斌
+  - https://aimpressionist.github.io/
+- 李景涛
+  - https://cs.fudan.edu.cn/ljt_37358/list.htm
+- 李敏波
+  - https://faculty.fudan.edu.cn/liminbo/zh_CN/jsxx/123491/jsxx/jsxx.htm
+- 李伟
+  - https://faculty.fudan.edu.cn/weilics/zh_CN
+- 李弋
+  - https://datascience.fudan.edu.cn/5a/c9/c13398a154313/page.htm
+- 李银胜
+  - https://cs.fudan.edu.cn/c5/18/c30604a443672/page.htm
+  - https://datascience.fudan.edu.cn/5b/22/c13398a154402/page.htm
+- 李元
+  - https://cs.fudan.edu.cn/31/8c/c30604a733580/page.htm
+  - https://ai.fudan.edu.cn/31/8c/c30604a733580/page.htm
+- 李晟
+  - https://blazelisheng.github.io/
+- 梁瑾
+  - https://cs.fudan.edu.cn/lj_37382/list.htm
+- 廖志成
+  - https://cs.fudan.edu.cn/c5/20/c30604a443680/page.htm
+- 刘卉
+  - https://dataology.fudan.edu.cn/85/87/c4601a34183/page.htm
+- 刘乐茂
+  - https://lemaoliu.github.io/
+- 刘新
+  - https://cs.fudan.edu.cn/lx_37406/list.htm
+- 卢盛祺
+  - https://software.fudan.edu.cn/b5/9c/c29336a308636/page.htm
+- 卢暾
+  - https://cscw.fudan.edu.cn/5d/47/c31073a351559/page.htm
+- 吕智慧
+  - https://cs.fudan.edu.cn/lzh_37424/list.htm
+- 毛迪林
+  - https://ai.fudan.edu.cn/mdl/list.htm
+- 牛军钰
+  - https://software.fudan.edu.cn/b5/ca/c29336a308682/page.htm
+- 潘旭东
+  - https://ravensanstete.github.io/en/
+- 彭鑫
+  - https://cs.fudan.edu.cn/c5/41/c30604a443713/page.htm
+  - https://cspengxin.github.io/
+  - https://datascience.fudan.edu.cn/59/1b/c13398a153883/page.htm
+- 钱振兴
+  - https://fdmas.github.io/
+- 邱锡鹏
+  - https://xpqiu.github.io/graduate.html
+- 尚笠
+  - https://datascience.fudan.edu.cn/b4/f2/c13398a439538/page.htm
+- 孙未未
+  - https://cs.fudan.edu.cn/c5/58/c30604a443736/page.htm
+  - https://datascience.fudan.edu.cn/59/1c/c13398a153884/page.htm
+- 谈子敬
+  - https://faculty.fudan.edu.cn/tanzijing/zh_CN/index.htm
+- 谭伟敏
+  - http://iipl.fudan.edu.cn/6f/e4/c45864a684004/page.htm
+  - https://iipl.fudan.edu.cn/6f/e4/c45864a684004/page.htm
+- 唐渊
+  - https://cs.fudan.edu.cn/ty_37487/
+- 汪卫
+  - https://imi.fudan.edu.cn/info/1651/1161.htm
+- 汪源源
+  - https://ee.fudan.edu.cn/Data/View/847
+- 王飞
+  - https://iipl.fudan.edu.cn/71/0f/c45867a684303/page.htm
+- 王鹏
+  - https://cs.fudan.edu.cn/wp_37188/
+  - https://faculty.fudan.edu.cn/pengwang5/zh_CN/index.htm
+- 王晓阳
+  - https://software.fudan.edu.cn/b5/d1/c29336a308689/page.htm
+- 王新
+  - https://iipl.fudan.edu.cn/70/ee/c45865a684270/page.htm
+  - https://faculty.fudan.edu.cn/wangxin/zh_CN/zdylm/651904/list/index.htm
+- 王轶彤
+  - https://dataology.fudan.edu.cn/85/89/c4601a34185/page.htm
+- 王智慧
+  - https://cs.fudan.edu.cn/c4/1e/c30604a443422/page.htm
+- 危辉
+  - https://faculty.fudan.edu.cn/weihui/zh_CN/index.htm
+- 吴杰
+  - https://fintech.fudan.edu.cn/info/1023/1457.htm
+- 吴俊
+  - https://iipl.fudan.edu.cn/70/ef/c45865a684271/page.htm
+- 吴毅坚
+  - https://faculty.fudan.edu.cn/wuyijian/zh_CN/index.htm
+- 吴永辉
+  - https://cs.fudan.edu.cn/c4/32/c30604a443442/page.htm
+- 肖仰华
+  - https://kw.fudan.edu.cn/people/xiaoyanghua/
+- 谢志鹏
+  - https://faculty.fudan.edu.cn/xiezhipeng/zh_CN/zdylm/644034/list/index.htm
+- 熊赟
+  - https://ai.fudan.edu.cn/xy_37635/list.htm
+- 徐辉
+  - https://hxuhack.github.io/
+- 徐跃东
+  - https://ydxu2025.github.io/
+  - https://ee.fudan.edu.cn/Data/View/812
+- 薛向阳
+  - https://cs.fudan.edu.cn/31/e9/c30604a733673/page.htm
+  - https://iipl.fudan.edu.cn/7f/b8/c45854a688056/page.htm
+  - http://faculty.fudan.edu.cn/xyxue/zh_CN/index.htm
+- 严明
+  - https://cs.fudan.edu.cn/c4/48/c30604a443464/page.htm
+- 颜波
+  - https://cs.fudan.edu.cn/c4/4a/c30604a443466/page.htm
+- 杨广亮
+  - https://yian-lang.net/guangliang/
+- 杨珉
+  - https://min-yang-fudan.github.io/
+- 杨夙
+  - https://iipl.fudan.edu.cn/a7/37/c45867a698167/page.htm
+- 杨卫东
+  - https://datascience.fudan.edu.cn/5a/cc/c13398a154316/page.htm
+- 杨哲慜
+  - https://cs.fudan.edu.cn/c4/56/c30604a443478/page.htm
+- 叶广楠
+  - https://cs.fudan.edu.cn/5b/f6/c30604a482294/page.htm
+  - https://fintech.fudan.edu.cn/info/1005/1387.htm
+- 叶雅珍
+  - https://datascience.fudan.edu.cn/6a/0a/c13398a158218/page.htm
+- 张军平
+  - https://cs.fudan.edu.cn/c4/6a/c30604a443498/page.htm
+- 张谧
+  - https://cs.fudan.edu.cn/zm/list.htm
+  - https://mi-zhang-fdu.github.io/index.chn.html
+- 张鹏
+  - https://cscw.fudan.edu.cn/pengzhang/list.htm
+- 张奇
+  - https://cs.fudan.edu.cn/5b/f8/c30604a482296/page.htm
+  - https://iipl.fudan.edu.cn/_s627/70/d7/c45862a684247/page.psp
+  - http://qizhang.info/
+- 张向东
+  - https://cs.fudan.edu.cn/31/f7/c30604a733687/page.htm
+- 张晓寒
+  - https://xhzhang.github.io/
+  - https://security.fudan.edu.cn/members/faculty/zxh
+- 张新鹏
+  - https://cs.fudan.edu.cn/c5/87/c30604a443783/page.htm
+  - https://cs.fudan.edu.cn/zxp/list.htm
+  - https://fdmas.github.io/team/zhang.html
+- 张源
+  - https://yuanxzhang.github.io/
+- 章忠志
+  - https://cs.fudan.edu.cn/c5/8d/c30604a443789/page.htm
+- 赵进
+  - https://cs.fudan.edu.cn/c5/91/c30604a443793/page.htm
+- 赵卫东
+  - https://cs.fudan.edu.cn/c5/95/c30604a443797/page.htm
+- 郑骁庆
+  - https://cs.fudan.edu.cn/c5/a1/c30604a443809/page.htm
+  - https://faculty.fudan.edu.cn/zhengxq/zh_CN/index.htm
+  - https://faculty.fudan.edu.cn/zhengxq/zh_CN/more/155051/jsjjgd/index.htm
+- 周扬帆
+  - https://cs.fudan.edu.cn/c5/ab/c30604a443819/page.htm
+- 朱元婷
+  - https://cs.fudan.edu.cn/c5/b9/c30604a443833/page.htm
+- 吴祖煊
+  - https://zxwu.azurewebsites.net
+- 程远
+  - http://iipl.fudan.edu.cn/70/b6/c45866a684214/page.htm
+- 张力
+  - https://lzrobots.github.io/
+- 黄增峰
+  - https://zengfenghuang.github.io/
+- 王健
+  - https://wangjianeee.github.io/
+- 卢暋
+  - https://cscw.fudan.edu.cn/tunlu/list.htm
+- 蓝星宇
+  - https://olivialan.github.io/
+- 胡子欣
+  - https://ai3.fudan.edu.cn/info/1088/1434.htm
+- 徐盈辉
+  - https://ai3.fudan.edu.cn/info/1088/1484.htm
+- 漆远
+  - https://ai3.fudan.edu.cn/info/1088/1494.htm
+- 朱思语
+  - https://ai3.fudan.edu.cn/info/1088/1514.htm
+- 陈曦
+  - https://ai3.fudan.edu.cn/info/1088/1684.htm
+- 李昊
+  - https://ai3.fudan.edu.cn/info/1088/1694.htm
+- 徐增林
+  - https://ai3.fudan.edu.cn/info/1088/1754.htm
+- 李维
+  - https://ai3.fudan.edu.cn/info/1088/1984.htm
+- 林晨森
+  - https://ai3.fudan.edu.cn/info/1088/2064.htm
+- 熊昊
+  - https://ai3.fudan.edu.cn/info/1088/2214.htm
+  - https://shawxh.github.io/
+- 姜若曦
+  - https://ai3.fudan.edu.cn/info/1088/2224.htm
+- 仲晓辉
+  - https://ai3.fudan.edu.cn/info/1088/2234.htm
+- 魏龙
+  - https://ai3.fudan.edu.cn/info/1088/2304.htm
+- 屈超
+  - https://ai3.fudan.edu.cn/info/1088/2354.htm
+  - https://chaos-q.github.io/
+- 陈思明
+  - http://simingchen.me/
+- 韩晶晶
+  - https://datascience.fudan.edu.cn/97/4d/c13398a694093/page.htm
+  - https://xwxy.fudan.edu.cn/ab/1e/c41194a502558/page.htm
+- 梁家卿
+  - https://datascience.fudan.edu.cn/97/51/c13398a694097/page.htm
+- 张伊娜
+  - https://datascience.fudan.edu.cn/97/53/c13398a694099/page.htm
+- 郑卫国
+  - https://datascience.fudan.edu.cn/97/56/c13398a694102/page.htm
+- 周葆华
+  - https://datascience.fudan.edu.cn/97/58/c13398a694104/page.htm
+- 周笑
+  - https://datascience.fudan.edu.cn/97/59/c13398a694105/page.htm
+- 蔡培如
+  - https://datascience.fudan.edu.cn/97/5a/c13398a694106/page.htm
+  - https://law.fudan.edu.cn/fb/2d/c48066a326445/page.htm
+- 张晖明
+  - https://datascience.fudan.edu.cn/e1/60/c13398a123232/page.htm
+- 孙时进
+  - https://datascience.fudan.edu.cn/e1/66/c13398a123238/page.htm
+- 孟建
+  - https://datascience.fudan.edu.cn/e1/68/c13398a123240/page.htm
+- 高卫国
+  - https://datascience.fudan.edu.cn/e1/6d/c13398a123245/page.htm
+  - https://math.fudan.edu.cn/fa/5a/c30607a326234/page.htm
+- 姜育刚
+  - https://software.fudan.edu.cn/b5/d5/c29336a308693/page.htm
+- 赵一鸣
+  - https://software.fudan.edu.cn/b5/c7/c29336a308679/page.htm
+- 朱扬勇
+  - https://software.fudan.edu.cn/b5/cb/c29336a308683/page.htm
+- 韩定定
+  - https://fit.fudan.edu.cn/En/Data/View/3600
+- 商慧亮
+  - https://faculty.fudan.edu.cn/shanghl/zh_CN/index.htm
+- 曾太平
+  - https://fudan-birlab.com/
+  - https://fudan-birlab.com/people.html
+  - https://istbi.fudan.edu.cn/info/1774/4911.htm
+- 孙思琦
+  - https://intersun.github.io/
+- 熊诗圣
+  - https://fduxiongteam.fudan.edu.cn/

@@ -1,0 +1,679 @@
+# Peking University (北京大学) — Clean Faculty URLs
+
+## Admissions-Relevant (explicit recruitment signal)
+- 董豪
+  - http://zsdonghao.github.io
+- 杨耀东
+  - http://www.yangyaodong.com
+- 张牧涵
+  - https://muhanzhang.github.io/
+- 王奕森
+  - https://yisenwang.github.io/
+- 张健
+  - https://jianzhang.tech/
+- 田永鸿
+  - https://www.pkuml.org
+- 施柏鑫
+  - https://ci.idm.pku.edu.cn
+- 盖伟新
+  - https://ic.pku.edu.cn/szdw/zzjs/G1/gwx/index.htm
+- 林亦波
+  - https://ic.pku.edu.cn/szdw/zzjs/L1/lyb/index.htm
+- 蔡一茂
+  - https://ic.pku.edu.cn/szdw/zzjs/C1/cym/index.htm
+- 燕博南
+  - https://ic.pku.edu.cn/szdw/zzjs/Y1/ybn/index.htm
+- 王润声
+  - https://ic.pku.edu.cn/szdw/zzjs/W1/wrs/index.htm
+- 黄芊芊
+  - https://ic.pku.edu.cn/szdw/zzjs/H1/hqq/index.htm
+- 贾天宇
+  - https://ic.pku.edu.cn/szdw/zzjs/J1/jty/index.htm
+- 唐希源
+  - https://ic.pku.edu.cn/szdw/zzjs/T1/txy/index.htm
+- 李萌
+  - https://ic.pku.edu.cn/szdw/zzjs/L1/lim/index.htm
+- 梁云
+  - https://ic.pku.edu.cn/szdw/zzjs/L1/ly/index.htm
+- 钟亦武
+  - https://cis.pku.edu.cn/info/1362/3348.htm
+- 刘璐
+  - https://ele.pku.edu.cn/info/1035/1146.htm
+- 谢广明
+  - https://www.coe.pku.edu.cn/graduate/zsds01/13196.html
+- 王龙
+  - http://www2.coe.pku.edu.cn/subpaget.asp?id=83
+
+## CS School (计算机学院) — with personal homepages discovered via reverse search
+
+### 计算理论
+- 程宽
+  - https://www.kuancheng88.com
+  - http://cs.pku.edu.cn/info/1094/1638.htm
+- 姜少峰
+  - https://shaofengjiang.cn
+  - http://cs.pku.edu.cn/info/1069/1633.htm
+- 孔雨晴
+  - https://cfcs.pku.edu.cn/yuqkong/
+  - http://cs.pku.edu.cn/info/1094/1671.htm
+- 李彤阳
+  - https://www.tongyangli.com
+  - http://cs.pku.edu.cn/info/1071/1687.htm
+- 刘天任
+  - https://liutianren.com
+  - http://cs.pku.edu.cn/info/1071/1690.htm
+- 王若松
+  - https://cfcs.pku.edu.cn/people/faculty/ruosongwang/index.htm
+  - http://cs.pku.edu.cn/info/1083/2859.htm
+- 曹永知
+  - http://cs.pku.edu.cn/info/1087/1640.htm
+- 陈一峯
+  - http://cs.pku.edu.cn/info/1062/1606.htm
+- 樊文飞
+  - http://cs.pku.edu.cn/info/1008/2707.htm
+- 王捍贫
+  - http://cs.pku.edu.cn/info/1083/1700.htm
+- 袁骁
+  - http://scholar.pku.edu.cn/xiaoyuan
+- 詹乃军
+  - http://cs.pku.edu.cn/info/1086/2961.htm
+- 张成
+  - http://cs.pku.edu.cn/info/1086/1733.htm
+- 张志华
+  - https://www.math.pku.edu.cn/teachers/zhzhang/
+
+### 软件工程
+- 郝丹
+  - https://faculty.pku.edu.cn/haodan/zh_CN/index/10828/list/
+  - http://cs.pku.edu.cn/info/1067/1626.htm
+- 胡振江
+  - http://faculty.pku.edu.cn/hu/zh_CN/index/10495/list/index.htm
+  - http://cs.pku.edu.cn/info/1067/1623.htm
+- 金鑫
+  - https://xinjin.github.io
+  - http://cs.pku.edu.cn/info/1069/1635.htm
+- 李锭
+  - https://marapapman.github.io
+  - http://cs.pku.edu.cn/info/1087/2765.htm
+- 李戈
+  - https://ligechina.github.io
+  - http://cs.pku.edu.cn/info/1071/1679.htm
+- Mechtaev Sergey
+  - https://mechtaev.com
+  - http://cs.pku.edu.cn/info/1084/3250.htm
+- 孙艳春
+  - https://yanchunsun.github.io
+  - http://cs.pku.edu.cn/info/1087/1788.htm
+- 王迪
+  - https://stonebuddha.github.io
+  - http://cs.pku.edu.cn/info/1083/1706.htm
+- 王乐业
+  - https://wangleye.github.io
+  - http://cs.pku.edu.cn/info/1083/1708.htm
+- 谢涛
+  - https://taoxiease.github.io
+  - http://cs.pku.edu.cn/info/1084/1713.htm
+- 熊英飞
+  - https://xiongyingfei.github.io
+  - http://cs.pku.edu.cn/info/1084/1716.htm
+- 张昕
+  - https://xinpl.github.io
+  - http://cs.pku.edu.cn/info/1086/1737.htm
+- 周明辉
+  - http://faculty.pku.edu.cn/zhouminghui/zh_CN/index.htm
+  - http://cs.pku.edu.cn/info/1086/1732.htm
+- 邹艳珍
+  - http://www.sei.pku.edu.cn/people/zouyz
+  - http://cs.pku.edu.cn/info/1086/1739.htm
+- 张伟
+  - https://faculty.pku.edu.cn/zhangwei
+  - http://cs.pku.edu.cn/info/1087/1748.htm
+- 赵俊峰
+  - https://faculty.pku.edu.cn/zhaojunfeng/zh_CN/index/10976/list/
+  - http://cs.pku.edu.cn/info/1086/3087.htm
+- 李胜
+  - http://www.graphics.pku.edu.cn/members/lisheng/
+  - http://cs.pku.edu.cn/info/1012/1102.htm
+- 陈毅松
+  - http://www.graphics.pku.edu.cn/members/chenyisong/
+  - http://cs.pku.edu.cn/info/1062/1613.htm
+- 刘譞哲
+  - http://www.liuxuanzhe.com
+  - http://cs.pku.edu.cn/sse/info/1005/1040.htm
+- 曹东刚
+  - https://caodg.github.io/caodg/
+  - http://cs.pku.edu.cn/info/1062/3090.htm
+- 王韬
+  - https://ceca.pku.edu.cn/people/faculty/wt/index.htm
+  - http://cs.pku.edu.cn/info/1083/3088.htm
+- 郭耀
+  - http://sei.pku.edu.cn/~yaoguo
+- 黄群
+  - http://huangqundl.github.io
+- 刘古月
+  - https://grace-liu.github.io/
+- 罗国杰
+  - http://ceca.pku.edu.cn/guojie
+- 苗旭鹏
+  - https://hsword.github.io
+- 肖臻
+  - http://net.pku.edu.cn/~xiaozhen/
+- 梅宏
+  - http://cs.pku.edu.cn/info/1008/1089.htm
+- 焦文品
+  - http://cs.pku.edu.cn/info/1087/1668.htm
+- 谢冰
+  - http://cs.pku.edu.cn/info/1087/1761.htm
+- 张大庆
+  - http://cs.pku.edu.cn/info/1086/1728.htm
+- 张路
+  - http://cs.pku.edu.cn/info/1086/1729.htm
+- 陈泓婕
+  - http://cs.pku.edu.cn/info/1062/1610.htm
+- 马郓
+  - http://www.ai.pku.edu.cn/info/1138/2064.htm
+- 黄雨
+  - https://faculty.pku.edu.cn/hy/zh_CN/index/40965/list/index.htm
+- 李影
+  - http://faculty.pku.edu.cn/ly/zh_CN/index.htm
+- 罗英伟
+  - http://cs.pku.edu.cn/sse/info/1005/1062.htm
+- 许辰人
+  - http://cs.pku.edu.cn/info/1084/1717.htm
+- 王亚沙
+  - http://scholar.pku.edu.cn/wangyasha
+
+### 数据库与大数据
+- 崔斌
+  - https://cuibinpku.github.io
+  - http://cs.pku.edu.cn/info/1004/1008.htm
+- 张铭
+  - http://net.pku.edu.cn/dlib/mzhang/
+  - http://cs.pku.edu.cn/cse/info/1043/1157.htm
+- 吴垠鋆
+  - https://wuyinjun-1993.github.io/
+- 杨仝
+  - https://yangtonghome.github.io/
+- 陈立军
+  - http://cs.pku.edu.cn/info/1062/1611.htm
+- 高军
+  - http://cs.pku.edu.cn/info/1066/1619.htm
+- 王腾蛟
+  - http://cs.pku.edu.cn/info/1091/1772.htm
+- 陈薇
+  - http://www.ai.pku.edu.cn/info/1217/1498.htm
+- 苟向阳
+  - https://www.wict.pku.edu.cn/gxy/
+- 邹磊
+  - http://scholar.pku.edu.cn/leizou/home
+  - https://www.wict.pku.edu.cn/xstd/xstd_01/1201844icst1222631.htm
+- 李笑难
+  - https://faculty.pku.edu.cn/lixiaonan/zh_CN/jsxx/1273/jsxx/jsxx.htm
+- 樊春
+  - https://group.pku.edu.cn/zwmb1/jsxx.jsp
+- 周昌令
+  - http://scholar.pku.edu.cn/zclfly
+
+### 计算机视觉与多媒体
+- 高文
+  - https://idm.pku.edu.cn/info/1017/1041.htm
+- 黄铁军
+  - https://idm.pku.edu.cn/tjhuang
+  - http://www.ai.pku.edu.cn/info/1139/1243.htm
+- 施柏鑫
+  - https://ci.idm.pku.edu.cn
+  - http://cs.pku.edu.cn/info/1078/1674.htm
+- 马思伟
+  - http://scholar.pku.edu.cn/siweima
+  - https://idm.pku.edu.cn/info/1017/1035.htm
+- 蒋婷婷
+  - http://scholar.pku.edu.cn/ttjiang/home
+  - http://cs.pku.edu.cn/info/1089/1669.htm
+- 张史梁
+  - https://www.pkuvmc.com/
+  - https://idm.pku.edu.cn/info/1017/1029.htm
+- 卢宗青
+  - https://z0ngqing.github.io
+  - http://www.ai.pku.edu.cn/info/1313/1699.htm
+- 杨帅
+  - https://williamyang1991.github.io
+  - http://www.ai.pku.edu.cn/info/1312/2837.htm
+- 仉尚航
+  - https://www.shanghangzhang.com
+  - https://sai.pku.edu.cn/info/1488/2857.htm
+- 田永鸿
+  - https://www.pkuml.org
+- 段凌宇
+  - http://cs.pku.edu.cn/info/1063/1617.htm
+- 贾惠柱
+  - https://idm.pku.edu.cn/info/1017/1045.htm
+- 熊瑞勤
+  - http://cs.pku.edu.cn/info/1084/1715.htm
+- 陈国璋
+  - https://ifgovh.github.io
+- 唐浩
+  - https://ha0tang.github.io/
+- 孙俊
+  - https://deepvideolab.top
+
+### 安全+网络+体系结构
+- 关志
+  - https://guanzhi.github.io/
+- 杨智
+  - https://yangzhihome.github.io/
+- 陈翔
+  - https://if-lab-pku.github.io/
+- 吴文斐
+  - https://wenfei-wu.github.io/
+- 张杰
+  - https://www.chaselab.wiki/
+- 周迪宇
+  - https://zhou-diyu.github.io/
+- 边凯归
+  - http://net.pku.edu.cn/~bkg/
+  - http://cs.pku.edu.cn/info/1091/1637.htm
+- 闫宏飞
+  - http://net.pku.edu.cn/~yhf
+  - http://cs.pku.edu.cn/info/1085/1721.htm
+- 胡建斌
+  - http://cs.pku.edu.cn/info/1067/1627.htm
+- 唐礼勇
+  - http://cs.pku.edu.cn/info/1082/1697.htm
+- 王昭
+  - http://cs.pku.edu.cn/info/1083/1710.htm
+- 程旭
+  - http://cs.pku.edu.cn/info/1062/1607.htm
+- 刘先华
+  - http://cs.pku.edu.cn/cse/info/1043/1156.htm
+- 刘锋
+  - http://cs.pku.edu.cn/info/1071/1688.htm
+- 陆俊林
+  - http://cs.pku.edu.cn/info/1088/1805.htm
+- 佟冬
+  - http://cs.pku.edu.cn/info/1088/1783.htm
+- 易江芳
+  - http://cs.pku.edu.cn/info/1085/1724.htm
+- 余华山
+  - http://cs.pku.edu.cn/info/1085/1725.htm
+
+### AI+NLP+图形
+- 董豪
+  - http://zsdonghao.github.io
+- 王鹤
+  - https://hughw19.github.io
+- 冯岩松
+  - https://sites.google.com/site/ysfeng/research
+  - http://www.ai.pku.edu.cn/info/1314/1721.htm
+- 张牧涵
+  - https://muhanzhang.github.io/
+- 王奕森
+  - https://yisenwang.github.io/
+- 杨耀东
+  - http://www.yangyaodong.com
+- 穗志方
+  - http://cs.pku.edu.cn/info/1078/1672.htm
+- 孙栩
+  - http://cs.pku.edu.cn/info/1078/1673.htm
+- 汪国平
+  - http://www.graphics.pku.edu.cn/members/wgp/index.htm
+  - http://cs.pku.edu.cn/info/1083/1699.htm
+- 陈斌
+  - http://faculty.pku.edu.cn/chenbin/zh_CN/
+  - http://cs.pku.edu.cn/info/1062/3165.htm
+- 常宝宝
+  - http://icl.pku.edu.cn/members/chbb/
+- 李素建
+  - http://www.icl.pku.edu.cn/members/lisujian/default.htm
+- 李文新
+  - http://cs.pku.edu.cn/cse/info/1043/1158.htm
+- 潘亮铭
+  - https://liangmingpan.bio/
+- 王厚峰
+  - http://cs.pku.edu.cn/info/1083/1701.htm
+- 吴云芳
+  - https://eecs.pku.edu.cn/info/1340/6084.htm
+- 余肇飞
+  - https://yuzhaofei.github.io/
+- 孙斌
+  - http://cs.pku.edu.cn/info/1078/1675.htm
+- 刘扬
+  - http://cs.pku.edu.cn/info/1071/1692.htm
+
+## CFCS (前沿计算研究中心)
+- 高文
+  - https://cfcs.pku.edu.cn/people/directors/wengao/index.htm
+- John Hopcroft
+  - https://cfcs.pku.edu.cn/people/directors/johnhopcroft/index.htm
+- 邓小铁
+  - http://cs.pku.edu.cn/info/1063/1616.htm
+- 程宽
+  - https://www.kuancheng88.com
+- 初旭
+  - https://cfcs.pku.edu.cn/people/faculty/xuchu/index.htm
+- 董豪
+  - http://zsdonghao.github.io
+- 黄铁军
+  - https://cfcs.pku.edu.cn/people/faculty/tiejunhuang/
+- 姜少峰
+  - https://shaofengjiang.cn
+- 孔雨晴
+  - https://cfcs.pku.edu.cn/yuqkong/
+- 李彤阳
+  - https://www.tongyangli.com
+- 刘天任
+  - https://liutianren.com
+- 王鹤
+  - https://hughw19.github.io
+- 王若松
+  - https://cfcs.pku.edu.cn/people/faculty/ruosongwang/index.htm
+- 王亦洲
+  - https://cfcs.pku.edu.cn/people/faculty/wangyizhou/
+- 袁骁
+  - http://scholar.pku.edu.cn/xiaoyuan
+- 张海峰
+  - https://pkuzhf.github.io/
+- 陈婧
+  - https://www.cs.stonybrook.edu/people/faculty/JingChen
+- 祝烨
+  - https://experts.deakin.edu.au/41905-ye-zhu/
+
+## AI Institute (人工智能研究院)
+- 朱松纯
+  - https://zhusongchun.net
+  - http://www.ai.pku.edu.cn/info/1173/1554.htm
+- 王立威
+  - http://www.liweiwang-pku.com/
+  - http://www.ai.pku.edu.cn/info/1284/1642.htm
+- 陈宝权
+  - https://baoquanchen.info/
+  - http://www.ai.pku.edu.cn/info/1149/1954.htm
+- 邓志鸿
+  - https://www.ai.pku.edu.cn/info/1150/2921.htm
+- 李文新
+  - https://www.ai.pku.edu.cn/info/1158/1698.htm
+- 林宙辰
+  - https://zhouchenlin.github.io/
+  - http://www.ai.pku.edu.cn/info/1284/1641.htm
+- 卢宗青
+  - https://z0ngqing.github.io
+- 英向华
+  - http://scholar.pku.edu.cn/yingxianghua
+  - http://www.ai.pku.edu.cn/info/1312/1681.htm
+- 谭营
+  - http://www.cil.pku.edu.cn
+  - https://www.ai.pku.edu.cn/info/1284/1646.htm
+- 赵卉菁
+  - http://poss.pku.edu.cn/members/zhaohj/index.htm
+  - http://www.ai.pku.edu.cn/info/1281/2971.htm
+- 孙翊文
+  - https://www.ai.pku.edu.cn/info/1313/2489.htm
+- 贾统
+  - https://www.ai.pku.edu.cn/info/1138/2337.htm
+
+## SAI (智能学院)
+- 朱松纯
+  - https://zhusongchun.net
+- 梁一韬
+  - http://sai.pku.edu.cn/info/1362/2748.htm
+- 张牧涵
+  - https://muhanzhang.github.io/
+- 仉尚航
+  - https://www.shanghangzhang.com
+  - https://sai.pku.edu.cn/info/1488/2857.htm
+- 王鹏帅
+  - https://wang-ps.github.io
+  - https://sai.pku.edu.cn/info/1485/2533.htm
+- 宋国杰
+  - https://sai.pku.edu.cn/info/1481/2838.htm
+- 万小军
+  - https://wanxiaojun.github.io
+  - https://sai.pku.edu.cn/info/1485/2530.htm
+- 查红彬
+  - https://www.cis.pku.edu.cn/info/1362/2247.htm
+- 赵卉菁
+  - https://www.cis.pku.edu.cn/info/1362/2246.htm
+- 陈宝权
+  - http://www.cis.pku.edu.cn/info/1465/2514.htm
+- 王立威
+  - https://www.cis.pku.edu.cn/info/1362/2273.htm
+- 邓志鸿
+  - https://www.cis.pku.edu.cn/szdw/zzjs/dzh.htm
+- 林宙辰
+  - http://www.cis.pku.edu.cn/info/1084/1252.htm
+- 贺笛
+  - https://dihe-pku.github.io/
+- 穆亚东
+  - http://www.muyadong.com
+- 刘洋
+  - http://www.csyangliu.com
+- 彭宇新
+  - http://www.wict.pku.edu.cn/mipl/pengyuxin
+- 袁晓如
+  - http://vis.pku.edu.cn/wiki/
+- 封举富 — pending_url
+- 吴玺宏 — pending_url
+- 许超 — pending_url
+- 童云海 — pending_url
+- 方聪 — pending_url
+- 朱毅鑫
+  - https://yzhu.io
+
+## Wangxuan Institute (王选计算机研究所)
+- 陈文拯
+  - https://wenzhengchen.github.io
+  - https://www.wict.pku.edu.cn/xstd/xstd_01/1201844icst1222604.htm
+- 贾川民
+  - http://www.jiachuanmin.site/
+  - https://www.wict.pku.edu.cn/xstd/xstd_01/1201844icst1360148.htm
+- 刘洋
+  - http://www.csyangliu.com/
+  - https://www.wict.pku.edu.cn/xstd/xstd_01/1201844icst1339307.htm
+- 穆亚东
+  - http://www.muyadong.com
+  - https://www.wict.pku.edu.cn/xstd/xstd_01/1201844icst1222613.htm
+- 王鹏帅
+  - https://wang-ps.github.io
+  - https://www.wict.pku.edu.cn/xstd/xstd_01/1201844icst1359542.htm
+- 万小军
+  - https://wanxiaojun.github.io
+  - https://www.wict.pku.edu.cn/xstd/xstd_01/1201844icst1222625.htm
+- 杨帅
+  - https://williamyang1991.github.io
+  - https://www.wict.pku.edu.cn/xstd/xstd_01/1201844icst1222630.htm
+- 周嘉欢
+  - https://zhoujiahuan1991.github.io
+  - https://www.wict.pku.edu.cn/xstd/xstd_01/1201844icst1354287.htm
+- 张辉帅
+  - https://huishuai-git.github.io
+  - https://www.wict.pku.edu.cn/xstd/xstd_01/1201844icst1312732.htm
+- 邹磊
+  - http://scholar.pku.edu.cn/leizou/home
+  - https://www.wict.pku.edu.cn/xstd/xstd_01/1201844icst1222631.htm
+- 连宙辉
+  - https://www.wict.pku.edu.cn/zlian/
+- 胡玮
+  - https://www.wict.pku.edu.cn/huwei/
+- 苟向阳
+  - https://www.wict.pku.edu.cn/gxy/
+- 张行功
+  - https://www.wict.pku.edu.cn/xinggong/
+- 赵东岩
+  - https://www.icst.pku.edu.cn/zhaodongyan/
+- 彭宇新
+  - http://www.wict.pku.edu.cn/mipl/pengyuxin
+- 孙俊
+  - https://deepvideolab.top
+  - https://www.wict.pku.edu.cn/xstd/xstd_01/1201844icst1222629.htm
+- 陈峰
+  - https://www.wict.pku.edu.cn/xstd/xstd_01/1201844icst1222602.htm
+- 冯岩松
+  - https://www.wict.pku.edu.cn/xstd/xstd_01/1201844icst1222615.htm
+- 高良才
+  - https://www.wict.pku.edu.cn/xstd/xstd_01/1201844icst1222616.htm
+- 郭宗明
+  - https://www.wict.pku.edu.cn/xstd/xstd_01/1201844icst1222623.htm
+- 韩心慧
+  - https://www.wict.pku.edu.cn/xstd/xstd_01/1201844icst1222603.htm
+- 刘家瑛
+  - http://scholar.pku.edu.cn/jiayingliu/home
+  - https://www.wict.pku.edu.cn/xstd/xstd_01/1201844icst1222618.htm
+- 刘志红
+  - https://www.wict.pku.edu.cn/xstd/xstd_01/1201844icst1222619.htm
+- 吕肖庆
+  - https://www.wict.pku.edu.cn/xstd/xstd_01/1201844icst1222609.htm
+- 亓文法
+  - https://www.wict.pku.edu.cn/xstd/xstd_01/1201844icst1354299.htm
+- 汤帜
+  - https://www.wict.pku.edu.cn/xstd/xstd_01/1201844icst1222624.htm
+- 王勇涛
+  - https://www.wict.pku.edu.cn/xstd/xstd_01/1201844icst1222610.htm
+- 周伯文
+  - https://www.wict.pku.edu.cn/xstd/xstd_01/1201844icst1354303.htm
+- 王剑 — pending_url
+
+## ECE Shenzhen (信息工程学院 深圳)
+- 张健
+  - https://jianzhang.tech/
+  - https://www.ece.pku.edu.cn/info/1046/2506.htm
+- 邹月娴
+  - https://web.pkusz.edu.cn/adsp/
+  - https://www.ece.pku.edu.cn/info/1076/2237.htm
+- 田永鸿
+  - https://www.pkuml.org
+  - https://www.ece.pku.edu.cn/info/1046/2476.htm
+- 刘宏
+  - http://robotics.pkusz.edu.cn
+  - https://www.ece.pku.edu.cn/info/1046/2460.htm
+- 朱跃生
+  - https://www.ece.pku.edu.cn/info/1046/2142.htm
+- 王荣刚
+  - https://www.ece.pku.edu.cn/info/1046/2147.htm
+- 袁粒
+  - https://www.ece.pku.edu.cn/info/1046/2678.htm
+- 钟方成
+  - https://www.ece.pku.edu.cn/info/1046/3143.htm
+- 周大权
+  - https://www.ece.pku.edu.cn/info/1046/2944.htm
+- 李革
+  - https://www.ece.pku.edu.cn/info/1046/2658.htm
+- 李挥
+  - https://www.ece.pku.edu.cn/info/1046/2745.htm
+- 刘梦源
+  - https://www.ece.pku.edu.cn/info/1046/2596.htm
+- 罗桂波
+  - https://www.ece.pku.edu.cn/info/1046/2566.htm
+- 彭佩玺
+  - https://www.ece.pku.edu.cn/info/1046/2801.htm
+
+## Newly Added (previously missing, now found via reverse search)
+- 边凯归
+  - http://net.pku.edu.cn/~bkg/
+- 孙广宇
+  - https://ic.pku.edu.cn/szdw/zzjs/sjzdhyjsxtx1/sgy/index.htm
+- 沈林晓
+  - http://scholar.pku.edu.cn/linxiaoshen
+
+## Other
+- 宋令阳
+  - http://ele.pku.edu.cn/info/1042/1174.htm
+- 尚勇
+  - http://ele.pku.edu.cn/info/1042/1170.htm
+- 林通
+  - http://www.ist.pku.edu.cn/szdw/zzjs/lt.htm
+- 朱毅鑫
+  - https://yzhu.io
+- 王亦洲
+  - https://cfcs.pku.edu.cn/people/faculty/wangyizhou/
+
+## SAI (智能学院) — Newly completed
+- 封举富
+  - https://www.sai.pku.edu.cn/info/1362/2240.htm
+- 吴玺宏
+  - https://cis.pku.edu.cn/info/1022/2215.htm
+- 许超
+  - https://sai.pku.edu.cn/info/1362/2251.htm
+- 童云海
+  - https://www.ist.pku.edu.cn/info/1362/2252.htm
+- 方聪
+  - https://cis.pku.edu.cn/info/1362/2708.htm
+- 袁晓如
+  - https://www.cis.pku.edu.cn/info/1487/2535.htm
+- 张岩
+  - https://www.ist.pku.edu.cn/szdw/zzjs/zy.htm
+- 李红燕
+  - https://www.cis.pku.edu.cn/info/1474/2520.htm
+- 罗定生
+  - https://www.cis.pku.edu.cn/info/1474/2837.htm
+- 曲天书
+  - https://www.cis.pku.edu.cn/info/1479/2528.htm
+- 陈婧
+  - https://www.cis.pku.edu.cn/info/1084/1707.htm
+- 裴玉茹
+  - https://www.cis.pku.edu.cn/info/1478/2526.htm
+- 刘利斌
+  - https://www.cis.pku.edu.cn/info/1474/2523.htm
+- 楚梦渝
+  - https://sai.pku.edu.cn/info/1465/2515.htm
+- 张驰
+  - http://www.ist.pku.edu.cn/info/1362/9415.htm
+- 陈婧
+  - https://sai.pku.edu.cn/info/1465/2509.htm
+- 刘航欣
+  - https://cis.pku.edu.cn/info/1362/9405.htm
+- 崔锦实
+  - http://cis.pku.edu.cn/info/1362/2261.htm
+- 曾钢
+  - http://www.ai.pku.edu.cn/info/1312/1682.htm
+- 马修军
+  - https://sai.pku.edu.cn/znxyenglish/info/1457/2565.htm
+
+## PKU 网络安全 (信息安全实验室 + 软微 + 网安研究院)
+- 陈钟
+  - https://cs.pku.edu.cn/sse/info/1005/1057.htm
+- 文伟平
+  - https://bda.pku.edu.cn/info/1161/1985.htm
+- 孙惠平
+  - https://huipingsun.github.io
+- 李青山
+  - https://oasisli.github.io/qingshanli/
+- 沈晴霓
+  - http://scholar.pku.edu.cn/pkuss-shenqn/
+- 朱跃生
+  - https://www.ece.pku.edu.cn/info/1046/2142.htm
+- 徐茂智
+  - https://baike.baidu.com/item/%E5%BE%90%E8%8C%82%E6%99%BA
+
+## SSPKU (软件与微电子学院)
+- 赵占波
+  - https://ss.pku.edu.cn/sztd/gcglsssz/e400d249c5894d87b6ed2849b1d9c8ef.htm
+- 刘宏志
+  - http://scholar.pku.edu.cn/liuhz
+- 高志军
+  - https://gaozhijun.me/
+- 俞敬松
+  - http://cmss.pku.edu.cn/info/1012/1434.htm
+
+## IC School (集成电路学院) — CS-relevant (EDA/AI芯片/体系结构)
+- 叶乐
+  - https://ic.pku.edu.cn/szdw/zzjs/Y1/yl/index.htm
+- 杨玉超
+  - https://ic.pku.edu.cn/szdw/zzjs/Y1/yyc/index.htm
+- 王源
+  - https://ic.pku.edu.cn/szdw/zzjs/W1/wy/index.htm
+- 王宗巍
+  - https://ic.pku.edu.cn/szdw/zzjs/W1/wzw/index.htm
+- 沈林晓
+  - http://scholar.pku.edu.cn/linxiaoshen
+
+## 电子学院 — CS-intersecting (信号处理/机器视觉)
+- 程翔
+  - https://ele.pku.edu.cn/info/1023/1063.htm
+
+## 工学院 — AI/机器人方向
+- 王启宁
+  - https://makers.pku.edu.cn/jzyg/szdw/W/2f3aa646c29a417aae8934458413a8c2.htm
+- 刘畅
+  - https://www.ai.pku.edu.cn/info/1158/2964.htm
+- 喻俊志 — pending_url
+- 李忠奎
+  - https://www.zhongkuili-pku.com/cn/

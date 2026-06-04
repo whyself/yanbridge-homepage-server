@@ -1,0 +1,92 @@
+# University of Science and Technology of China Clean CS Lab and Research Group URL List
+
+- ACSA Lab
+  - http://acsa.ustc.edu.cn/
+- ACSA Lab Join Us
+  - https://acsa.ustc.edu.cn/joinus
+- AIoT Lab (Nikolaos Freris)
+  - http://staff.ustc.edu.cn/~nfr/
+- CIG (计算智能与地球科学)
+  - http://cig.ustc.edu.cn/
+- IMCC Lab
+  - http://imcc.ustc.edu.cn/
+- IP Lab (Intelligent Perception)
+  - https://ustc-ip-lab.github.io/
+- IVC Lab (智能视觉编码)
+  - https://ustcivclab.github.io/
+- KDELAB@USTC
+  - http://kdelab.ustc.edu.cn/
+- MIRA Lab
+  - https://miralab.ai/
+- NIC Lab (网络化智能控制实验室)
+  - https://niclab.ac.cn
+- Qi Chu (VIS Group)
+  - http://staff.ustc.edu.cn/~qchu/
+- S4Plus (系统软件与软件安全)
+  - http://s4plus.ustc.edu.cn/
+- SCAI Lab (Suzhou)
+  - http://scai.sz.ustc.edu.cn/
+- SCAI Lab 招生招聘
+  - https://scai.sz.ustc.edu.cn/34586/list.htm
+- SPRAT Lab (Jun Du)
+  - http://staff.ustc.edu.cn/~jundu/index.html
+- USTC-AC (Affective Computing) Group
+  - https://ustc-ac.github.io/
+- USTC-AGI 研究组
+  - https://ustcagi.github.io/
+- VIDAR @ USTC
+  - https://vidar-ustc.github.io/
+- VLSI Architecture & CAD Lab
+  - http://staff.ustc.edu.cn/~songch/lab_hp.htm
+- Xuehai Zhou (ESLab)
+  - http://staff.ustc.edu.cn/~xhzhou/index.html
+- Zhu Zongwei Homepage
+  - https://faculty.ustc.edu.cn/zhuzongwei/zh_CN/index.htm
+- 下一代移动计算与数据创新实验室
+  - https://cs.ustc.edu.cn/2020/0922/c22640a450339/page.htm
+- 中国科学院无线光电通信重点实验室
+  - http://woc-lab.ustc.edu.cn/
+- 中科大机器人实验室
+  - https://cs.ustc.edu.cn/_redirect?siteId=56&columnId=22640&articleId=451156
+- 先进数据系统实验室
+  - https://cs.ustc.edu.cn/2020/0922/c22640a450346/page.htm
+- 大数据处理与机器学习实验室
+  - https://cs.ustc.edu.cn/2020/0922/c22640a450369/page.htm
+- 数据智能实验室
+  - http://di.ustc.edu.cn/
+- 智能安全形式化实验室
+  - https://cs.ustc.edu.cn/2020/0922/c22640a450348/page.htm
+- 未来网络实验室 (LFN)
+  - https://lfn.ustc.edu.cn/
+- 朱宗卫 招生信息
+  - https://faculty.ustc.edu.cn/zhuzongwei/zh_CN/zsxx/501213/list/index.htm
+- 知识与数据工程实验室 (KDELAB)
+  - https://cs.ustc.edu.cn/2020/0922/c22640a450363/page.htm
+- 算法与数据应用研究组
+  - https://cs.ustc.edu.cn/2020/0922/c22640a450365/page.htm
+  - http://ada.ustc.edu.cn/
+- 算法与数据应用研究组 加入研究组
+  - https://ada.ustc.edu.cn/syszs/list.htm
+- 类脑智能技术及应用国家工程实验室
+  - http://leinao.ustc.edu.cn/
+- 精准智能化学全国重点实验室
+  - https://pichem.ustc.edu.cn/
+- 精密普适实验室
+  - https://cs.ustc.edu.cn/2020/0922/c22640a450366/page.htm
+- 网络与系统安全实验室
+  - https://cs.ustc.edu.cn/2020/0922/c22640a450367/page.htm
+  - http://cybersecurity.ustc.edu.cn/
+- 视觉计算与可视化实验室
+  - https://cs.ustc.edu.cn/2020/0922/c22640a450368/page.htm
+- 视觉计算与可视化实验室 (董兰芳)
+  - http://staff.ustc.edu.cn/~lfdong/
+- 计算与通讯软件安徽省重点实验室
+  - http://cs.ustc.edu.cn/2020/0905/c22639a448577/page.htm
+- 认知智能全国重点实验室
+  - https://cogskl.iflytek.com/
+- 语音及语言信息处理国家工程研究中心
+  - http://nercslip.ustc.edu.cn/
+- 语音及语言信息处理国家工程研究中心 招生培养
+  - http://nercslip.ustc.edu.cn/26925/list.htm
+- 高能效智能计算实验室
+  - https://cs.ustc.edu.cn/2020/0922/c22640a450362/page.htm

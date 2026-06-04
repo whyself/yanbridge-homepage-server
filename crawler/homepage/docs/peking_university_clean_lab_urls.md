@@ -1,0 +1,103 @@
+# Peking University (北京大学) — Clean Lab/Group URLs
+
+## Research Institutes & Centers
+- 计算与交叉科学中心
+  - https://cs.pku.edu.cn/info/1025/2712.htm
+- 人工智能创新中心
+  - http://aiic.pku.edu.cn/
+- 高可信软件技术教育部重点实验室 (HCST)
+  - https://hcst.pku.edu.cn
+- 视频与视觉技术国家工程研究中心 (IDM)
+  - https://idm.pku.edu.cn
+- 大数据分析与应用技术国家工程实验室 (BDA)
+  - https://bda.pku.edu.cn
+- 数据科学与工程研究所 (DSE)
+  - https://dse.pku.edu.cn
+- 前沿计算研究中心 (CFCS)
+  - https://cfcs.pku.edu.cn
+- 国际机器学习研究中心 (CMLR)
+  - https://cmlr.pku.edu.cn
+- 大数据科学研究中心
+  - https://www.ds.pku.edu.cn
+- 前沿交叉学科研究院 (AAIS)
+  - https://www.aais.pku.edu.cn
+- Software Engineering Institute (SEI)
+  - https://www.sei.pku.edu.cn
+
+## Individual Research Labs (confirmed, active)
+- PKU-EPIC Lab (王鹤, 董豪)
+  - https://pku-epic.github.io/
+- MuLab (张牧涵)
+  - http://mulabpku.com/
+- DeepVideoLab (孙俊)
+  - https://deepvideolab.top/
+- PKUML (田永鸿)
+  - https://www.pkuml.org
+- VILLA Lab (张健)
+  - https://villa.jianzhang.tech/
+- WIP Lab (赵东岩)
+  - http://wip.wict.pku.edu.cn/
+- Camera Intelligence Lab (施柏鑫)
+  - https://camera.pku.edu.cn
+- ACIR Lab (王韬)
+  - https://acir.pku.edu.cn
+- Graphics & Interaction Lab (汪国平)
+  - https://www.graphics.pku.edu.cn
+- ICS Lab
+  - https://ics.pku.edu.cn
+- InfoSec Lab
+  - https://infosec.pku.edu.cn
+- Network Lab (闫宏飞)
+  - http://net.pku.edu.cn
+- DAIR (崔斌)
+  - https://cs.pku.edu.cn/info/1055/3022.htm
+- ADSP Lab (邹月娴, 深圳)
+  - https://web.pkusz.edu.cn/adsp/
+- Robotics Lab PKU Shenzhen (刘宏)
+  - http://robotics.pkusz.edu.cn
+- VCL Lab (陈宝权)
+  - http://vcl.pku.edu.cn
+- CoRe Lab (朱毅鑫)
+  - https://pku.ai
+- IF Lab (陈翔)
+  - https://if-lab-pku.github.io/
+- CECA
+  - https://ceca.pku.edu.cn
+- PL Lab
+  - https://pl.cs.pku.edu.cn/
+- PKU-VMC (张史梁)
+  - https://www.pkuvmc.com/
+- PKU-VLSI Lab
+  - http://www.pku-vlsi.com
+- Blockchain Research Center
+  - https://brc.pku.edu.cn
+- CIL Lab (谭营)
+  - http://www.cil.pku.edu.cn
+- POSS Lab (赵卉菁)
+  - http://poss.pku.edu.cn
+- OSS Lab (周明辉)
+  - https://pkuos.systems
+- PCNI Lab (程翔)
+  - http://pcni.pku.edu.cn
+- PKU IC School
+  - https://ic.pku.edu.cn
+- PKU 电子学院
+  - https://ele.pku.edu.cn
+- 北京大学工学院先进制造与机器人系
+  - https://makers.pku.edu.cn
+- 北京大学网络空间安全学院
+  - https://cybersecurity.pku.edu.cn
+
+## Cross-Institute/Affiliated Schools
+- 北京大学人工智能研究院
+  - https://www.ai.pku.edu.cn
+- 北京大学智能学院 (SAI)
+  - https://sai.pku.edu.cn
+- 北京大学王选计算机研究所
+  - https://www.wict.pku.edu.cn
+- 北京大学软件与微电子学院
+  - https://www.ss.pku.edu.cn
+- 北京大学集成电路学院
+  - https://ic.pku.edu.cn
+- 北京大学信息工程学院 (深圳)
+  - https://www.ece.pku.edu.cn

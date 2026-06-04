@@ -1,0 +1,4 @@
+interface:
+  display_name: "Academic CS URL Pool"
+  short_description: "Build broad CS faculty and lab URL pools."
+  default_prompt: "Build clean broad-CS faculty homepage and research group/lab homepage URL pools for the requested university. Start with broad keyword discovery and confirmed root URLs, then expand roots and use subagent batches to verify final candidate pages."

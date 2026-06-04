@@ -1,0 +1,697 @@
+{"id": "thu_faculty_冯建华_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "冯建华", "url": "https://www.cs.tsinghua.edu.cn/info/1111/3490.htm", "status": "active"}
+{"id": "thu_faculty_冯铃_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "冯铃", "url": "https://www.cs.tsinghua.edu.cn/info/1111/3489.htm", "status": "active"}
+{"id": "thu_faculty_李国良_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "李国良", "url": "https://www.cs.tsinghua.edu.cn/info/1111/3488.htm", "status": "active"}
+{"id": "thu_faculty_李国良_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "李国良", "url": "http://dbgroup.cs.tsinghua.edu.cn/ligl/", "status": "active"}
+{"id": "thu_faculty_李涓子_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "李涓子", "url": "https://www.cs.tsinghua.edu.cn/info/1111/3487.htm", "status": "active"}
+{"id": "thu_faculty_李涓子_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "李涓子", "url": "http://keg.cs.tsinghua.edu.cn/persons/ljz/", "status": "active"}
+{"id": "thu_faculty_唐杰_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "唐杰", "url": "https://www.cs.tsinghua.edu.cn/info/1111/3486.htm", "status": "active"}
+{"id": "thu_faculty_唐杰_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "唐杰", "url": "https://keg.cs.tsinghua.edu.cn/jietang/", "status": "active"}
+{"id": "thu_faculty_王建勇_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "王建勇", "url": "https://www.cs.tsinghua.edu.cn/info/1111/3485.htm", "status": "active"}
+{"id": "thu_faculty_王建勇_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "王建勇", "url": "http://dbgroup.cs.tsinghua.edu.cn/wangjy/", "status": "active"}
+{"id": "thu_faculty_许斌_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "许斌", "url": "https://www.cs.tsinghua.edu.cn/info/1111/5271.htm", "status": "active"}
+{"id": "thu_faculty_许斌_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "许斌", "url": "http://keg.cs.tsinghua.edu.cn/persons/xubin/", "status": "active"}
+{"id": "thu_faculty_喻文健_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "喻文健", "url": "https://www.cs.tsinghua.edu.cn/info/1111/4776.htm", "status": "active"}
+{"id": "thu_faculty_喻文健_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "喻文健", "url": "http://numbda.cs.tsinghua.edu.cn/", "status": "active"}
+{"id": "thu_faculty_周强_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "周强", "url": "https://www.cs.tsinghua.edu.cn/info/1111/2004.htm", "status": "active"}
+{"id": "thu_faculty_陈渝_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "陈渝", "url": "https://www.cs.tsinghua.edu.cn/info/1112/3500.htm", "status": "active"}
+{"id": "thu_faculty_陈渝_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "陈渝", "url": "http://soft.cs.tsinghua.edu.cn/~chen/", "status": "active"}
+{"id": "thu_faculty_东昱晓_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "东昱晓", "url": "https://www.cs.tsinghua.edu.cn/info/1112/5837.htm", "status": "active"}
+{"id": "thu_faculty_东昱晓_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "东昱晓", "url": "https://keg.cs.tsinghua.edu.cn/yuxiao/", "status": "active"}
+{"id": "thu_faculty_侯磊_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "侯磊", "url": "https://www.cs.tsinghua.edu.cn/info/1112/7030.htm", "status": "active"}
+{"id": "thu_faculty_王健楠_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "王健楠", "url": "https://www.cs.tsinghua.edu.cn/info/1112/6905.htm", "status": "active"}
+{"id": "thu_faculty_王健楠_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "王健楠", "url": "http://dbgroup.cs.tsinghua.edu.cn/jnwang/", "status": "active"}
+{"id": "thu_faculty_戴桂兰_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "戴桂兰", "url": "https://www.cs.tsinghua.edu.cn/info/1113/5098.htm", "status": "active"}
+{"id": "thu_faculty_潘捷_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "潘捷", "url": "https://www.cs.tsinghua.edu.cn/info/1113/6640.htm", "status": "active"}
+{"id": "thu_faculty_孙佶_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "孙佶", "url": "https://www.cs.tsinghua.edu.cn/info/1113/7061.htm", "status": "active"}
+{"id": "thu_faculty_陈婧_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "陈婧", "url": "https://www.cs.tsinghua.edu.cn/info/1107/5688.htm", "status": "active"}
+{"id": "thu_faculty_陈康_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "陈康", "url": "https://www.cs.tsinghua.edu.cn/info/1107/3939.htm", "status": "active"}
+{"id": "thu_faculty_陈文光_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "陈文光", "url": "https://www.cs.tsinghua.edu.cn/info/1107/3513.htm", "status": "active"}
+{"id": "thu_faculty_李兆麟_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "李兆麟", "url": "https://www.cs.tsinghua.edu.cn/info/1107/3511.htm", "status": "active"}
+{"id": "thu_faculty_钱学海_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "钱学海", "url": "https://www.cs.tsinghua.edu.cn/info/1107/6209.htm", "status": "active"}
+{"id": "thu_faculty_钱学海_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "钱学海", "url": "https://alchem.cs.tsinghua.edu.cn", "status": "active"}
+{"id": "thu_faculty_舒继武_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "舒继武", "url": "https://www.cs.tsinghua.edu.cn/info/1107/3510.htm", "status": "active"}
+{"id": "thu_faculty_舒继武_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "舒继武", "url": "http://storage.cs.tsinghua.edu.cn/~jiwu-shu/", "status": "active"}
+{"id": "thu_faculty_汪东升_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "汪东升", "url": "https://www.cs.tsinghua.edu.cn/info/1107/3509.htm", "status": "active"}
+{"id": "thu_faculty_武永卫_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "武永卫", "url": "https://www.cs.tsinghua.edu.cn/info/1107/3508.htm", "status": "active"}
+{"id": "thu_faculty_武永卫_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "武永卫", "url": "http://madsys.cs.tsinghua.edu.cn/~yongweiwu/", "status": "active"}
+{"id": "thu_faculty_薛巍_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "薛巍", "url": "https://www.cs.tsinghua.edu.cn/info/1107/5272.htm", "status": "active"}
+{"id": "thu_faculty_薛巍_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "薛巍", "url": "https://hpc.cs.tsinghua.edu.cn/info/1537/2709.htm", "status": "active"}
+{"id": "thu_faculty_杨广文_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "杨广文", "url": "https://www.cs.tsinghua.edu.cn/info/1107/3507.htm", "status": "active"}
+{"id": "thu_faculty_翟季冬_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "翟季冬", "url": "https://www.cs.tsinghua.edu.cn/info/1107/5621.htm", "status": "active"}
+{"id": "thu_faculty_翟季冬_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "翟季冬", "url": "http://pacman.cs.tsinghua.edu.cn/~zjd/", "status": "active"}
+{"id": "thu_faculty_张悠慧_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "张悠慧", "url": "https://www.cs.tsinghua.edu.cn/info/1107/3506.htm", "status": "active"}
+{"id": "thu_faculty_张悠慧_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "张悠慧", "url": "https://craft.cs.tsinghua.edu.cn/", "status": "active"}
+{"id": "thu_faculty_郑纬民_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "郑纬民", "url": "https://www.cs.tsinghua.edu.cn/info/1107/3505.htm", "status": "active"}
+{"id": "thu_faculty_黄震春_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "黄震春", "url": "https://www.cs.tsinghua.edu.cn/info/1108/3520.htm", "status": "active"}
+{"id": "thu_faculty_姜进磊_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "姜进磊", "url": "https://www.cs.tsinghua.edu.cn/info/1108/3519.htm", "status": "active"}
+{"id": "thu_faculty_姜进磊_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "姜进磊", "url": "http://madsys.cs.tsinghua.edu.cn/~jinleijiang/", "status": "active"}
+{"id": "thu_faculty_鞠大鹏_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "鞠大鹏", "url": "https://www.cs.tsinghua.edu.cn/info/1108/3942.htm", "status": "active"}
+{"id": "thu_faculty_陆游游_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "陆游游", "url": "https://www.cs.tsinghua.edu.cn/info/1108/3941.htm", "status": "active"}
+{"id": "thu_faculty_陆游游_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "陆游游", "url": "http://storage.cs.tsinghua.edu.cn/~lu", "status": "active"}
+{"id": "thu_faculty_渠鹏_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "渠鹏", "url": "https://www.cs.tsinghua.edu.cn/info/1108/7062.htm", "status": "active"}
+{"id": "thu_faculty_余宏亮_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "余宏亮", "url": "https://www.cs.tsinghua.edu.cn/info/1108/3517.htm", "status": "active"}
+{"id": "thu_faculty_张广艳_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "张广艳", "url": "https://www.cs.tsinghua.edu.cn/info/1108/3515.htm", "status": "active"}
+{"id": "thu_faculty_章明星_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "章明星", "url": "https://www.cs.tsinghua.edu.cn/info/1108/7056.htm", "status": "active"}
+{"id": "thu_faculty_章明星_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "章明星", "url": "http://madsys.cs.tsinghua.edu.cn/~zhangmx/", "status": "active"}
+{"id": "thu_faculty_赵颖_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "赵颖", "url": "https://www.cs.tsinghua.edu.cn/info/1108/3514.htm", "status": "active"}
+{"id": "thu_faculty_韩旭_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "韩旭", "url": "https://www.cs.tsinghua.edu.cn/info/1114/6422.htm", "status": "active"}
+{"id": "thu_faculty_韩旭_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "韩旭", "url": "https://thucsthanxu13.github.io/", "status": "active"}
+{"id": "thu_faculty_金煜阳_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "金煜阳", "url": "https://www.cs.tsinghua.edu.cn/info/1114/6843.htm", "status": "active"}
+{"id": "thu_faculty_金煜阳_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "金煜阳", "url": "https://yuyangjin.github.io/", "status": "active"}
+{"id": "thu_faculty_赵文来_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "赵文来", "url": "https://www.cs.tsinghua.edu.cn/info/1114/3943.htm", "status": "active"}
+{"id": "thu_faculty_闪英迪_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "闪英迪", "url": "https://www.cs.tsinghua.edu.cn/info/1257/6372.htm", "status": "active"}
+{"id": "thu_faculty_闪英迪_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "闪英迪", "url": "https://madsys.cs.tsinghua.edu.cn/~yingdi-shan/", "status": "active"}
+{"id": "thu_faculty_王豪杰_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "王豪杰", "url": "https://www.cs.tsinghua.edu.cn/info/1257/5770.htm", "status": "active"}
+{"id": "thu_faculty_陈宁_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "陈宁", "url": "https://www.cs.tsinghua.edu.cn/info/1109/3944.htm", "status": "active"}
+{"id": "thu_faculty_林皎_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "林皎", "url": "https://www.cs.tsinghua.edu.cn/info/1109/3528.htm", "status": "active"}
+{"id": "thu_faculty_张武生_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "张武生", "url": "https://www.cs.tsinghua.edu.cn/info/1109/3526.htm", "status": "active"}
+{"id": "thu_faculty_艾海舟_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "艾海舟", "url": "https://www.cs.tsinghua.edu.cn/info/1116/3537.htm", "status": "active"}
+{"id": "thu_faculty_胡事民_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "胡事民", "url": "https://www.cs.tsinghua.edu.cn/info/1116/3536.htm", "status": "active"}
+{"id": "thu_faculty_胡事民_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "胡事民", "url": "http://cg.cs.tsinghua.edu.cn/shimin.htm", "status": "active"}
+{"id": "thu_faculty_贾珈_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "贾珈", "url": "https://www.cs.tsinghua.edu.cn/info/1116/4777.htm", "status": "active"}
+{"id": "thu_faculty_刘永进_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "刘永进", "url": "https://www.cs.tsinghua.edu.cn/info/1116/3535.htm", "status": "active"}
+{"id": "thu_faculty_刘永进_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "刘永进", "url": "http://cg.cs.tsinghua.edu.cn/people/~Yongjin/Yongjin.htm", "status": "active"}
+{"id": "thu_faculty_史元春_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "史元春", "url": "https://www.cs.tsinghua.edu.cn/info/1116/3534.htm", "status": "active"}
+{"id": "thu_faculty_孙立峰_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "孙立峰", "url": "https://www.cs.tsinghua.edu.cn/info/1116/3533.htm", "status": "active"}
+{"id": "thu_faculty_兴军亮_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "兴军亮", "url": "https://www.cs.tsinghua.edu.cn/info/1116/5088.htm", "status": "active"}
+{"id": "thu_faculty_张松海_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "张松海", "url": "https://www.cs.tsinghua.edu.cn/info/1116/7039.htm", "status": "active"}
+{"id": "thu_faculty_周悦芝_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "周悦芝", "url": "https://www.cs.tsinghua.edu.cn/info/1116/3530.htm", "status": "active"}
+{"id": "thu_faculty_朱文武_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "朱文武", "url": "https://www.cs.tsinghua.edu.cn/info/1116/3529.htm", "status": "active"}
+{"id": "thu_faculty_崔鹏_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "崔鹏", "url": "https://www.cs.tsinghua.edu.cn/info/1117/3545.htm", "status": "active"}
+{"id": "thu_faculty_崔鹏_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "崔鹏", "url": "https://pengcui.thumedialab.com/", "status": "active"}
+{"id": "thu_faculty_穆太江_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "穆太江", "url": "https://www.cs.tsinghua.edu.cn/info/1117/6628.htm", "status": "active"}
+{"id": "thu_faculty_任炬_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "任炬", "url": "https://www.cs.tsinghua.edu.cn/info/1117/4596.htm", "status": "active"}
+{"id": "thu_faculty_任炬_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "任炬", "url": "https://juren1987.github.io", "status": "active"}
+{"id": "thu_faculty_陶品_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "陶品", "url": "https://www.cs.tsinghua.edu.cn/info/1117/3542.htm", "status": "active"}
+{"id": "thu_faculty_王鑫_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "王鑫", "url": "https://www.cs.tsinghua.edu.cn/info/1117/5849.htm", "status": "active"}
+{"id": "thu_faculty_王鑫_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "王鑫", "url": "http://mn.cs.tsinghua.edu.cn/xinwang/", "status": "active"}
+{"id": "thu_faculty_王运涛_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "王运涛", "url": "https://www.cs.tsinghua.edu.cn/info/1117/5273.htm", "status": "active"}
+{"id": "thu_faculty_徐昆_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "徐昆", "url": "https://www.cs.tsinghua.edu.cn/info/1117/3540.htm", "status": "active"}
+{"id": "thu_faculty_徐昆_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "徐昆", "url": "http://cg.cs.tsinghua.edu.cn/people/~kun/", "status": "active"}
+{"id": "thu_faculty_喻纯_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "喻纯", "url": "https://www.cs.tsinghua.edu.cn/info/1117/3539.htm", "status": "active"}
+{"id": "thu_faculty_喻纯_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "喻纯", "url": "http://pi.cs.tsinghua.edu.cn/lab/people/ChunYu/", "status": "active"}
+{"id": "thu_faculty_孟媛_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "孟媛", "url": "https://www.cs.tsinghua.edu.cn/info/1118/5694.htm", "status": "active"}
+{"id": "thu_faculty_徐群策_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "徐群策", "url": "https://www.cs.tsinghua.edu.cn/info/1118/6617.htm", "status": "active"}
+{"id": "thu_faculty_石伟男_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "石伟男", "url": "https://www.cs.tsinghua.edu.cn/info/1258/5771.htm", "status": "active"}
+{"id": "thu_faculty_石伟男_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "石伟男", "url": "https://shiweinan.com/", "status": "active"}
+{"id": "thu_faculty_吴玥悦_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "吴玥悦", "url": "https://www.cs.tsinghua.edu.cn/info/1258/5772.htm", "status": "active"}
+{"id": "thu_faculty_吴玥悦_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "吴玥悦", "url": "http://www.thuir.cn/members/0_prof_5_wuyueyue.html", "status": "active"}
+{"id": "thu_faculty_杨烁今_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "杨烁今", "url": "https://www.cs.tsinghua.edu.cn/info/1258/7050.htm", "status": "active"}
+{"id": "thu_faculty_陈挺_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "陈挺", "url": "https://www.cs.tsinghua.edu.cn/info/1121/3560.htm", "status": "active"}
+{"id": "thu_faculty_陈挺_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "陈挺", "url": "http://timlab.cn", "status": "active"}
+{"id": "thu_faculty_邓志东_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "邓志东", "url": "https://www.cs.tsinghua.edu.cn/info/1121/3558.htm", "status": "active"}
+{"id": "thu_faculty_冯元_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "冯元", "url": "https://www.cs.tsinghua.edu.cn/info/1121/6034.htm", "status": "active"}
+{"id": "thu_faculty_黄民烈_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "黄民烈", "url": "https://www.cs.tsinghua.edu.cn/info/1121/5620.htm", "status": "active"}
+{"id": "thu_faculty_黄民烈_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "黄民烈", "url": "http://coai.cs.tsinghua.edu.cn/hml", "status": "active"}
+{"id": "thu_faculty_季铮锋_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "季铮锋", "url": "https://www.cs.tsinghua.edu.cn/info/1121/4990.htm", "status": "active"}
+{"id": "thu_faculty_刘华平_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "刘华平", "url": "https://www.cs.tsinghua.edu.cn/info/1121/5096.htm", "status": "active"}
+{"id": "thu_faculty_刘洋_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "刘洋", "url": "https://www.cs.tsinghua.edu.cn/info/1121/3575.htm", "status": "active"}
+{"id": "thu_faculty_刘洋_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "刘洋", "url": "http://nlp.csai.tsinghua.edu.cn/~ly/index_cn.html", "status": "active"}
+{"id": "thu_faculty_刘奕群_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "刘奕群", "url": "https://www.cs.tsinghua.edu.cn/info/1121/3557.htm", "status": "active"}
+{"id": "thu_faculty_刘奕群_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "刘奕群", "url": "https://www.thuir.cn/group/YQLiu/", "status": "active"}
+{"id": "thu_faculty_刘知远_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "刘知远", "url": "https://www.cs.tsinghua.edu.cn/info/1121/7037.htm", "status": "active"}
+{"id": "thu_faculty_马少平_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "马少平", "url": "https://www.cs.tsinghua.edu.cn/info/1121/3556.htm", "status": "active"}
+{"id": "thu_faculty_孙富春_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "孙富春", "url": "https://www.cs.tsinghua.edu.cn/info/1121/3555.htm", "status": "active"}
+{"id": "thu_faculty_孙茂松_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "孙茂松", "url": "https://www.cs.tsinghua.edu.cn/info/1121/3554.htm", "status": "active"}
+{"id": "thu_faculty_应明生_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "应明生", "url": "https://www.cs.tsinghua.edu.cn/info/1121/3553.htm", "status": "active"}
+{"id": "thu_faculty_张钹_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "张钹", "url": "https://www.cs.tsinghua.edu.cn/info/1121/3552.htm", "status": "active"}
+{"id": "thu_faculty_张敏_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "张敏", "url": "https://www.cs.tsinghua.edu.cn/info/1121/5097.htm", "status": "active"}
+{"id": "thu_faculty_张敏_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "张敏", "url": "http://www.thuir.cn/group/~mzhang", "status": "active"}
+{"id": "thu_faculty_朱军_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "朱军", "url": "https://www.cs.tsinghua.edu.cn/info/1121/3551.htm", "status": "active"}
+{"id": "thu_faculty_朱军_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "朱军", "url": "http://ml.cs.tsinghua.edu.cn/~jun/", "status": "active"}
+{"id": "thu_faculty_艾清遥_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "艾清遥", "url": "https://www.cs.tsinghua.edu.cn/info/1122/6641.htm", "status": "active"}
+{"id": "thu_faculty_艾清遥_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "艾清遥", "url": "https://qingyaoai.github.io", "status": "active"}
+{"id": "thu_faculty_陈键飞_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "陈键飞", "url": "https://www.cs.tsinghua.edu.cn/info/1122/5622.htm", "status": "active"}
+{"id": "thu_faculty_陈键飞_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "陈键飞", "url": "https://ml.cs.tsinghua.edu.cn/~jianfei/", "status": "active"}
+{"id": "thu_faculty_陈建鑫_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "陈建鑫", "url": "https://www.cs.tsinghua.edu.cn/info/1122/6619.htm", "status": "active"}
+{"id": "thu_faculty_胡晓林_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "胡晓林", "url": "https://www.cs.tsinghua.edu.cn/info/1122/3569.htm", "status": "active"}
+{"id": "thu_faculty_李建民_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "李建民", "url": "https://www.cs.tsinghua.edu.cn/info/1122/3567.htm", "status": "active"}
+{"id": "thu_faculty_苏航_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "苏航", "url": "https://www.cs.tsinghua.edu.cn/info/1122/3946.htm", "status": "active"}
+{"id": "thu_faculty_王宏宁_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "王宏宁", "url": "https://www.cs.tsinghua.edu.cn/info/1122/5712.htm", "status": "active"}
+{"id": "thu_faculty_徐华_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "徐华", "url": "https://www.cs.tsinghua.edu.cn/info/1122/3562.htm", "status": "active"}
+{"id": "thu_faculty_崔勇_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "崔勇", "url": "https://www.cs.tsinghua.edu.cn/info/1126/3589.htm", "status": "active"}
+{"id": "thu_faculty_段海新_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "段海新", "url": "https://www.cs.tsinghua.edu.cn/info/1126/3588.htm", "status": "active"}
+{"id": "thu_faculty_李丹_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "李丹", "url": "https://www.cs.tsinghua.edu.cn/info/1126/3948.htm", "status": "active"}
+{"id": "thu_faculty_刘斌_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "刘斌", "url": "https://www.cs.tsinghua.edu.cn/info/1126/3587.htm", "status": "active"}
+{"id": "thu_faculty_刘卫东_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "刘卫东", "url": "https://www.cs.tsinghua.edu.cn/info/1126/3586.htm", "status": "active"}
+{"id": "thu_faculty_任丰原_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "任丰原", "url": "https://www.cs.tsinghua.edu.cn/info/1126/3585.htm", "status": "active"}
+{"id": "thu_faculty_王继龙_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "王继龙", "url": "https://www.cs.tsinghua.edu.cn/info/1126/3584.htm", "status": "active"}
+{"id": "thu_faculty_王小云_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "王小云", "url": "https://www.cs.tsinghua.edu.cn/info/1126/3583.htm", "status": "active"}
+{"id": "thu_faculty_吴建平_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "吴建平", "url": "https://www.cs.tsinghua.edu.cn/info/1126/3582.htm", "status": "active"}
+{"id": "thu_faculty_徐恪_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "徐恪", "url": "https://www.cs.tsinghua.edu.cn/info/1126/3581.htm", "status": "active"}
+{"id": "thu_faculty_徐明伟_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "徐明伟", "url": "https://www.cs.tsinghua.edu.cn/info/1126/3580.htm", "status": "active"}
+{"id": "thu_faculty_杨家海_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "杨家海", "url": "https://www.cs.tsinghua.edu.cn/info/1126/3579.htm", "status": "active"}
+{"id": "thu_faculty_尹霞_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "尹霞", "url": "https://www.cs.tsinghua.edu.cn/info/1126/3578.htm", "status": "active"}
+{"id": "thu_faculty_张小平_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "张小平", "url": "https://www.cs.tsinghua.edu.cn/info/1126/3577.htm", "status": "active"}
+{"id": "thu_faculty_赵有健_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "赵有健", "url": "https://www.cs.tsinghua.edu.cn/info/1126/3576.htm", "status": "active"}
+{"id": "thu_faculty_邓俊辉_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "邓俊辉", "url": "https://www.cs.tsinghua.edu.cn/info/1131/5100.htm", "status": "active"}
+{"id": "thu_faculty_黄维通_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "黄维通", "url": "https://www.cs.tsinghua.edu.cn/info/1131/3605.htm", "status": "active"}
+{"id": "thu_faculty_马昱春_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "马昱春", "url": "https://www.cs.tsinghua.edu.cn/info/1131/5274.htm", "status": "active"}
+{"id": "thu_faculty_郑莉_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "郑莉", "url": "https://www.cs.tsinghua.edu.cn/info/1131/3603.htm", "status": "active"}
+{"id": "thu_faculty_谌卫军_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "谌卫军", "url": "https://www.cs.tsinghua.edu.cn/info/1132/3612.htm", "status": "active"}
+{"id": "thu_faculty_李秀_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "李秀", "url": "https://www.cs.tsinghua.edu.cn/info/1132/3614.htm", "status": "active"}
+{"id": "thu_faculty_乔林_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "乔林", "url": "https://www.cs.tsinghua.edu.cn/info/1132/3613.htm", "status": "active"}
+{"id": "thu_faculty_韩文弢_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "韩文弢", "url": "https://www.cs.tsinghua.edu.cn/info/1159/5101.htm", "status": "active"}
+{"id": "thu_faculty_孙家广_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "孙家广", "url": "https://www.thss.tsinghua.edu.cn/faculty/sunjiaguang.htm", "status": "active"}
+{"id": "thu_faculty_顾明_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "顾明", "url": "https://www.thss.tsinghua.edu.cn/faculty/guming.htm", "status": "active"}
+{"id": "thu_faculty_向东_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "向东", "url": "https://www.thss.tsinghua.edu.cn/faculty/xiangdong.htm", "status": "active"}
+{"id": "thu_faculty_赵曦滨_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "赵曦滨", "url": "https://www.thss.tsinghua.edu.cn/faculty/zhaoxibin.htm", "status": "active"}
+{"id": "thu_faculty_邓仰东_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "邓仰东", "url": "https://www.thss.tsinghua.edu.cn/faculty/dengyangdong.htm", "status": "active"}
+{"id": "thu_faculty_贺飞_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "贺飞", "url": "https://www.thss.tsinghua.edu.cn/faculty/hefei.htm", "status": "active"}
+{"id": "thu_faculty_贺飞_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "贺飞", "url": "https://feihe.github.io/", "status": "active"}
+{"id": "thu_faculty_张荷花_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "张荷花", "url": "https://www.thss.tsinghua.edu.cn/faculty/zhanghehua.htm", "status": "active"}
+{"id": "thu_faculty_万海_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "万海", "url": "https://www.thss.tsinghua.edu.cn/faculty/wanhai.htm", "status": "active"}
+{"id": "thu_faculty_周旻_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "周旻", "url": "https://www.thss.tsinghua.edu.cn/faculty/zhoumin.htm", "status": "active"}
+{"id": "thu_faculty_高跃_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "高跃", "url": "https://www.thss.tsinghua.edu.cn/faculty/gaoyue.htm", "status": "active"}
+{"id": "thu_faculty_姜宇_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "姜宇", "url": "https://www.thss.tsinghua.edu.cn/faculty/jiangyu.htm", "status": "active"}
+{"id": "thu_faculty_姜宇_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "姜宇", "url": "https://sites.google.com/site/jiangyu198964", "status": "active"}
+{"id": "thu_faculty_袁渊源_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "袁渊源", "url": "https://www.thss.tsinghua.edu.cn/faculty/yuanyuanyuan.htm", "status": "active"}
+{"id": "thu_faculty_袁渊源_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "袁渊源", "url": "https://yuanyuan-yuan.github.io/", "status": "active"}
+{"id": "thu_faculty_陈震鹏_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "陈震鹏", "url": "https://www.thss.tsinghua.edu.cn/faculty/chenzhenpeng.htm", "status": "active"}
+{"id": "thu_faculty_陈震鹏_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "陈震鹏", "url": "https://chenzhenpeng18.github.io", "status": "active"}
+{"id": "thu_faculty_叶晓俊_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "叶晓俊", "url": "https://www.thss.tsinghua.edu.cn/faculty/yexiaojun.htm", "status": "active"}
+{"id": "thu_faculty_王建民_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "王建民", "url": "https://www.thss.tsinghua.edu.cn/faculty/wangjianmin.htm", "status": "active"}
+{"id": "thu_faculty_刘璘_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "刘璘", "url": "https://www.thss.tsinghua.edu.cn/faculty/liulin.htm", "status": "active"}
+{"id": "thu_faculty_王朝坤_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "王朝坤", "url": "https://www.thss.tsinghua.edu.cn/faculty/wangchaokun.htm", "status": "active"}
+{"id": "thu_faculty_丁贵广_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "丁贵广", "url": "https://www.thss.tsinghua.edu.cn/faculty/dingguiguang.htm", "status": "active"}
+{"id": "thu_faculty_闻立杰_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "闻立杰", "url": "https://www.thss.tsinghua.edu.cn/faculty/wenlijie.htm", "status": "active"}
+{"id": "thu_faculty_宋韶旭_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "宋韶旭", "url": "https://www.thss.tsinghua.edu.cn/faculty/songshaoxu.htm", "status": "active"}
+{"id": "thu_faculty_宋韶旭_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "宋韶旭", "url": "https://sxsong.github.io", "status": "active"}
+{"id": "thu_faculty_刘英博_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "刘英博", "url": "https://www.thss.tsinghua.edu.cn/faculty/liuyingbo.htm", "status": "active"}
+{"id": "thu_faculty_金涛_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "金涛", "url": "https://www.thss.tsinghua.edu.cn/faculty/jintao.htm", "status": "active"}
+{"id": "thu_faculty_龙明盛_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "龙明盛", "url": "https://www.thss.tsinghua.edu.cn/faculty/longmingsheng.htm", "status": "active"}
+{"id": "thu_faculty_龙明盛_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "龙明盛", "url": "http://ise.thss.tsinghua.edu.cn/~mlong", "status": "active"}
+{"id": "thu_faculty_黄向东_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "黄向东", "url": "https://www.thss.tsinghua.edu.cn/faculty/huangxiangdong.htm", "status": "active"}
+{"id": "thu_faculty_沈恩亚_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "沈恩亚", "url": "https://www.thss.tsinghua.edu.cn/faculty/shenenya.htm", "status": "active"}
+{"id": "thu_faculty_沈恩亚_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "沈恩亚", "url": "https://shenenya.github.io", "status": "active"}
+{"id": "thu_faculty_裴忠一_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "裴忠一", "url": "https://www.thss.tsinghua.edu.cn/faculty/peizhongyi.htm", "status": "active"}
+{"id": "thu_faculty_王彦凯_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "王彦凯", "url": "https://www.thss.tsinghua.edu.cn/faculty/wangyankai.htm", "status": "active"}
+{"id": "thu_faculty_雍俊海_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "雍俊海", "url": "https://www.thss.tsinghua.edu.cn/faculty/yongjunhai.htm", "status": "active"}
+{"id": "thu_faculty_张慧_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "张慧", "url": "https://www.thss.tsinghua.edu.cn/faculty/zhanghui.htm", "status": "active"}
+{"id": "thu_faculty_王斌_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "王斌", "url": "https://www.thss.tsinghua.edu.cn/faculty/wangbin.htm", "status": "active"}
+{"id": "thu_faculty_王斌_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "王斌", "url": "https://binwangthss.github.io/", "status": "active"}
+{"id": "thu_faculty_陈莉_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "陈莉", "url": "https://www.thss.tsinghua.edu.cn/faculty/chenli.htm", "status": "active"}
+{"id": "thu_faculty_刘玉身_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "刘玉身", "url": "https://www.thss.tsinghua.edu.cn/faculty/liuyushen.htm", "status": "active"}
+{"id": "thu_faculty_刘玉身_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "刘玉身", "url": "https://yushen-liu.github.io/index_cn.html", "status": "active"}
+{"id": "thu_faculty_刘世霞_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "刘世霞", "url": "https://www.thss.tsinghua.edu.cn/faculty/liushixia.htm", "status": "active"}
+{"id": "thu_faculty_刘世霞_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "刘世霞", "url": "http://shixialiu.com/", "status": "active"}
+{"id": "thu_faculty_徐枫_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "徐枫", "url": "https://www.thss.tsinghua.edu.cn/faculty/xufeng.htm", "status": "active"}
+{"id": "thu_faculty_潘浩_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "潘浩", "url": "https://www.thss.tsinghua.edu.cn/faculty/ph.htm", "status": "active"}
+{"id": "thu_faculty_潘浩_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "潘浩", "url": "https://haopan.github.io/", "status": "active"}
+{"id": "thu_faculty_杨铮_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "杨铮", "url": "https://www.thss.tsinghua.edu.cn/faculty/yangzheng.htm", "status": "active"}
+{"id": "thu_faculty_杨铮_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "杨铮", "url": "http://tns.thss.tsinghua.edu.cn/~yangzheng/", "status": "active"}
+{"id": "thu_faculty_何源_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "何源", "url": "https://www.thss.tsinghua.edu.cn/faculty/heyuan.htm", "status": "active"}
+{"id": "thu_faculty_何源_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "何源", "url": "http://tns.thss.tsinghua.edu.cn/sun/members/YuanHe/", "status": "active"}
+{"id": "thu_faculty_王继良_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "王继良", "url": "https://www.thss.tsinghua.edu.cn/faculty/wangjiliang.htm", "status": "active"}
+{"id": "thu_faculty_王继良_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "王继良", "url": "http://tns.thss.tsinghua.edu.cn/~jiliang/", "status": "active"}
+{"id": "thu_faculty_李振华_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "李振华", "url": "https://www.thss.tsinghua.edu.cn/faculty/lizhenhua.htm", "status": "active"}
+{"id": "thu_faculty_李振华_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "李振华", "url": "https://www.thucloud.com/zhenhua/", "status": "active"}
+{"id": "thu_faculty_苗欣_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "苗欣", "url": "https://www.thss.tsinghua.edu.cn/faculty/miaoxin.htm", "status": "active"}
+{"id": "thu_faculty_丁旋_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "丁旋", "url": "https://www.thss.tsinghua.edu.cn/faculty/dingxuan.htm", "status": "active"}
+{"id": "thu_faculty_姚期智_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "姚期智", "url": "https://iiis.tsinghua.edu.cn/rydw/qzjs/yaoqizhi.htm", "status": "active"}
+{"id": "thu_faculty_段路明_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "段路明", "url": "https://iiis.tsinghua.edu.cn/rydw/qzjs/duanluming.htm", "status": "active"}
+{"id": "thu_faculty_黄隆波_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "黄隆波", "url": "https://iiis.tsinghua.edu.cn/rydw/qzjs/huanglongbo.htm", "status": "active"}
+{"id": "thu_faculty_黄隆波_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "黄隆波", "url": "https://people.iiis.tsinghua.edu.cn/~huang/", "status": "active"}
+{"id": "thu_faculty_李建_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "李建", "url": "https://iiis.tsinghua.edu.cn/rydw/qzjs/lijian.htm", "status": "active"}
+{"id": "thu_faculty_马雄峰_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "马雄峰", "url": "https://iiis.tsinghua.edu.cn/rydw/qzjs/maxiongfeng.htm", "status": "active"}
+{"id": "thu_faculty_孙麓岩_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "孙麓岩", "url": "https://iiis.tsinghua.edu.cn/rydw/qzjs/sunluyan.htm", "status": "active"}
+{"id": "thu_faculty_徐葳_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "徐葳", "url": "https://iiis.tsinghua.edu.cn/rydw/qzjs/xuwei.htm", "status": "active"}
+{"id": "thu_faculty_邓东灵_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "邓东灵", "url": "https://iiis.tsinghua.edu.cn/rydw/qzjs/dengdongling.htm", "status": "active"}
+{"id": "thu_faculty_段然_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "段然", "url": "https://iiis.tsinghua.edu.cn/rydw/qzjs/duanran.htm", "status": "active"}
+{"id": "thu_faculty_高鸣宇_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "高鸣宇", "url": "https://iiis.tsinghua.edu.cn/rydw/qzjs/gaomingyu.htm", "status": "active"}
+{"id": "thu_faculty_马恺声_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "马恺声", "url": "https://iiis.tsinghua.edu.cn/rydw/qzjs/makaisheng.htm", "status": "active"}
+{"id": "thu_faculty_马恺声_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "马恺声", "url": "https://group.iiis.tsinghua.edu.cn/~maks/", "status": "active"}
+{"id": "thu_faculty_徐勇_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "徐勇", "url": "https://iiis.tsinghua.edu.cn/rydw/qzjs/xuyong.htm", "status": "active"}
+{"id": "thu_faculty_袁洋_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "袁洋", "url": "https://iiis.tsinghua.edu.cn/rydw/qzjs/yuanyang_old.htm", "status": "active"}
+{"id": "thu_faculty_袁洋_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "袁洋", "url": "http://people.iiis.tsinghua.edu.cn/~yuanyang/index.html", "status": "active"}
+{"id": "thu_faculty_陈建宇_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "陈建宇", "url": "https://iiis.tsinghua.edu.cn/rydw/qzjs/chenjianyu.htm", "status": "active"}
+{"id": "thu_faculty_陈一镭_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "陈一镭", "url": "https://iiis.tsinghua.edu.cn/rydw/qzjs/chenyilei.htm", "status": "active"}
+{"id": "thu_faculty_陈一镭_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "陈一镭", "url": "https://www.chenyilei.net/", "status": "active"}
+{"id": "thu_faculty_杜韬_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "杜韬", "url": "https://iiis.tsinghua.edu.cn/rydw/qzjs/dutao.htm", "status": "active"}
+{"id": "thu_faculty_杜韬_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "杜韬", "url": "https://people.iiis.tsinghua.edu.cn/~taodu/", "status": "active"}
+{"id": "thu_faculty_房智轩_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "房智轩", "url": "https://iiis.tsinghua.edu.cn/rydw/qzjs/fangzhixuan.htm", "status": "active"}
+{"id": "thu_faculty_房智轩_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "房智轩", "url": "https://people.iiis.tsinghua.edu.cn/~fang/", "status": "active"}
+{"id": "thu_faculty_高阳_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "高阳", "url": "https://iiis.tsinghua.edu.cn/rydw/qzjs/gaoyang.htm", "status": "active"}
+{"id": "thu_faculty_侯攀宇_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "侯攀宇", "url": "https://iiis.tsinghua.edu.cn/rydw/qzjs/houpanyu.htm", "status": "active"}
+{"id": "thu_faculty_贺天行_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "贺天行", "url": "https://iiis.tsinghua.edu.cn/rydw/qzjs/hetianxing.htm", "status": "active"}
+{"id": "thu_faculty_贺天行_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "贺天行", "url": "https://cloudygoose.github.io/", "status": "active"}
+{"id": "thu_faculty_吕凯风_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "吕凯风", "url": "https://iiis.tsinghua.edu.cn/rydw/qzjs/lvkaifeng.htm", "status": "active"}
+{"id": "thu_faculty_吕凯风_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "吕凯风", "url": "https://kaifeng.ac/", "status": "active"}
+{"id": "thu_faculty_濮云飞_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "濮云飞", "url": "https://iiis.tsinghua.edu.cn/rydw/qzjs/puyunfei.htm", "status": "active"}
+{"id": "thu_faculty_宋一凡_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "宋一凡", "url": "https://iiis.tsinghua.edu.cn/rydw/qzjs/songyifan.htm", "status": "active"}
+{"id": "thu_faculty_王禹皓_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "王禹皓", "url": "https://iiis.tsinghua.edu.cn/rydw/qzjs/wangyuhao.htm", "status": "active"}
+{"id": "thu_faculty_王禹皓_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "王禹皓", "url": "https://yuhaow.github.io/", "status": "active"}
+{"id": "thu_faculty_吴宇恺_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "吴宇恺", "url": "https://iiis.tsinghua.edu.cn/rydw/qzjs/wukaiyu.htm", "status": "active"}
+{"id": "thu_faculty_许华哲_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "许华哲", "url": "https://iiis.tsinghua.edu.cn/rydw/qzjs/xuhuazhe.htm", "status": "active"}
+{"id": "thu_faculty_徐梦迪_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "徐梦迪", "url": "https://iiis.tsinghua.edu.cn/rydw/qzjs/xumengdi.htm", "status": "active"}
+{"id": "thu_faculty_徐梦迪_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "徐梦迪", "url": "https://www.mengdixu.me/", "status": "active"}
+{"id": "thu_faculty_弋力_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "弋力", "url": "https://iiis.tsinghua.edu.cn/rydw/qzjs/yili.htm", "status": "active"}
+{"id": "thu_faculty_张焕晨_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "张焕晨", "url": "https://iiis.tsinghua.edu.cn/rydw/qzjs/zhanghuanchen.htm", "status": "active"}
+{"id": "thu_faculty_张焕晨_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "张焕晨", "url": "https://people.iiis.tsinghua.edu.cn/~huanchen/", "status": "active"}
+{"id": "thu_faculty_张景昭_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "张景昭", "url": "https://iiis.tsinghua.edu.cn/rydw/qzjs/zhangjingzhao.htm", "status": "active"}
+{"id": "thu_faculty_赵行_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "赵行", "url": "https://iiis.tsinghua.edu.cn/rydw/qzjs/zhaohang.htm", "status": "active"}
+{"id": "thu_faculty_郑舒冉_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "郑舒冉", "url": "https://iiis.tsinghua.edu.cn/rydw/qzjs/zhengshuran.htm", "status": "active"}
+{"id": "thu_faculty_董胤蓬_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "董胤蓬", "url": "https://collegeai.tsinghua.edu.cn/rydw/qzpi/dongyinpeng.htm", "status": "active"}
+{"id": "thu_faculty_alex_lamb_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "Alex Lamb", "url": "https://collegeai.tsinghua.edu.cn/rydw/qzpi/AlexLamb.htm", "status": "active"}
+{"id": "thu_faculty_米璐_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "米璐", "url": "https://collegeai.tsinghua.edu.cn/rydw/qzpi/milu.htm", "status": "active"}
+{"id": "thu_faculty_李欣阳_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "李欣阳", "url": "https://collegeai.tsinghua.edu.cn/rydw/qzpi/lixinyang.htm", "status": "active"}
+{"id": "thu_faculty_李佳_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "李佳", "url": "https://collegeai.tsinghua.edu.cn/rydw/qzpi/lijia.htm", "status": "active"}
+{"id": "thu_faculty_李佳_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "李佳", "url": "https://lj2lijia.github.io/", "status": "active"}
+{"id": "thu_faculty_刘淼_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "刘淼", "url": "https://collegeai.tsinghua.edu.cn/rydw/qzpi/liumiao.htm", "status": "active"}
+{"id": "thu_faculty_姚远_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "姚远", "url": "https://collegeai.tsinghua.edu.cn/rydw/qzpi/yaoyuan.htm", "status": "active"}
+{"id": "thu_faculty_邹雪妍_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "邹雪妍", "url": "https://collegeai.tsinghua.edu.cn/rydw/qzpi/zouxueyan.htm", "status": "active"}
+{"id": "thu_faculty_邹雪妍_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "邹雪妍", "url": "https://maureenzou.github.io/", "status": "active"}
+{"id": "thu_faculty_宋悦_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "宋悦", "url": "https://collegeai.tsinghua.edu.cn/rydw/qzpi/songyue.htm", "status": "active"}
+{"id": "thu_faculty_李一鸣_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "李一鸣", "url": "https://collegeai.tsinghua.edu.cn/rydw/qzpi/liyiming.htm", "status": "active"}
+{"id": "thu_faculty_李一鸣_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "李一鸣", "url": "https://yimingli-page.github.io/", "status": "active"}
+{"id": "thu_faculty_刘子鸣_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "刘子鸣", "url": "https://collegeai.tsinghua.edu.cn/rydw/qzpi/liuziming.htm", "status": "active"}
+{"id": "thu_faculty_张亚勤_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "张亚勤", "url": "https://air.tsinghua.edu.cn/info/1046/1207.htm", "status": "active"}
+{"id": "thu_faculty_马维英_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "马维英", "url": "https://air.tsinghua.edu.cn/info/1046/1206.htm", "status": "active"}
+{"id": "thu_faculty_刘洋_003", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "刘洋", "url": "https://air.tsinghua.edu.cn/info/1046/1204.htm", "status": "active"}
+{"id": "thu_faculty_聂再清_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "聂再清", "url": "https://air.tsinghua.edu.cn/info/1046/1203.htm", "status": "active"}
+{"id": "thu_faculty_刘云新_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "刘云新", "url": "https://air.tsinghua.edu.cn/info/1046/1202.htm", "status": "active"}
+{"id": "thu_faculty_刘云新_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "刘云新", "url": "https://yunxinliu.github.io/", "status": "active"}
+{"id": "thu_faculty_刘菁菁_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "刘菁菁", "url": "https://air.tsinghua.edu.cn/info/1046/1201.htm", "status": "active"}
+{"id": "thu_faculty_曹婷_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "曹婷", "url": "https://air.tsinghua.edu.cn/info/1046/2451.htm", "status": "active"}
+{"id": "thu_faculty_曹婷_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "曹婷", "url": "https://tingcao952.github.io/", "status": "active"}
+{"id": "thu_faculty_周谷越_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "周谷越", "url": "https://air.tsinghua.edu.cn/info/1046/1199.htm", "status": "active"}
+{"id": "thu_faculty_李鹏_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "李鹏", "url": "https://air.tsinghua.edu.cn/info/1046/1563.htm", "status": "active"}
+{"id": "thu_faculty_李鹏_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "李鹏", "url": "http://www.lpeng.net/", "status": "active"}
+{"id": "thu_faculty_周浩_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "周浩", "url": "https://air.tsinghua.edu.cn/info/1046/1661.htm", "status": "active"}
+{"id": "thu_faculty_周浩_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "周浩", "url": "https://zhouh.github.io/", "status": "active"}
+{"id": "thu_faculty_马剑竹_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "马剑竹", "url": "https://air.tsinghua.edu.cn/info/1046/1830.htm", "status": "active"}
+{"id": "thu_faculty_马剑竹_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "马剑竹", "url": "https://majianzhu.com/", "status": "active"}
+{"id": "thu_faculty_詹仙园_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "詹仙园", "url": "https://air.tsinghua.edu.cn/info/1046/1197.htm", "status": "active"}
+{"id": "thu_faculty_詹仙园_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "詹仙园", "url": "http://zhanxianyuan.xyz/", "status": "active"}
+{"id": "thu_faculty_马为之_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "马为之", "url": "https://air.tsinghua.edu.cn/info/1046/1196.htm", "status": "active"}
+{"id": "thu_faculty_李元春_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "李元春", "url": "https://air.tsinghua.edu.cn/info/1046/1195.htm", "status": "active"}
+{"id": "thu_faculty_李元春_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "李元春", "url": "https://yuanchun-li.github.io/", "status": "active"}
+{"id": "thu_faculty_王岩_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "王岩", "url": "https://air.tsinghua.edu.cn/info/1046/1555.htm", "status": "active"}
+{"id": "thu_faculty_王岩_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "王岩", "url": "https://yanwang202199.github.io/", "status": "active"}
+{"id": "thu_faculty_赵昊_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "赵昊", "url": "https://air.tsinghua.edu.cn/info/1046/1945.htm", "status": "active"}
+{"id": "thu_faculty_李琨_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "李琨", "url": "https://air.tsinghua.edu.cn/info/1046/2501.htm", "status": "active"}
+{"id": "thu_faculty_李琨_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "李琨", "url": "https://www.likun.tech/", "status": "active"}
+{"id": "thu_faculty_赵峰_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "赵峰", "url": "https://air.tsinghua.edu.cn/info/1046/1205.htm", "status": "active"}
+{"id": "thu_faculty_吴建平_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "吴建平", "url": "https://www.insc.tsinghua.edu.cn/info/1157/3984.htm", "status": "active"}
+{"id": "thu_faculty_李星_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "李星", "url": "https://www.insc.tsinghua.edu.cn/info/1157/4005.htm", "status": "active"}
+{"id": "thu_faculty_王继龙_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "王继龙", "url": "https://www.insc.tsinghua.edu.cn/info/1157/2449.htm", "status": "active"}
+{"id": "thu_faculty_徐明伟_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "徐明伟", "url": "https://www.insc.tsinghua.edu.cn/info/1157/2465.htm", "status": "active"}
+{"id": "thu_faculty_杨家海_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "杨家海", "url": "https://www.insc.tsinghua.edu.cn/info/1157/2854.htm", "status": "active"}
+{"id": "thu_faculty_杨家海_003", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "杨家海", "url": "http://nmgroup.tsinghua.edu.cn/yjh/", "status": "active"}
+{"id": "thu_faculty_段海新_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "段海新", "url": "https://www.insc.tsinghua.edu.cn/info/1157/2848.htm", "status": "active"}
+{"id": "thu_faculty_段海新_003", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "段海新", "url": "http://netsec.ccert.edu.cn/people/duanhx", "status": "active"}
+{"id": "thu_faculty_李宗鹏_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "李宗鹏", "url": "https://www.insc.tsinghua.edu.cn/info/1157/4007.htm", "status": "active"}
+{"id": "thu_faculty_王会_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "王会", "url": "https://www.insc.tsinghua.edu.cn/info/1157/2852.htm", "status": "active"}
+{"id": "thu_faculty_王会_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "王会", "url": "https://jessiehuiwang.github.io/", "status": "active"}
+{"id": "thu_faculty_王之梁_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "王之梁", "url": "https://www.insc.tsinghua.edu.cn/info/1157/2853.htm", "status": "active"}
+{"id": "thu_faculty_张超_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "张超", "url": "https://www.insc.tsinghua.edu.cn/info/1157/3292.htm", "status": "active"}
+{"id": "thu_faculty_张超_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "张超", "url": "http://netsec.ccert.edu.cn/people/chaoz", "status": "active"}
+{"id": "thu_faculty_李琦_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "李琦", "url": "https://www.insc.tsinghua.edu.cn/info/1157/2851.htm", "status": "active"}
+{"id": "thu_faculty_王龙_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "王龙", "url": "https://www.insc.tsinghua.edu.cn/info/1157/2457.htm", "status": "active"}
+{"id": "thu_faculty_王龙_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "王龙", "url": "https://longwang1.github.io", "status": "active"}
+{"id": "thu_faculty_刘卓涛_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "刘卓涛", "url": "https://www.insc.tsinghua.edu.cn/info/1157/2455.htm", "status": "active"}
+{"id": "thu_faculty_刘卓涛_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "刘卓涛", "url": "https://liuzhuotao.github.io/", "status": "active"}
+{"id": "thu_faculty_李元杰_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "李元杰", "url": "https://www.insc.tsinghua.edu.cn/info/1157/2474.htm", "status": "active"}
+{"id": "thu_faculty_李元杰_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "李元杰", "url": "https://www.yuanjiel.com", "status": "active"}
+{"id": "thu_faculty_董晓阳_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "董晓阳", "url": "https://www.insc.tsinghua.edu.cn/info/1157/3711.htm", "status": "active"}
+{"id": "thu_faculty_陈建军_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "陈建军", "url": "https://www.insc.tsinghua.edu.cn/info/1157/2448.htm", "status": "active"}
+{"id": "thu_faculty_陈建军_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "陈建军", "url": "https://jianjunchen.com", "status": "active"}
+{"id": "thu_faculty_邱寒_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "邱寒", "url": "https://www.insc.tsinghua.edu.cn/info/1157/2454.htm", "status": "active"}
+{"id": "thu_faculty_邱寒_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "邱寒", "url": "https://qiuhan.info/", "status": "active"}
+{"id": "thu_faculty_易鑫_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "易鑫", "url": "https://www.insc.tsinghua.edu.cn/info/1157/2453.htm", "status": "active"}
+{"id": "thu_faculty_张晗_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "张晗", "url": "https://www.insc.tsinghua.edu.cn/info/1157/2458.htm", "status": "active"}
+{"id": "thu_faculty_包珍珍_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "包珍珍", "url": "https://www.insc.tsinghua.edu.cn/info/1157/3383.htm", "status": "active"}
+{"id": "thu_faculty_包珍珍_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "包珍珍", "url": "https://freedisciplina.github.io/", "status": "active"}
+{"id": "thu_faculty_赖泽祺_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "赖泽祺", "url": "https://www.insc.tsinghua.edu.cn/info/1157/2446.htm", "status": "active"}
+{"id": "thu_faculty_赖泽祺_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "赖泽祺", "url": "https://lzq8272587.github.io/", "status": "active"}
+{"id": "thu_faculty_王博_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "王博", "url": "https://www.insc.tsinghua.edu.cn/info/1157/2445.htm", "status": "active"}
+{"id": "thu_faculty_王博_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "王博", "url": "https://bowangthu.github.io/", "status": "active"}
+{"id": "thu_faculty_刘保君_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "刘保君", "url": "https://www.insc.tsinghua.edu.cn/info/1157/3432.htm", "status": "active"}
+{"id": "thu_faculty_刘保君_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "刘保君", "url": "https://liubaojun.org", "status": "active"}
+{"id": "thu_faculty_刘莹_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "刘莹", "url": "https://www.insc.tsinghua.edu.cn/info/1157/2456.htm", "status": "active"}
+{"id": "thu_faculty_李贺武_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "李贺武", "url": "https://www.insc.tsinghua.edu.cn/info/1157/2451.htm", "status": "active"}
+{"id": "thu_faculty_诸葛建伟_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "诸葛建伟", "url": "https://www.insc.tsinghua.edu.cn/info/1157/3294.htm", "status": "active"}
+{"id": "thu_faculty_诸葛建伟_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "诸葛建伟", "url": "http://netsec.ccert.edu.cn/people/zhugejw/", "status": "active"}
+{"id": "thu_faculty_王小云_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "王小云", "url": "https://www.ias.tsinghua.edu.cn/info/1016/1217.htm", "status": "active"}
+{"id": "thu_faculty_段斯斯_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "段斯斯", "url": "https://fififish.github.io/sisiduan/", "status": "active"}
+{"id": "thu_faculty_王安宇_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "王安宇", "url": "https://anyu-crypto.github.io/chinese/", "status": "active"}
+{"id": "thu_faculty_喻杨_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "喻杨", "url": "https://yuyang-crypto.github.io/", "status": "active"}
+{"id": "thu_faculty_陈卓_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "陈卓", "url": "https://czlovemath123.github.io/", "status": "active"}
+{"id": "thu_faculty_姚期智_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "姚期智", "url": "https://www.ias.tsinghua.edu.cn/info/1016/1205.htm", "status": "active"}
+{"id": "thu_faculty_李衍达_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "李衍达", "url": "https://www.au.tsinghua.edu.cn/info/1078/3128.htm", "status": "active"}
+{"id": "thu_faculty_张长水_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "张长水", "url": "https://www.au.tsinghua.edu.cn/info/1078/3257.htm", "status": "active"}
+{"id": "thu_faculty_张学工_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "张学工", "url": "https://www.au.tsinghua.edu.cn/info/1078/3135.htm", "status": "active"}
+{"id": "thu_faculty_张学工_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "张学工", "url": "http://xglab.tech/", "status": "active"}
+{"id": "thu_faculty_周杰_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "周杰", "url": "https://www.au.tsinghua.edu.cn/info/1078/3126.htm", "status": "active"}
+{"id": "thu_faculty_李梢_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "李梢", "url": "https://www.au.tsinghua.edu.cn/info/1078/3172.htm", "status": "active"}
+{"id": "thu_faculty_朱松纯_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "朱松纯", "url": "https://www.au.tsinghua.edu.cn/info/1078/3256.htm", "status": "active"}
+{"id": "thu_faculty_朱松纯_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "朱松纯", "url": "https://zhusongchun.net/", "status": "active"}
+{"id": "thu_faculty_汪小我_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "汪小我", "url": "https://www.au.tsinghua.edu.cn/info/1078/3260.htm", "status": "active"}
+{"id": "thu_faculty_江瑞_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "江瑞", "url": "https://www.au.tsinghua.edu.cn/info/1078/3259.htm", "status": "active"}
+{"id": "thu_faculty_鲁继文_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "鲁继文", "url": "https://www.au.tsinghua.edu.cn/info/1078/3156.htm", "status": "active"}
+{"id": "thu_faculty_鲁继文_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "鲁继文", "url": "http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/", "status": "active"}
+{"id": "thu_faculty_张鹏_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "张鹏", "url": "https://www.au.tsinghua.edu.cn/info/1078/3254.htm", "status": "active"}
+{"id": "thu_faculty_陈磊_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "陈磊", "url": "https://www.au.tsinghua.edu.cn/info/1078/3594.htm", "status": "active"}
+{"id": "thu_faculty_戴琼海_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "戴琼海", "url": "https://www.au.tsinghua.edu.cn/info/1080/3225.htm", "status": "active"}
+{"id": "thu_faculty_陈峰_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "陈峰", "url": "https://www.au.tsinghua.edu.cn/info/1080/3113.htm", "status": "active"}
+{"id": "thu_faculty_季向阳_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "季向阳", "url": "https://www.au.tsinghua.edu.cn/info/1080/3178.htm", "status": "active"}
+{"id": "thu_faculty_刘烨斌_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "刘烨斌", "url": "https://www.au.tsinghua.edu.cn/info/1080/3160.htm", "status": "active"}
+{"id": "thu_faculty_陶建华_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "陶建华", "url": "https://www.au.tsinghua.edu.cn/info/1080/3219.htm", "status": "active"}
+{"id": "thu_faculty_韩军功_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "韩军功", "url": "https://www.au.tsinghua.edu.cn/info/1080/3854.htm", "status": "active"}
+{"id": "thu_faculty_乔晖_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "乔晖", "url": "https://www.au.tsinghua.edu.cn/info/1080/3222.htm", "status": "active"}
+{"id": "thu_faculty_吴嘉敏_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "吴嘉敏", "url": "https://www.au.tsinghua.edu.cn/info/1080/3223.htm", "status": "active"}
+{"id": "thu_faculty_吴嘉敏_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "吴嘉敏", "url": "https://media.au.tsinghua.edu.cn/", "status": "active"}
+{"id": "thu_faculty_黄高_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "黄高", "url": "https://www.au.tsinghua.edu.cn/info/1075/3183.htm", "status": "active"}
+{"id": "thu_faculty_黄高_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "黄高", "url": "http://www.gaohuang.net", "status": "active"}
+{"id": "thu_faculty_游科友_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "游科友", "url": "https://www.au.tsinghua.edu.cn/info/1075/3204.htm", "status": "active"}
+{"id": "thu_faculty_李翔_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "李翔", "url": "https://www.au.tsinghua.edu.cn/info/1075/3203.htm", "status": "active"}
+{"id": "thu_faculty_张涛_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "张涛", "url": "https://www.au.tsinghua.edu.cn/info/1081/3196.htm", "status": "active"}
+{"id": "thu_faculty_赵明国_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "赵明国", "url": "https://www.au.tsinghua.edu.cn/info/1081/3199.htm", "status": "active"}
+{"id": "thu_faculty_江奔奔_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "江奔奔", "url": "https://www.au.tsinghua.edu.cn/info/1076/3176.htm", "status": "active"}
+{"id": "thu_faculty_梁斌_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "梁斌", "url": "https://www.au.tsinghua.edu.cn/info/1081/3165.htm", "status": "active"}
+{"id": "thu_faculty_陈宏伟_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "陈宏伟", "url": "http://web.ee.tsinghua.edu.cn/chenhongwei/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_陈明华_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "陈明华", "url": "http://web.ee.tsinghua.edu.cn/chenminghua/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_郝智彪_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "郝智彪", "url": "http://web.ee.tsinghua.edu.cn/haozhibiao/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_刘仿_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "刘仿", "url": "http://web.ee.tsinghua.edu.cn/liufang/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_罗毅_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "罗毅", "url": "http://web.ee.tsinghua.edu.cn/luoyi/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_汪莱_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "汪莱", "url": "http://web.ee.tsinghua.edu.cn/wanglai/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_郑小平_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "郑小平", "url": "http://web.ee.tsinghua.edu.cn/zhengxiaoping/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_崔开宇_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "崔开宇", "url": "http://web.ee.tsinghua.edu.cn/cuikaiyu/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_冯雪_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "冯雪", "url": "http://web.ee.tsinghua.edu.cn/fengxue/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_韩彦军_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "韩彦军", "url": "http://web.ee.tsinghua.edu.cn/hanyanjun/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_华楠_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "华楠", "url": "http://web.ee.tsinghua.edu.cn/huanan/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_霍力_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "霍力", "url": "http://web.ee.tsinghua.edu.cn/huoli/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_李尚远_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "李尚远", "url": "http://web.ee.tsinghua.edu.cn/lishangyuan/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_李永卓_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "李永卓", "url": "http://web.ee.tsinghua.edu.cn/liyongzhuo/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_林星_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "林星", "url": "http://web.ee.tsinghua.edu.cn/linxing/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_马骋_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "马骋", "url": "http://web.ee.tsinghua.edu.cn/macheng/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_熊兵_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "熊兵", "url": "http://web.ee.tsinghua.edu.cn/xiongbing/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_杨四刚_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "杨四刚", "url": "http://web.ee.tsinghua.edu.cn/yangsigang/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_张洪明_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "张洪明", "url": "http://web.ee.tsinghua.edu.cn/zhanghongming/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_李其橦_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "李其橦", "url": "http://web.ee.tsinghua.edu.cn/liqitong/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_袁之泉_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "袁之泉", "url": "http://web.ee.tsinghua.edu.cn/yuanzhiquan/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_陈巍_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "陈巍", "url": "http://web.ee.tsinghua.edu.cn/chenwei/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_戴凌龙_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "戴凌龙", "url": "http://web.ee.tsinghua.edu.cn/dailinglong/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_樊平毅_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "樊平毅", "url": "http://web.ee.tsinghua.edu.cn/fanpingyi/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_冯伟_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "冯伟", "url": "http://web.ee.tsinghua.edu.cn/fengwei/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_葛宁_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "葛宁", "url": "http://web.ee.tsinghua.edu.cn/gening/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_谷源涛_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "谷源涛", "url": "http://web.ee.tsinghua.edu.cn/guyuantao/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_李勇_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "李勇", "url": "http://web.ee.tsinghua.edu.cn/liyong/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_粟欣_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "粟欣", "url": "http://web.ee.tsinghua.edu.cn/suxin/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_牛志升_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "牛志升", "url": "http://web.ee.tsinghua.edu.cn/niuzhisheng/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_陶晓明_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "陶晓明", "url": "http://web.ee.tsinghua.edu.cn/taoxiaoming/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_王劲涛_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "王劲涛", "url": "http://web.ee.tsinghua.edu.cn/wangjintao/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_王军_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "王军", "url": "http://web.ee.tsinghua.edu.cn/wangjun/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_王昭诚_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "王昭诚", "url": "http://web.ee.tsinghua.edu.cn/wangzhaocheng/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_周世东_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "周世东", "url": "http://web.ee.tsinghua.edu.cn/zhoushidong/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_杜军_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "杜军", "url": "http://web.ee.tsinghua.edu.cn/dujun/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_段一平_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "段一平", "url": "http://web.ee.tsinghua.edu.cn/duanyiping/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_焦函_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "焦函", "url": "http://web.ee.tsinghua.edu.cn/jiaohan/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_马正新_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "马正新", "url": "http://web.ee.tsinghua.edu.cn/mazhengxin/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_秦志金_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "秦志金", "url": "http://web.ee.tsinghua.edu.cn/qinzhijin/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_苏厉_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "苏厉", "url": "http://web.ee.tsinghua.edu.cn/suli/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_孙智_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "孙智", "url": "http://web.ee.tsinghua.edu.cn/sunzhi/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_薛永林_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "薛永林", "url": "http://web.ee.tsinghua.edu.cn/xueyonglin/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_阳辉_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "阳辉", "url": "http://web.ee.tsinghua.edu.cn/yanghui/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_杨昉_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "杨昉", "url": "http://web.ee.tsinghua.edu.cn/yangfang/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_张超_003", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "张超", "url": "http://web.ee.tsinghua.edu.cn/zhangchao/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_张彧_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "张彧", "url": "http://web.ee.tsinghua.edu.cn/zhangyu/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_钟晓峰_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "钟晓峰", "url": "http://web.ee.tsinghua.edu.cn/zhongxiaofeng/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_周盛_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "周盛", "url": "http://web.ee.tsinghua.edu.cn/zhousheng/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_王寰东_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "王寰东", "url": "http://web.ee.tsinghua.edu.cn/wanghuandong/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_王丽婷_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "王丽婷", "url": "http://web.ee.tsinghua.edu.cn/wangliting/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_陈文华_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "陈文华", "url": "http://web.ee.tsinghua.edu.cn/chenwenhua/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_杜正伟_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "杜正伟", "url": "http://web.ee.tsinghua.edu.cn/duzhengwei/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_李懋坤_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "李懋坤", "url": "http://web.ee.tsinghua.edu.cn/limaokun/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_杨帆_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "杨帆", "url": "http://web.ee.tsinghua.edu.cn/yangfan/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_张志军_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "张志军", "url": "http://web.ee.tsinghua.edu.cn/zhangzhijun/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_李越_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "李越", "url": "http://web.ee.tsinghua.edu.cn/liyue/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_许慎恒_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "许慎恒", "url": "http://web.ee.tsinghua.edu.cn/xushenheng/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_郝清_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "郝清", "url": "http://web.ee.tsinghua.edu.cn/haoqing/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_方璐_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "方璐", "url": "http://web.ee.tsinghua.edu.cn/fanglu/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_何亮_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "何亮", "url": "http://web.ee.tsinghua.edu.cn/heliang/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_黄永峰_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "黄永峰", "url": "http://web.ee.tsinghua.edu.cn/huangyongfeng/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_马洪兵_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "马洪兵", "url": "http://web.ee.tsinghua.edu.cn/mahongbing/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_欧智坚_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "欧智坚", "url": "http://web.ee.tsinghua.edu.cn/ouzhijian/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_孙卫东_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "孙卫东", "url": "http://web.ee.tsinghua.edu.cn/sunweidong/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_王贵锦_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "王贵锦", "url": "http://web.ee.tsinghua.edu.cn/wangguijin/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_王生进_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "王生进", "url": "http://web.ee.tsinghua.edu.cn/wangshengjin/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_吴及_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "吴及", "url": "http://web.ee.tsinghua.edu.cn/wuji/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_张利_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "张利", "url": "http://web.ee.tsinghua.edu.cn/zhangli/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_周伯文_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "周伯文", "url": "http://web.ee.tsinghua.edu.cn/zhoubowen/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_陈金树_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "陈金树", "url": "http://web.ee.tsinghua.edu.cn/chenjinshu/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_代季峰_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "代季峰", "url": "http://web.ee.tsinghua.edu.cn/daijifeng/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_段岳圻_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "段岳圻", "url": "http://web.ee.tsinghua.edu.cn/duanyueqi/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_李亚利_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "李亚利", "url": "http://web.ee.tsinghua.edu.cn/liyali/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_刘长松_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "刘长松", "url": "http://web.ee.tsinghua.edu.cn/liuchangsong/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_彭良瑞_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "彭良瑞", "url": "http://web.ee.tsinghua.edu.cn/pengliangrui/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_肖熙_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "肖熙", "url": "http://web.ee.tsinghua.edu.cn/xiaoxi/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_丁宁_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "丁宁", "url": "http://web.ee.tsinghua.edu.cn/dingning/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_郭辰仪_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "郭辰仪", "url": "http://web.ee.tsinghua.edu.cn/guochenyi/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_李淼_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "李淼", "url": "http://web.ee.tsinghua.edu.cn/limiao/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_刘喜恩_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "刘喜恩", "url": "http://web.ee.tsinghua.edu.cn/liuxien/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_窦维蓓_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "窦维蓓", "url": "http://web.ee.tsinghua.edu.cn/douweibei/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_刘勇攀_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "刘勇攀", "url": "http://web.ee.tsinghua.edu.cn/liuyongpan/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_路延_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "路延", "url": "http://web.ee.tsinghua.edu.cn/luyan/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_孙楠_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "孙楠", "url": "http://web.ee.tsinghua.edu.cn/sunnan/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_汪玉_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "汪玉", "url": "http://web.ee.tsinghua.edu.cn/wangyu/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_杨华中_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "杨华中", "url": "http://web.ee.tsinghua.edu.cn/yanghuazhong/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_陈勇_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "陈勇", "url": "http://web.ee.tsinghua.edu.cn/chenyong/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_贾弘洋_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "贾弘洋", "url": "http://web.ee.tsinghua.edu.cn/jiahongyang/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_蒋琛_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "蒋琛", "url": "http://web.ee.tsinghua.edu.cn/jiangchen/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_李冬梅_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "李冬梅", "url": "http://web.ee.tsinghua.edu.cn/lidongmei/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_李国林_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "李国林", "url": "http://web.ee.tsinghua.edu.cn/liguolin/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_李学清_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "李学清", "url": "http://web.ee.tsinghua.edu.cn/lixueqing/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_乔飞_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "乔飞", "url": "http://web.ee.tsinghua.edu.cn/qiaofei/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_王鹏军_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "王鹏军", "url": "http://web.ee.tsinghua.edu.cn/wangpengjun/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_颜深根_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "颜深根", "url": "http://web.ee.tsinghua.edu.cn/yanshengen/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_宁雪妃_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "宁雪妃", "url": "http://web.ee.tsinghua.edu.cn/ningxuefei/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_余金城_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "余金城", "url": "http://web.ee.tsinghua.edu.cn/yujincheng/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_仲易_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "仲易", "url": "http://web.ee.tsinghua.edu.cn/zhongyi/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_李刚_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "李刚", "url": "http://web.ee.tsinghua.edu.cn/ligang/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_刘瑜_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "刘瑜", "url": "http://web.ee.tsinghua.edu.cn/liuyu/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_陆明泉_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "陆明泉", "url": "http://web.ee.tsinghua.edu.cn/lumingquan/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_任勇_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "任勇", "url": "http://web.ee.tsinghua.edu.cn/renyong/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_沈渊_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "沈渊", "url": "http://web.ee.tsinghua.edu.cn/shenyuan/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_汤俊_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "汤俊", "url": "http://web.ee.tsinghua.edu.cn/tangjun/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_王剑_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "王剑", "url": "http://web.ee.tsinghua.edu.cn/wangjian2/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_姚铮_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "姚铮", "url": "http://web.ee.tsinghua.edu.cn/yaozheng/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_杨健_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "杨健", "url": "http://web.ee.tsinghua.edu.cn/yangjian/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_袁坚_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "袁坚", "url": "http://web.ee.tsinghua.edu.cn/yuanjian/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_张旭东_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "张旭东", "url": "http://web.ee.tsinghua.edu.cn/zhangxudong/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_刘刚_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "刘刚", "url": "http://web.ee.tsinghua.edu.cn/liugang/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_王学谦_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "王学谦", "url": "http://web.ee.tsinghua.edu.cn/wangxueqian/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_王钺_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "王钺", "url": "http://web.ee.tsinghua.edu.cn/wangyue/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_姚权铭_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "姚权铭", "url": "http://web.ee.tsinghua.edu.cn/yaoquanming/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_王磊_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "王磊", "url": "http://web.ee.tsinghua.edu.cn/wanglei/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_徐丰力_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "徐丰力", "url": "http://web.ee.tsinghua.edu.cn/xufengli/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_邓北星_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "邓北星", "url": "http://web.ee.tsinghua.edu.cn/dengbeixing/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_皇甫丽英_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "皇甫丽英", "url": "http://web.ee.tsinghua.edu.cn/huangfuliying/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_金平_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "金平", "url": "http://web.ee.tsinghua.edu.cn/jinping/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_凌丹_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "凌丹", "url": "http://web.ee.tsinghua.edu.cn/lingdan/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_孙忆南_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "孙忆南", "url": "http://web.ee.tsinghua.edu.cn/sunyinan/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_杨毅_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "杨毅", "url": "http://web.ee.tsinghua.edu.cn/yangyi/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_龚颖_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "龚颖", "url": "http://web.ee.tsinghua.edu.cn/gongying/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_郭欣_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "郭欣", "url": "http://web.ee.tsinghua.edu.cn/guoxin/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_王锐_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "王锐", "url": "http://web.ee.tsinghua.edu.cn/wangrui/zh_CN/index.htm", "status": "active"}
+{"id": "thu_faculty_陈道毅_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "陈道毅", "url": "http://www.sigs.tsinghua.edu.cn/cdy/main.htm", "status": "active"}
+{"id": "thu_faculty_陈博奎_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "陈博奎", "url": "http://www.sigs.tsinghua.edu.cn/cbk/main.htm", "status": "active"}
+{"id": "thu_faculty_程雪岷_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "程雪岷", "url": "http://www.sigs.tsinghua.edu.cn/cxm/main.htm", "status": "active"}
+{"id": "thu_faculty_成会明_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "成会明", "url": "http://www.sigs.tsinghua.edu.cn/chm/main.htm", "status": "active"}
+{"id": "thu_faculty_陈伟坚_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "陈伟坚", "url": "http://www.sigs.tsinghua.edu.cn/cwj/main.htm", "status": "active"}
+{"id": "thu_faculty_陈鑫磊_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "陈鑫磊", "url": "http://www.sigs.tsinghua.edu.cn/cxl/main.htm", "status": "active"}
+{"id": "thu_faculty_陈振_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "陈振", "url": "http://www.sigs.tsinghua.edu.cn/cz/main.htm", "status": "active"}
+{"id": "thu_faculty_曹顺翔_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "曹顺翔", "url": "http://www.sigs.tsinghua.edu.cn/csx/main.htm", "status": "active"}
+{"id": "thu_faculty_陈偲_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "陈偲", "url": "http://www.sigs.tsinghua.edu.cn/Chensi/main.htm", "status": "active"}
+{"id": "thu_faculty_付昊桓_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "付昊桓", "url": "http://www.sigs.tsinghua.edu.cn/fhh/main.htm", "status": "active"}
+{"id": "thu_faculty_管运涛_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "管运涛", "url": "http://www.sigs.tsinghua.edu.cn/gyt/main.htm", "status": "active"}
+{"id": "thu_faculty_高跃_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "高跃", "url": "http://www.sigs.tsinghua.edu.cn/gy/main.htm", "status": "active"}
+{"id": "thu_faculty_何永红_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "何永红", "url": "http://www.sigs.tsinghua.edu.cn/hyh/main.htm", "status": "active"}
+{"id": "thu_faculty_贺艳兵_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "贺艳兵", "url": "http://www.sigs.tsinghua.edu.cn/hyb/main.htm", "status": "active"}
+{"id": "thu_faculty_洪朝鹏_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "洪朝鹏", "url": "http://www.sigs.tsinghua.edu.cn/hcp/main.htm", "status": "active"}
+{"id": "thu_faculty_江勇_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "江勇", "url": "http://www.sigs.tsinghua.edu.cn/jy/main.htm", "status": "active"}
+{"id": "thu_faculty_金欣_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "金欣", "url": "http://www.sigs.tsinghua.edu.cn/jx/main.htm", "status": "active"}
+{"id": "thu_faculty_康飞宇_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "康飞宇", "url": "http://www.sigs.tsinghua.edu.cn/kfy/main.htm", "status": "active"}
+{"id": "thu_faculty_刘厚德_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "刘厚德", "url": "http://www.sigs.tsinghua.edu.cn/lhd/main.htm", "status": "active"}
+{"id": "thu_faculty_李佳_003", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "李佳", "url": "http://www.sigs.tsinghua.edu.cn/lj/main.htm", "status": "active"}
+{"id": "thu_faculty_李秀_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "李秀", "url": "http://www.sigs.tsinghua.edu.cn/lx/main.htm", "status": "active"}
+{"id": "thu_faculty_廖庆敏_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "廖庆敏", "url": "http://www.sigs.tsinghua.edu.cn/lqm/main.htm", "status": "active"}
+{"id": "thu_faculty_李晓岩_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "李晓岩", "url": "http://www.sigs.tsinghua.edu.cn/lxy/main.htm", "status": "active"}
+{"id": "thu_faculty_李阳_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "李阳", "url": "http://www.sigs.tsinghua.edu.cn/ly/main.htm", "status": "active"}
+{"id": "thu_faculty_马辉_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "马辉", "url": "http://www.sigs.tsinghua.edu.cn/mh/main.htm", "status": "active"}
+{"id": "thu_faculty_戚铭尧_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "戚铭尧", "url": "http://www.sigs.tsinghua.edu.cn/qmy/main.htm", "status": "active"}
+{"id": "thu_faculty_陶益_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "陶益", "url": "http://www.sigs.tsinghua.edu.cn/ty/main.htm", "status": "active"}
+{"id": "thu_faculty_王好谦_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "王好谦", "url": "http://www.sigs.tsinghua.edu.cn/whq/main.htm", "status": "active"}
+{"id": "thu_faculty_王学谦_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "王学谦", "url": "http://www.sigs.tsinghua.edu.cn/wxq/main.htm", "status": "active"}
+{"id": "thu_faculty_夏树涛_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "夏树涛", "url": "http://www.sigs.tsinghua.edu.cn/xst/main.htm", "status": "active"}
+{"id": "thu_faculty_杨余久_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "杨余久", "url": "http://www.sigs.tsinghua.edu.cn/yyj/main.htm", "status": "active"}
+{"id": "thu_faculty_袁春_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "袁春", "url": "http://www.sigs.tsinghua.edu.cn/yc2/main.htm", "status": "active"}
+{"id": "thu_faculty_周光敏_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "周光敏", "url": "http://www.sigs.tsinghua.edu.cn/zgm/main.htm", "status": "active"}
+{"id": "thu_faculty_张灿荣_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "张灿荣", "url": "http://www.sigs.tsinghua.edu.cn/zcr/main.htm", "status": "active"}
+{"id": "thu_faculty_郑海涛_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "郑海涛", "url": "http://www.sigs.tsinghua.edu.cn/zht/main.htm", "status": "active"}
+{"id": "thu_faculty_张锡辉_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "张锡辉", "url": "http://www.sigs.tsinghua.edu.cn/zxh/main.htm", "status": "active"}
+{"id": "thu_faculty_丁文伯_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "丁文伯", "url": "http://www.sigs.tsinghua.edu.cn/dwb/main.htm", "status": "active"}
+{"id": "thu_faculty_董宇涵_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "董宇涵", "url": "http://www.sigs.tsinghua.edu.cn/dyh/main.htm", "status": "active"}
+{"id": "thu_faculty_冯峰_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "冯峰", "url": "http://www.sigs.tsinghua.edu.cn/ff/main.htm", "status": "active"}
+{"id": "thu_faculty_冯海刚_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "冯海刚", "url": "http://www.sigs.tsinghua.edu.cn/fhg/main.htm", "status": "active"}
+{"id": "thu_faculty_付红岩_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "付红岩", "url": "http://www.sigs.tsinghua.edu.cn/fhy/main.htm", "status": "active"}
+{"id": "thu_faculty_郭宇韬_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "郭宇韬", "url": "http://www.sigs.tsinghua.edu.cn/gyt2/main.htm", "status": "active"}
+{"id": "thu_faculty_韩三阳_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "韩三阳", "url": "http://www.sigs.tsinghua.edu.cn/hsy/main.htm", "status": "active"}
+{"id": "thu_faculty_韩宇星_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "韩宇星", "url": "http://www.sigs.tsinghua.edu.cn/hyx2/main.htm", "status": "active"}
+{"id": "thu_faculty_黄绍伦_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "黄绍伦", "url": "http://www.sigs.tsinghua.edu.cn/hsl/main.htm", "status": "active"}
+{"id": "thu_faculty_黄跃飞_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "黄跃飞", "url": "http://www.sigs.tsinghua.edu.cn/hyf/main.htm", "status": "active"}
+{"id": "thu_faculty_李勃_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "李勃", "url": "http://www.sigs.tsinghua.edu.cn/lb/main.htm", "status": "active"}
+{"id": "thu_faculty_刘峰_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "刘峰", "url": "http://www.sigs.tsinghua.edu.cn/lf/main.htm", "status": "active"}
+{"id": "thu_faculty_李丘林_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "李丘林", "url": "http://www.sigs.tsinghua.edu.cn/lql/main.htm", "status": "active"}
+{"id": "thu_faculty_李星辉_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "李星辉", "url": "http://www.sigs.tsinghua.edu.cn/lxh/main.htm", "status": "active"}
+{"id": "thu_faculty_李志恒_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "李志恒", "url": "http://www.sigs.tsinghua.edu.cn/lzh/main.htm", "status": "active"}
+{"id": "thu_faculty_麦宋平_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "麦宋平", "url": "http://www.sigs.tsinghua.edu.cn/msp/main.htm", "status": "active"}
+{"id": "thu_faculty_倪凯_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "倪凯", "url": "http://www.sigs.tsinghua.edu.cn/nk/main.htm", "status": "active"}
+{"id": "thu_faculty_钱翔_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "钱翔", "url": "http://www.sigs.tsinghua.edu.cn/qx/main.htm", "status": "active"}
+{"id": "thu_faculty_宋清华_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "宋清华", "url": "http://www.sigs.tsinghua.edu.cn/sqh/main.htm", "status": "active"}
+{"id": "thu_faculty_苏萍_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "苏萍", "url": "http://www.sigs.tsinghua.edu.cn/sp_548/main.htm", "status": "active"}
+{"id": "thu_faculty_唐仙_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "唐仙", "url": "http://www.sigs.tsinghua.edu.cn/tx/main.htm", "status": "active"}
+{"id": "thu_faculty_王飞_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "王飞", "url": "http://www.sigs.tsinghua.edu.cn/wf/main.htm", "status": "active"}
+{"id": "thu_faculty_王智_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "王智", "url": "http://www.sigs.tsinghua.edu.cn/wz/main.htm", "status": "active"}
+{"id": "thu_faculty_吴志勇_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "吴志勇", "url": "http://www.sigs.tsinghua.edu.cn/zywu/main.htm", "status": "active"}
+{"id": "thu_faculty_肖喜_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "肖喜", "url": "http://www.sigs.tsinghua.edu.cn/xx_443/main.htm", "status": "active"}
+{"id": "thu_faculty_许银亮_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "许银亮", "url": "http://www.sigs.tsinghua.edu.cn/xyl/main.htm", "status": "active"}
+{"id": "thu_faculty_杨朋_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "杨朋", "url": "http://www.sigs.tsinghua.edu.cn/yp/main.htm", "status": "active"}
+{"id": "thu_faculty_杨文明_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "杨文明", "url": "http://www.sigs.tsinghua.edu.cn/ywm/main.htm", "status": "active"}
+{"id": "thu_faculty_余泉_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "余泉", "url": "http://www.sigs.tsinghua.edu.cn/yq/main.htm", "status": "active"}
+{"id": "thu_faculty_张凯_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "张凯", "url": "http://www.sigs.tsinghua.edu.cn/zk/main.htm", "status": "active"}
+{"id": "thu_faculty_曾龙_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "曾龙", "url": "http://www.sigs.tsinghua.edu.cn/cl/main.htm", "status": "active"}
+{"id": "thu_faculty_张旻_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "张旻", "url": "http://www.sigs.tsinghua.edu.cn/zm/main.htm", "status": "active"}
+{"id": "thu_faculty_周倩_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "周倩", "url": "http://www.sigs.tsinghua.edu.cn/zq/main.htm", "status": "active"}
+{"id": "thu_faculty_陈偲_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "陈偲", "url": "http://www.sigs.tsinghua.edu.cn/cs/main.htm", "status": "active"}
+{"id": "thu_faculty_陈龙_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "陈龙", "url": "http://www.sigs.tsinghua.edu.cn/chenlong/main.htm", "status": "active"}
+{"id": "thu_faculty_邓敏聪_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "邓敏聪", "url": "http://www.sigs.tsinghua.edu.cn/dmc/main.htm", "status": "active"}
+{"id": "thu_faculty_董恺琛_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "董恺琛", "url": "http://www.sigs.tsinghua.edu.cn/dkc/main.htm", "status": "active"}
+{"id": "thu_faculty_方可_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "方可", "url": "http://www.sigs.tsinghua.edu.cn/fk_4679/main.htm", "status": "active"}
+{"id": "thu_faculty_关迅_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "关迅", "url": "http://www.sigs.tsinghua.edu.cn/gx/main.psp", "status": "active"}
+{"id": "thu_faculty_高子琪_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "高子琪", "url": "http://www.sigs.tsinghua.edu.cn/gzq/main.psp", "status": "active"}
+{"id": "thu_faculty_何健_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "何健", "url": "http://www.sigs.tsinghua.edu.cn/hj/main.htm", "status": "active"}
+{"id": "thu_faculty_黄儒麒_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "黄儒麒", "url": "http://www.sigs.tsinghua.edu.cn/hrq/main.htm", "status": "active"}
+{"id": "thu_faculty_刘振宇_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "刘振宇", "url": "http://www.sigs.tsinghua.edu.cn/lzy/main.psp", "status": "active"}
+{"id": "thu_faculty_李唯嘉_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "李唯嘉", "url": "http://www.sigs.tsinghua.edu.cn/lwj/main.psp", "status": "active"}
+{"id": "thu_faculty_倪峙旭_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "倪峙旭", "url": "http://www.sigs.tsinghua.edu.cn/nzx/main.htm", "status": "active"}
+{"id": "thu_faculty_沈欣炜_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "沈欣炜", "url": "http://www.sigs.tsinghua.edu.cn/sxw/main.htm", "status": "active"}
+{"id": "thu_faculty_孙波_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "孙波", "url": "http://www.sigs.tsinghua.edu.cn/sb/main.htm", "status": "active"}
+{"id": "thu_faculty_孙兴_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "孙兴", "url": "http://www.sigs.tsinghua.edu.cn/sx/main.htm", "status": "active"}
+{"id": "thu_faculty_唐彦嵩_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "唐彦嵩", "url": "http://www.sigs.tsinghua.edu.cn/tys/main.htm", "status": "active"}
+{"id": "thu_faculty_王晓智_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "王晓智", "url": "http://www.sigs.tsinghua.edu.cn/wxz/main.psp", "status": "active"}
+{"id": "thu_faculty_徐科_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "徐科", "url": "http://www.sigs.tsinghua.edu.cn/xk/main.htm", "status": "active"}
+{"id": "thu_faculty_于超_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "于超", "url": "http://www.sigs.tsinghua.edu.cn/yc1_8831/main.psp", "status": "active"}
+{"id": "thu_faculty_尹芳辉_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "尹芳辉", "url": "http://www.sigs.tsinghua.edu.cn/yfh/main.htm", "status": "active"}
+{"id": "thu_faculty_詹靖涛_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "詹靖涛", "url": "http://www.sigs.tsinghua.edu.cn/zjt/main.psp", "status": "active"}
+{"id": "thu_faculty_周天启_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "周天启", "url": "http://www.sigs.tsinghua.edu.cn/ztq/main.htm", "status": "active"}
+{"id": "thu_faculty_张行健_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "张行健", "url": "http://www.sigs.tsinghua.edu.cn/zxj/main.htm", "status": "active"}
+{"id": "thu_faculty_曲钧天_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "曲钧天", "url": "http://www.sigs.tsinghua.edu.cn/qjt/main.htm", "status": "active"}
+{"id": "thu_faculty_jianhua_feng_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "Jianhua FENG", "url": "http://dbgroup.cs.tsinghua.edu.cn/", "status": "active"}
+{"id": "thu_faculty_guoliang_li_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "Guoliang LI", "url": "https://dbgroup.cs.tsinghua.edu.cn/ligl/", "status": "active"}
+{"id": "thu_faculty_juanzi_li_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "Juanzi LI", "url": "http://keg.cs.tsinghua.edu.cn/persons/ljz", "status": "active"}
+{"id": "thu_faculty_jianyong_wang_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "Jianyong WANG", "url": "http://dbgroup.cs.tsinghua.edu.cn/wangjy", "status": "active"}
+{"id": "thu_faculty_bin_xu_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "Bin XU", "url": "http://keg.cs.tsinghua.edu.cn/person/xubin/", "status": "active"}
+{"id": "thu_faculty_yu_chen_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "Yu CHEN", "url": "http://soft.cs.tsinghua.edu.cn/~chen", "status": "active"}
+{"id": "thu_faculty_jiannan_wang_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "Jiannan Wang", "url": "https://dbgroup.cs.tsinghua.edu.cn/jnwang", "status": "active"}
+{"id": "thu_faculty_zhiyuan_liu_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "Zhiyuan Liu", "url": "http://nlp.csai.tsinghua.edu.cn/~lzy/", "status": "active"}
+{"id": "thu_faculty_zhiyuan_liu_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "Zhiyuan Liu", "url": "https://lzy.thunlp.org/", "status": "active"}
+{"id": "thu_faculty_minlie_huang_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "Minlie HUANG", "url": "https://coai.cs.tsinghua.edu.cn/hml/", "status": "active"}
+{"id": "thu_faculty_yang_liu_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "Yang Liu", "url": "http://nlp.csai.tsinghua.edu.cn/~ly/", "status": "active"}
+{"id": "thu_faculty_yang_liu_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "Yang Liu", "url": "https://nlp.csai.tsinghua.edu.cn/~ly/index.html", "status": "active"}
+{"id": "thu_faculty_yiqun_liu_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "Yiqun LIU", "url": "https://www.thuir.cn/people/", "status": "active"}
+{"id": "thu_faculty_haojie_wang_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "Haojie WANG", "url": "https://pacman.cs.tsinghua.edu.cn/~cwg/author/haojie-wang/", "status": "active"}
+{"id": "thu_faculty_jia_jia_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "Jia JIA", "url": "http://hcsi.cs.tsinghua.edu.cn/jiajia", "status": "active"}
+{"id": "thu_faculty_jia_jia_002", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "Jia JIA", "url": "https://hcsi.cs.tsinghua.edu.cn/", "status": "active"}
+{"id": "thu_faculty_yuanchun_shi_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "Yuanchun SHI", "url": "https://pi.cs.tsinghua.edu.cn/people/", "status": "active"}
+{"id": "thu_faculty_lifeng_sun_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "Lifeng SUN", "url": "https://thu.media/team", "status": "active"}
+{"id": "thu_faculty_junliang_xing_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "Junliang XING", "url": "https://pi.cs.tsinghua.edu.cn/people/#faculty", "status": "active"}
+{"id": "thu_faculty_peng_cui_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "Peng CUI", "url": "http://pengcui.thumedialab.com/", "status": "active"}
+{"id": "thu_faculty_taijiang_mu_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "Taijiang MU", "url": "https://cg.cs.tsinghua.edu.cn/people/~mtj/", "status": "active"}
+{"id": "thu_faculty_yuntao_wang_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "Yuntao WANG", "url": "https://pi.cs.tsinghua.edu.cn/lab/people/YuntaoWang/zh/", "status": "active"}
+{"id": "thu_faculty_kun_xu_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "Kun XU", "url": "https://cg.cs.tsinghua.edu.cn/people/~kun/", "status": "active"}
+{"id": "thu_faculty_chun_yu_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "Chun YU", "url": "https://pi.cs.tsinghua.edu.cn/lab/people/ChunYu/", "status": "active"}
+{"id": "thu_faculty_yuan_meng_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "Yuan Meng", "url": "https://mengyuan404.github.io/", "status": "active"}
+{"id": "thu_faculty_shaoping_ma_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "Shaoping MA", "url": "http://www.thuir.cn/", "status": "active"}
+{"id": "thu_faculty_maosong_sun_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "Maosong SUN", "url": "http://nlp.csai.tsinghua.edu.cn", "status": "active"}
+{"id": "thu_faculty_min_zhang_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "Min ZHANG", "url": "http://www.thuir.cn/group/~mzhang/", "status": "active"}
+{"id": "thu_faculty_xiaolin_hu_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "Xiaolin HU", "url": "http://www.xlhu.cn", "status": "active"}
+{"id": "thu_faculty_haixin_duan_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "Haixin DUAN", "url": "https://duanhaixin.cn/", "status": "active"}
+{"id": "thu_faculty_dan_li_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "Dan LI", "url": "http://nasp.cs.tsinghua.edu.cn/lidan.html", "status": "active"}
+{"id": "thu_faculty_ke_xu_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "Ke XU", "url": "http://thucsnet.com/", "status": "active"}
+{"id": "thu_faculty_qi_li_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "Qi Li", "url": "http://netsec.ccert.edu.cn/people/qli", "status": "active"}
+{"id": "thu_faculty_dan_pei_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "Dan PEI", "url": "https://netman.aiops.org/~peidan", "status": "active"}
+{"id": "thu_faculty_yuan_yang_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "Yuan Yang", "url": "http://routing.netlab.tsinghua.edu.cn/tiki-index.php?page=Yuan+Yang", "status": "active"}
+{"id": "thu_faculty_xiaohui_xie_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "Xiaohui Xie", "url": "https://thuxiexiaohui.github.io/", "status": "active"}
+{"id": "thu_faculty_guiguang_ding_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "Guiguang DING", "url": "http://ise.thss.tsinghua.edu.cn/MIG/", "status": "active"}
+{"id": "thu_faculty_yushen_liu_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "Yushen LIU", "url": "https://yushen-liu.github.io/", "status": "active"}
+{"id": "thu_faculty_feng_xu_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "Feng XU", "url": "http://xufeng.site/", "status": "active"}
+{"id": "thu_faculty_yuan_he_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "Yuan HE", "url": "http://tns.thss.tsinghua.edu.cn/sun/", "status": "active"}
+{"id": "thu_faculty_peng_li_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "Peng Li", "url": "http://www.lpeng.net", "status": "active"}
+{"id": "thu_faculty_yuanchun_li_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "Yuanchun Li", "url": "https://yuanchun-li.github.io", "status": "active"}
+{"id": "thu_faculty_yan_wang_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "Yan Wang", "url": "https://yanwang202199.github.io", "status": "active"}
+{"id": "thu_faculty_yang_gao_001", "batch": "thu_202605", "university": "清华大学", "source_type": "faculty", "name": "Yang Gao", "url": "http://people.iiis.tsinghua.edu.cn/~gaoyang/yang-gao.weebly.com/index.html", "status": "active"}
+{"id": "thu_lab_thufv_lab_formal_verification_001", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "THUFV Lab (Formal Verification)", "url": "https://thufv.github.io/", "status": "active"}
+{"id": "thu_lab_thucloud_lab_mobile_cloud_computing_001", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "THUCloud Lab (Mobile Cloud Computing)", "url": "https://www.thucloud.com/join.html", "status": "active"}
+{"id": "thu_lab_delta_i_lab_multi_agent_systems_001", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "Delta-I Lab (Multi-Agent Systems)", "url": "https://collegeai.tsinghua.edu.cn/kxyj/ktzjs/Delta_I_Lab_.htm", "status": "active"}
+{"id": "thu_lab_pais_lab_physics_aware_intelligence_001", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "PAIS Lab (Physics-Aware Intelligence)", "url": "https://collegeai.tsinghua.edu.cn/kxyj/ktzjs/kxznywlgzsys.htm", "status": "active"}
+{"id": "thu_lab_ideal_lab_data_centric_architecture_001", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "IDEAL Lab (Data-centric Architecture)", "url": "https://iiis.tsinghua.edu.cn/kxyj/ktzjs/IDEAL__Innovative_Data_centric_Efficient_Architect.htm", "status": "active"}
+{"id": "thu_lab_storage_research_group_001", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "Storage Research Group", "url": "http://storage.cs.tsinghua.edu.cn/", "status": "active"}
+{"id": "thu_lab_storage_research_group_002", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "Storage Research Group", "url": "https://storage.cs.tsinghua.edu.cn/vacancies", "status": "active"}
+{"id": "thu_lab_pacman_group_hpc_compilers_001", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "PACMAN Group (HPC/Compilers)", "url": "http://pacman.cs.tsinghua.edu.cn/", "status": "active"}
+{"id": "thu_lab_pacman_group_hpc_compilers_002", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "PACMAN Group (HPC/Compilers)", "url": "https://pacman.cs.tsinghua.edu.cn/recruit", "status": "active"}
+{"id": "thu_lab_具身智能实验室_embodied_intelligence_001", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "具身智能实验室 (Embodied Intelligence)", "url": "https://iiis.tsinghua.edu.cn/kxyj/ktzjs/qhdxjsznsys.htm", "status": "active"}
+{"id": "thu_lab_三维视觉与机器智能实验室_3d_vision_robot_intelligence_001", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "三维视觉与机器智能实验室 (3D Vision & Robot Intelligence)", "url": "https://iiis.tsinghua.edu.cn/kxyj/ktzjs/swsjjsyjqznsys.htm", "status": "active"}
+{"id": "thu_lab_天马行空研究组_ai_safety_001", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "天马行空研究组 (AI Safety)", "url": "https://iiis.tsinghua.edu.cn/kxyj/ktzjs/qhdxtmxkyjz.htm", "status": "active"}
+{"id": "thu_lab_离子与金刚石量子信息研究组_001", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "离子与金刚石量子信息研究组", "url": "https://iiis.tsinghua.edu.cn/kxyj/ktzjs/lzyjgslzxxyjz.htm", "status": "active"}
+{"id": "thu_lab_ai_theory_group_ml_theory_001", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "AI Theory Group (ML Theory)", "url": "https://iiis.tsinghua.edu.cn/kxyj/ktzjs/AI_Theory_Group.htm", "status": "active"}
+{"id": "thu_lab_embryo_labs_database_systems_001", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "Embryo Labs (Database Systems)", "url": "https://iiis.tsinghua.edu.cn/kxyj/ktzjs/Embryo_Labs.htm", "status": "active"}
+{"id": "thu_lab_徐葳课题组_ai_security_systems_001", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "徐葳课题组 (AI Security & Systems)", "url": "https://iiis.tsinghua.edu.cn/kxyj/ktzjs/xuwei_0709_CN.htm", "status": "active"}
+{"id": "thu_lab_sun_group_ubiquitous_networking_001", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "SUN Group (Ubiquitous Networking)", "url": "https://tns.thss.tsinghua.edu.cn/sun/", "status": "active"}
+{"id": "thu_lab_coai_conversational_ai_001", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "CoAI (Conversational AI)", "url": "https://coai.cs.tsinghua.edu.cn/", "status": "active"}
+{"id": "thu_lab_coai_conversational_ai_002", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "CoAI (Conversational AI)", "url": "https://coai.cs.tsinghua.edu.cn/recruit", "status": "active"}
+{"id": "thu_lab_limit_imaging_intelligent_technology_001", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "LImIT (Imaging & Intelligent Technology)", "url": "https://media.au.tsinghua.edu.cn/", "status": "active"}
+{"id": "thu_lab_limit_imaging_intelligent_technology_002", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "LImIT (Imaging & Intelligent Technology)", "url": "https://media.au.tsinghua.edu.cn/index/Recruitment.htm", "status": "active"}
+{"id": "thu_lab_t_star_lab_ai_safety_001", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "T-STAR Lab (AI Safety)", "url": "https://collegeai.tsinghua.edu.cn/kxyj/ktzjs/T_STAR_Lab.htm", "status": "active"}
+{"id": "thu_lab_lamb_lab_learning_systems_001", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "Lamb Lab (Learning Systems)", "url": "https://collegeai.tsinghua.edu.cn/kxyj/ktzjs/Lamb_Lab.htm", "status": "active"}
+{"id": "thu_lab_neuroai_lab_001", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "NeuroAI Lab", "url": "https://collegeai.tsinghua.edu.cn/kxyj/ktzjs/NeuroAI_Lab__AI___Neuroscience_.htm", "status": "active"}
+{"id": "thu_lab_李欣阳课题组_intelligent_imaging_001", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "李欣阳课题组 (Intelligent Imaging)", "url": "https://collegeai.tsinghua.edu.cn/kxyj/ktzjs/lxyktz.htm", "status": "active"}
+{"id": "thu_lab_ai_agent课题组_001", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "AI Agent课题组", "url": "https://collegeai.tsinghua.edu.cn/kxyj/ktzjs/AI_Agentktz.htm", "status": "active"}
+{"id": "thu_lab_meow_lab_egocentric_vision_001", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "MEOW LAB (Egocentric Vision)", "url": "https://collegeai.tsinghua.edu.cn/kxyj/ktzjs/MEOW_LAB_Modeling_Egocentric_Omniscient_Worlds_.htm", "status": "active"}
+{"id": "thu_lab_多模态智能课题组_multimodal_intelligence_001", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "多模态智能课题组 (Multimodal Intelligence)", "url": "https://collegeai.tsinghua.edu.cn/kxyj/ktzjs/dmtznktz.htm", "status": "active"}
+{"id": "thu_lab_交互式具身智能课题组_001", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "交互式具身智能课题组", "url": "https://collegeai.tsinghua.edu.cn/kxyj/ktzjs/jhsjsznktz.htm", "status": "active"}
+{"id": "thu_lab_结构表征学习实验室_001", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "结构表征学习实验室", "url": "https://collegeai.tsinghua.edu.cn/kxyj/ktzjs/jgbzxxsys.htm", "status": "active"}
+{"id": "thu_lab_liu_lab_ai_science_001", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "LIU lab (AI+Science)", "url": "https://collegeai.tsinghua.edu.cn/kxyj/ktzjs/liulab.htm", "status": "active"}
+{"id": "thu_lab_决策智能实验室_decision_intelligence_001", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "决策智能实验室 (Decision Intelligence)", "url": "https://iiis.tsinghua.edu.cn/kxyj/ktzjs/jcznsys.htm", "status": "active"}
+{"id": "thu_lab_李建课题组_001", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "李建课题组", "url": "https://iiis.tsinghua.edu.cn/kxyj/ktzjs/ljktz.htm", "status": "active"}
+{"id": "thu_lab_量子信息科学小组_001", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "量子信息科学小组", "url": "https://iiis.tsinghua.edu.cn/kxyj/ktzjs/lzxxkxxz.htm", "status": "active"}
+{"id": "thu_lab_超导量子计算_001", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "超导量子计算", "url": "https://iiis.tsinghua.edu.cn/kxyj/ktzjs/cdlzjs.htm", "status": "active"}
+{"id": "thu_lab_邓东灵课题组_001", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "邓东灵课题组", "url": "https://iiis.tsinghua.edu.cn/kxyj/ktzjs/ddlktz.htm", "status": "active"}
+{"id": "thu_lab_算法理论_algorithm_theory_001", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "算法理论 (Algorithm Theory)", "url": "https://iiis.tsinghua.edu.cn/kxyj/ktzjs/sfll.htm", "status": "active"}
+{"id": "thu_lab_archip_lab_001", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "ARChip Lab", "url": "https://iiis.tsinghua.edu.cn/kxyj/ktzjs/ARChip_Lab.htm", "status": "active"}
+{"id": "thu_lab_徐勇课题组_001", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "徐勇课题组", "url": "https://iiis.tsinghua.edu.cn/kxyj/ktzjs/xyktz__lzxx_njtwl.htm", "status": "active"}
+{"id": "thu_lab_陈建宇课题组_001", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "陈建宇课题组", "url": "https://iiis.tsinghua.edu.cn/kxyj/ktzjs/cjyktz.htm", "status": "active"}
+{"id": "thu_lab_iiis密码学学习小组_001", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "IIIS密码学学习小组", "url": "https://iiis.tsinghua.edu.cn/kxyj/ktzjs/IIISmmxxxxz.htm", "status": "active"}
+{"id": "thu_lab_房智轩课题组_001", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "房智轩课题组", "url": "https://iiis.tsinghua.edu.cn/kxyj/ktzjs/fzxktz.htm", "status": "active"}
+{"id": "thu_lab_视觉与机器人实验室_var_001", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "视觉与机器人实验室 VAR", "url": "https://iiis.tsinghua.edu.cn/kxyj/ktzjs/sjyjqrsys_VAR_.htm", "status": "active"}
+{"id": "thu_lab_机器学习基础研究实验室_001", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "机器学习基础研究实验室", "url": "https://iiis.tsinghua.edu.cn/kxyj/ktzjs/jqxxjcyjsys.htm", "status": "active"}
+{"id": "thu_lab_离子原子量子网络与量子计算_001", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "离子原子量子网络与量子计算", "url": "https://iiis.tsinghua.edu.cn/kxyj/ktzjs/lzyzlzwlylzjs.htm", "status": "active"}
+{"id": "thu_lab_宋一凡课题组_001", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "宋一凡课题组", "url": "https://iiis.tsinghua.edu.cn/kxyj/ktzjs/syflsktz.htm", "status": "active"}
+{"id": "thu_lab_量子计算物理实现与量子信息理论_001", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "量子计算物理实现与量子信息理论", "url": "https://iiis.tsinghua.edu.cn/kxyj/ktzjs/lzjswlsxylzxxll.htm", "status": "active"}
+{"id": "thu_lab_结构智能_structural_intelligence_001", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "结构智能 (Structural Intelligence)", "url": "https://iiis.tsinghua.edu.cn/kxyj/ktzjs/jgzn.htm", "status": "active"}
+{"id": "thu_lab_赵行课题组_001", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "赵行课题组", "url": "https://iiis.tsinghua.edu.cn/kxyj/ktzjs/zxktz.htm", "status": "active"}
+{"id": "thu_lab_db_group_database_001", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "DB Group (Database)", "url": "http://dbgroup.cs.tsinghua.edu.cn/", "status": "active"}
+{"id": "thu_lab_numbda_lab_001", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "NumbDA Lab", "url": "http://numbda.cs.tsinghua.edu.cn/", "status": "active"}
+{"id": "thu_lab_madsys_lab_ml_ai_systems_001", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "MADSys Lab (ML/AI Systems)", "url": "http://madsys.cs.tsinghua.edu.cn/", "status": "active"}
+{"id": "thu_lab_craft_lab_neuromorphic_computing_001", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "CRAFT Lab (Neuromorphic Computing)", "url": "https://craft.cs.tsinghua.edu.cn/", "status": "active"}
+{"id": "thu_lab_alchem_lab_architecture_001", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "ALCHEM Lab (Architecture)", "url": "https://alchem.cs.tsinghua.edu.cn", "status": "active"}
+{"id": "thu_lab_thuir_information_retrieval_001", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "THUIR (Information Retrieval)", "url": "http://www.thuir.cn/", "status": "active"}
+{"id": "thu_lab_thunlp_nlp_lab_001", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "THUNLP (NLP Lab)", "url": "https://nlp.csai.tsinghua.edu.cn/", "status": "active"}
+{"id": "thu_lab_tim_group_ai_biomedicine_001", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "Tim Group (AI+Biomedicine)", "url": "http://timlab.cn/", "status": "active"}
+{"id": "thu_lab_mig_multimedia_intelligence_001", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "MIG (Multimedia Intelligence)", "url": "https://ise.thss.tsinghua.edu.cn/MIG/index.html", "status": "active"}
+{"id": "thu_lab_ise_information_systems_engineering_001", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "ISE (Information Systems & Engineering)", "url": "http://ise.thss.tsinghua.edu.cn/", "status": "active"}
+{"id": "thu_lab_thuiar_intelligent_information_processing_001", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "THUIAR (Intelligent Information Processing)", "url": "https://thuiar.github.io/", "status": "active"}
+{"id": "thu_lab_大眼睛实验室_pattern_recognition_ml_001", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "大眼睛实验室 (Pattern Recognition & ML)", "url": "https://bigeye.au.tsinghua.edu.cn/", "status": "active"}
+{"id": "thu_lab_ivg_intelligent_vision_group_001", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "IVG (Intelligent Vision Group)", "url": "http://ivg.au.tsinghua.edu.cn/", "status": "active"}
+{"id": "thu_lab_limit_imaging_intelligent_technology_003", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "LImIT (Imaging & Intelligent Technology)", "url": "https://media.au.tsinghua.edu.cn/", "status": "active"}
+{"id": "thu_lab_知识工程研究中心_sigs_keg_001", "batch": "thu_202605", "university": "清华大学", "source_type": "lab", "name": "知识工程研究中心 (SIGS KEG)", "url": "https://ke.sigs.tsinghua.edu.cn/", "status": "active"}

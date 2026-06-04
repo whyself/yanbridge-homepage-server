@@ -1,0 +1,78 @@
+# Shanghai Jiao Tong University Clean Lab URLs
+
+- BIS Lab
+  - https://bislab.sjtu.edu.cn/join/join.html
+- Machine Vision and Intelligence Group
+  - https://www.mvig.org/
+- MSPM
+  - https://mspm.sjtu.edu.cn/info/1012/1212.htm
+- SJTU Character Lab
+  - https://sjtu-characterlab.github.io/
+- Think Lab
+  - https://thinklab.sjtu.edu.cn/
+- QSIP
+  - https://qsip.sjtu.edu.cn/info/1080/2055.htm
+- Swarm Intelligence Laboratory
+  - https://shaohaibin.github.io/opening/
+- 上海交通大学智能无线网络与协同控制中心
+  - https://iwin.sjtu.edu.cn/Web/Content/44
+- 自主机器人实验室
+  - https://robotics.sjtu.edu.cn/
+- 上海交通大学杨天研究组 / 纳米光子学实验室
+  - https://yanglab.sjtu.edu.cn/Jiaru/Default.aspx
+- MediaBrain
+  - https://mediabrain.sjtu.edu.cn/join-us/
+- DMCV Lab
+  - https://dmcv.sjtu.edu.cn/
+- AIRC 人工智能与机器人中心
+  - https://airc.sjtu.edu.cn/zszp.htm
+- AudioCC Lab
+  - https://audiocc.sjtu.edu.cn/zh/join-us
+- Decentralized Computing Lab (DCL)
+  - https://shengyunliu.github.io/
+- DeepDelta Lab
+  - https://deepdeltalab.github.io/vacancies
+- IWIN-FINS 何建平课题组
+  - https://iwin-fins.com/sciencex_event/for-prospective-students-updating/
+- Intelligent Computing Research Group (ICRG)
+  - https://elliothe.github.io/
+- Data Driven Software Technology Laboratory (DDST)
+  - https://www.hlpsjtu.cn/
+- MIFA Lab
+  - https://mifa.sjtu.edu.cn/
+- Complex Systems and Cognition Lab
+  - https://csc-lab.com/zh/post/postdoc-phd-position-open/
+- AISIG 云计算智能融合团队
+  - https://aisig.sjtu.edu.cn/join/
+- ScaleLab 空间认知与自动化学习实验室
+  - https://scalelab-sjtu.github.io/
+- NSEC / Network Security and Privacy Protection Lab
+  - https://nsec.sjtu.edu.cn/
+- CMaCH Lab
+  - https://cmach.sjtu.edu.cn/
+- Yulun Zhang Group
+  - https://yulunzhang.com/group/
+- Institute for Intelligent Computing (IIC@SJTU)
+  - https://iiclab.sjtu.edu.cn/index
+- IntelLiSim Lab
+  - https://lwkobe.github.io/
+- DAI Lab
+  - https://dai.sjtu.edu.cn/join.html
+- NLS / Navigation and Location Based Services Lab
+  - https://nls.sjtu.edu.cn/web/index
+- Sustainable Architecture and Intelligence Laboratory / SAIL
+  - https://www.cs.sjtu.edu.cn/sail/index.html
+- HIROL Lab
+  - https://hirol.sjtu.edu.cn
+- ISN / Institute for Sensing and Navigation
+  - https://isn.sjtu.edu.cn/
+- IBDS Lab
+  - https://ibdsys.sjtu.edu.cn
+- CSC-Lab Recruitment Post
+  - https://csc-lab.com/cardshow.htm
+- Ning's Group
+  - https://academic532.github.io/
+- GAIR / Generative Artificial Intelligence Research Lab
+  - https://plms.ai/
+- CyberC3 / SJTU Intelligent Vehicle Lab
+  - https://cyberc3.sjtu.edu.cn/
