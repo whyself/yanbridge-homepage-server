@@ -50,9 +50,17 @@ class LLMClient:
             action=raw.get("action", "keep"),
             title=raw.get("title", ""),
             category=raw.get("category"),
-            university_name=raw.get("university", ""),
-            school_name=raw.get("school", ""),
-            major_name=raw.get("major", ""),
+            university_name=raw.get("university_name") or raw.get("university", ""),
+            school_name=raw.get("school_name") or raw.get("school", ""),
+            lab_name=raw.get("lab_name", ""),
+            teacher_name_cn=raw.get("teacher_name_cn", ""),
+            teacher_name_en=raw.get("teacher_name_en", ""),
+            major_name=raw.get("major_name") or raw.get("major", ""),
+            email=raw.get("email", ""),
+            research_directions=_as_str_list(raw.get("research_directions")),
+            has_recruitment=bool(raw.get("has_recruitment", False)),
+            recruitment_text=raw.get("recruitment_text", ""),
+            evidence=_as_url_list(raw.get("evidence")),
             summary=raw.get("summary"),
             content=raw.get("content", ""),
             raw_response=raw,
@@ -141,3 +149,15 @@ class LLMClient:
                 text = re.sub(r"^```[a-z]*\s*", "", text)
                 text = re.sub(r"\s*```$", "", text)
             return text
+
+
+def _as_str_list(value: Any) -> list[str]:
+    if isinstance(value, list):
+        return [str(item).strip() for item in value if str(item).strip()]
+    if isinstance(value, str) and value.strip():
+        return [value.strip()]
+    return []
+
+
+def _as_url_list(value: Any) -> list[str]:
+    return [item for item in _as_str_list(value) if item.startswith(("http://", "https://"))]

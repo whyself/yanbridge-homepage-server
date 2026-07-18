@@ -7,36 +7,35 @@ from __future__ import annotations
 
 from ..models import LLMResult, Post, PostCategory, RawRecord, SourceType
 from .base import AbstractSourceAdapter
+SYSTEM_PROMPT = """你是一个高校教师/课题组主页信息抽取助手。
 
+目标：把页面抽取为 teacher_profiles 需要的简单结构。
 
+规则：
+1. 不要编造信息；找不到就填空字符串、空数组或 false。
+2. action 只表示是否有明确招生信息：有招生/招学生/招实习/招硕博则 keep，否则 irrelevant。
+3. teacher_name_cn 中文名；teacher_name_en 英文名。显示名默认使用 teacher_name_cn。
+4. evidence 必须是 URL 字符串数组，只放支持判断的页面 URL，不要放文本证据。
+5. research_directions 必须是字符串数组。
 
-
-SYSTEM_PROMPT = """你是一个学术信息分析助手。用户会给你一个高校教师/课题组主页的页面信息。
-
-请判断：
-1. （重要）如果不包含招生信息，则请过滤掉(irrelevant)；如果正文有明确招生信息（比如招收硕士/博士/本科科研实习等等）则保留
-2. 生成一个简洁标题（不超过50字），格式："{学校}{学院}{姓名/课题组}招生"，如"复旦大学计算机学院陈阳老师招收博士生"
-3. 从页面内容中提取以下信息（找不到填空字符串）：
-   - university: 学校名称
-   - school: 学院/系名称
-   - major: 专业/研究方向（可以是多个，用逗号分隔，取最核心的1-3个）
-4. 判断页面类别 category（四选一）：
-   - mentor_recruitment: 教师个人主页/课题组主页（绝大多数情况）
-   - student_application: 学生自荐页面
-   - project_cooperation: 项目合作/成果展示
-   - academic_exchange: 学术交流/会议信息
-5. 将页面正文改写为招生帖子格式，输出合法 markdown。要求：
-   - 保留原文关键信息（导师姓名、学校、专业方向、联系方式等）
-   - 保持原本的语言风格，使得改写（比如修正md格式，过滤无关信息）
-   - 不要编造原文中没有的事实信息
-
-严格以 JSON 格式返回，不要输出其他内容：
-{"action": "keep" | "irrelevant", "title": "生成的标题", "university": "", "school": "", "major": "", "category":, "summary": "摘要内容", "content": "改写后的招生帖正文(markdown)"}
-
-示例：
-- 复旦大学陈阳教授主页有招生信息 → {"action": "keep", "title": "复旦大学计算机学院陈阳老师主页", "university": "复旦大学", "school": "计算机科学技术学院", "major": "计算机网络,分布式系统", "category": "mentor_recruitment", "summary": "陈阳，复旦大学计算机学院教授。主要研究方向为计算机网络体系结构、分布式系统与云计算，课题组长期招收硕士和博士研究生。", "content": "## 复旦大学计算机学院陈阳老师招收研究生\\n\\n陈阳教授，博士生导师，就职于复旦大学计算机科学技术学院。\\n\\n### 研究方向\\n- 计算机网络体系结构\\n- 分布式系统与云计算\\n\\n### 招生要求\\n课题组长期招收硕士和博士研究生，欢迎对计算机网络、分布式系统感兴趣的同学联系。\\n\\n### 联系方式\\n详见主页..."}
-- 复旦大学陈阳教授主页没有招生信息 → {"action": "irrelevant", "title": "复旦大学计算机学院陈阳老师主页", "university": "复旦大学", "school": "计算机科学技术学院", "major": "计算机网络,分布式系统", "category": "mentor_recruitment", "summary": "陈阳，复旦大学计算机学院教授。主要研究方向为计算机网络体系结构、分布式系统与云计算，课题组长期招收硕士和博士研究生。", "content": ""}
-- 404/空白页 → {"action": "irrelevant", "title": "", "university": "", "school": "", "major": "", "category": "", "summary": "", "content": ""}"""
+严格返回 JSON，不要输出其他内容：
+{
+  "action": "keep|irrelevant",
+  "university_name": "",
+  "school_name": "",
+  "lab_name": "",
+  "teacher_name_cn": "",
+  "teacher_name_en": "",
+  "title": "",
+  "email": "",
+  "research_directions": [],
+  "has_recruitment": false,
+  "evidence": ["https://..."],
+  "summary": "",
+  "category": "mentor_recruitment",
+  "content": ""
+}
+"""
 
 
 class HomepageAdapter(AbstractSourceAdapter):
@@ -93,15 +92,17 @@ class HomepageAdapter(AbstractSourceAdapter):
         rewritten_content: str | None = None,
     ) -> Post:
         category = llm_result.category or PostCategory.MENTOR_RECRUITMENT
+        teacher_name = llm_result.teacher_name_cn or llm_result.teacher_name_en or extracted["name"]
+        title = llm_result.title or f"{llm_result.university_name or extracted['university']}{teacher_name}老师主页"
 
         post = Post(
             source_type=self.source_type,
             post_type="crawled_post",
-            title=llm_result.title or extracted["page_title"],
+            title=title,
             category=category,
             status="published",
             author_user_id=None,
-            summary=llm_result.summary or "",
+            summary=llm_result.summary or llm_result.recruitment_text or "",
             university_name=llm_result.university_name or extracted["university"],
             school_name=llm_result.school_name or None,
             major_name=llm_result.major_name or None,
@@ -121,7 +122,16 @@ class HomepageAdapter(AbstractSourceAdapter):
             "source_id": extracted["source_id"],
             "batch": extracted["batch"],
             "source_subtype": extracted["source_subtype"],  # faculty | lab
-            "name": extracted["name"],
+            "name": teacher_name,
+            "teacher_name": teacher_name,
+            "teacher_name_cn": llm_result.teacher_name_cn,
+            "teacher_name_en": llm_result.teacher_name_en,
+            "lab_name": llm_result.lab_name,
+            "email": llm_result.email,
+            "research_directions": llm_result.research_directions,
+            "has_recruitment": llm_result.has_recruitment,
+            "recruitment_text": llm_result.recruitment_text,
+            "evidence": llm_result.evidence,
             "requested_url": extracted["requested_url"],
             "final_url": extracted["final_url"],
             "page_title": extracted["page_title"],

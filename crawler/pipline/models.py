@@ -38,7 +38,15 @@ class LLMResult:
     category: str | None = None              # PostCategory 值
     university_name: str = ""
     school_name: str = ""
+    lab_name: str = ""
+    teacher_name_cn: str = ""
+    teacher_name_en: str = ""
     major_name: str = ""
+    email: str = ""
+    research_directions: list[str] = field(default_factory=list)
+    has_recruitment: bool = False
+    recruitment_text: str = ""
+    evidence: list[str] = field(default_factory=list)
     summary: str | None = None
     content: str = ""                        # LLM 改写后的招生帖子内容 (markdown)
     raw_response: dict[str, Any] = field(default_factory=dict)

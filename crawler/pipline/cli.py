@@ -18,8 +18,10 @@ Usage:
 from __future__ import annotations
 
 import argparse
+import asyncio
 import os
 import sys
+from pathlib import Path
 
 
 SOURCE_ALIASES = {
@@ -79,12 +81,49 @@ def cmd_run(args: argparse.Namespace) -> None:
 
     runner = PipelineRunner(config, source_type=source, enable_ocr=not args.no_ocr)
     try:
-        stats = runner.run(dry_run=args.dry_run, limit=args.limit)
+        stats = runner.run(dry_run=args.dry_run, limit=args.limit, workers=args.workers)
         if not args.dry_run:
             if stats["failed"] > 0:
                 sys.exit(1)
     finally:
         runner.close()
+
+
+def cmd_academic(args: argparse.Namespace) -> None:
+    _load_homepage_server_env()
+    model = args.model or os.environ.get("AGENT_MODEL", "") or "deepseek-v4-flash"
+    if _uses_deepseek_model(model) and not os.environ.get("DEEPSEEK_API_KEY", ""):
+        print("[错误] academic 会调用模型；使用 deepseek 模型时请设置环境变量 DEEPSEEK_API_KEY")
+        sys.exit(1)
+
+    if __package__:
+        from .academic_runner import amain as academic_amain
+    else:
+        from crawler.pipline.academic_runner import amain as academic_amain
+
+    # academic_runner owns its argparse for module usage. Rebuild sys.argv so the
+    # same implementation serves both entry points without duplicating options.
+    forwarded = [sys.argv[0]]
+    for flag, value in (
+        ("--limit", args.limit),
+        ("--source-id", args.source_id),
+        ("--max-text-chars", args.max_text_chars),
+        ("--model", args.model),
+        ("--workers", args.workers),
+        ("--jsonl-output", args.jsonl_output),
+    ):
+        if value:
+            forwarded.extend([flag, str(value)])
+    if args.include_processed:
+        forwarded.append("--include-processed")
+    if args.dry_run:
+        forwarded.append("--dry-run")
+    old_argv = sys.argv
+    try:
+        sys.argv = forwarded
+        asyncio.run(academic_amain())
+    finally:
+        sys.argv = old_argv
 
 
 def main() -> None:
@@ -114,10 +153,39 @@ def main() -> None:
         "--no-ocr", action="store_true",
         help="跳过图片 OCR，只使用文本内容进入 LLM",
     )
+    p_run.add_argument(
+        "--workers", type=int, default=1,
+        help="并行 worker 数；>1 时 worker 处理 LLM/OCR，父进程统一写库 (默认 1)",
+    )
     p_run.set_defaults(func=cmd_run)
+
+    p_academic = sub.add_parser("academic", help="Run Pydantic AI academic builder from homepage_raw_page")
+    p_academic.add_argument("--limit", type=int, default=0, help="Limit raw rows. 0=all unprocessed.")
+    p_academic.add_argument("--source-id", default="", help="Run a single source_id.")
+    p_academic.add_argument("--include-processed", action="store_true", help="Do not skip existing agent_runs.")
+    p_academic.add_argument("--dry-run", action="store_true", help="Run without writing academic tables.")
+    p_academic.add_argument("--max-text-chars", type=int, default=8000)
+    p_academic.add_argument("--model", default="", help="Override AGENT_MODEL.")
+    p_academic.add_argument("--workers", type=int, default=1, help="Concurrent model extraction workers. Max 2500.")
+    p_academic.add_argument("--jsonl-output", default="", help="Optional per-row JSONL output path.")
+    p_academic.set_defaults(func=cmd_academic)
 
     args = parser.parse_args()
     args.func(args)
+
+
+def _load_homepage_server_env() -> None:
+    try:
+        from dotenv import load_dotenv
+    except ImportError:
+        return
+    env_path = Path(__file__).resolve().parents[2] / ".env"
+    if env_path.exists():
+        load_dotenv(env_path, override=False)
+
+
+def _uses_deepseek_model(model: str) -> bool:
+    return model.startswith("deepseek:") or model.startswith("deepseek-")
 
 
 if __name__ == "__main__":

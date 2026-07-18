@@ -260,3 +260,42 @@ docker compose run --rm homepage-crawler \
 docker compose run --rm pipeline \
   uv run python -m crawler.pipline.cli run --source homepage --limit 10
 ```
+
+直接跑学术关系构建器：
+
+```bash
+docker compose run --rm pipeline \
+  uv run python -m crawler.pipline.cli academic --limit 20 --dry-run
+```
+
+这个命令从 `homepage_raw_page` 读取成功抓取的 raw 页面，用 Pydantic AI 做单页结构化抽取，再用确定性规则写入 `academic_institutions`、`academic_people`、`academic_affiliations`、`post_entity_links` 和 `posts`。当前实现不让 Agent 自由搜索或调用工具，也不使用 confidence 阈值做取舍；confidence 只作为观测字段保存。写库前建议先用 `--dry-run --jsonl-output /tmp/academic.jsonl` 看每条 raw 的解析结果。
+
+模型抽取可以并发，写库仍由主进程逐条执行：
+
+```bash
+PYTHONPATH=../.. uv run python -m crawler.pipline.cli academic \
+  --limit 100 \
+  --model deepseek-v4-flash \
+  --workers 20 \
+  --jsonl-output /tmp/academic_limit100.jsonl
+```
+
+`--workers` 上限为 2500；实际跑 deepseek 时建议先用 20-100。机构写入前会按同一大学/父机构下的确定性 identity 做去重：会统一 `lab` / `research_group` 中明显由名称表达的类型，并用中文名、英文名、括号缩写、去括号名做精确匹配，避免 `软件工程组(SEG)` 和 `软件工程组 / Software Engineering Group (SEG)` 被拆成两条。
+
+本机直接跑时，如果 `.env` 里的 `DATABASE_URL` 使用 compose 网络主机名 `db:5432`，需要临时替换成宿主机暴露端口：
+
+```bash
+cd crawler/pipline
+set -a; source ../../.env; set +a
+export DATABASE_URL="${DATABASE_URL/@db:5432\//@127.0.0.1:6542/}"
+PYTHONPATH=../.. uv run python -m crawler.pipline.cli academic \
+  --include-processed \
+  --dry-run \
+  --jsonl-output /tmp/academic.jsonl
+```
+
+确认结果后去掉 `--dry-run` 即可写入目标表：
+
+```bash
+PYTHONPATH=../.. uv run python -m crawler.pipline.cli academic --limit 20
+```

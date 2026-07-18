@@ -67,6 +67,18 @@ class PipelineConfig:
         default_factory=lambda: os.environ.get("MEDIA_ROOT") or _default_media_root()
     )
 
+    # --- Agent tools / CRW ---
+    crw_api_url: str = field(
+        default_factory=lambda: os.environ.get("CRW_API_URL", "http://localhost:3000").rstrip("/")
+    )
+    crw_api_key: str = field(default_factory=lambda: os.environ.get("CRW_API_KEY", ""))
+    crw_timeout: float = field(
+        default_factory=lambda: float(os.environ.get("CRW_TIMEOUT", "30"))
+    )
+
+    # PydanticAI model string, e.g. "openai:gpt-4o-mini".
+    agent_model: str = field(default_factory=lambda: os.environ.get("AGENT_MODEL", ""))
+
     @property
     def media_root_path(self) -> Path:
         return Path(self.media_root)
